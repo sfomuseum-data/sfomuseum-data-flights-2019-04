@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PDX-UA-2055",
     "sfomuseum:flight_number":"UA2055",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554566598,
+    "wof:lastmodified":1559684702,
     "wof:name":"UA2055 (SFO-PDX)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

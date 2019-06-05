@@ -38,6 +38,7 @@
         "IBE7442"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -78,7 +79,7 @@
         1159157635,
         1159284021
     ],
-    "wof:lastmodified":1556553864,
+    "wof:lastmodified":1559684883,
     "wof:name":"IB7442 (SFO-LHR)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "JBU516"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157607,
@@ -74,7 +75,7 @@
         1360700745,
         1159157607
     ],
-    "wof:lastmodified":1556381046,
+    "wof:lastmodified":1559683040,
     "wof:name":"B6516 (SFO-JFK)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-MSY-SFO-CX-7909",
     "sfomuseum:flight_number":"CX7909",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1554739379,
+    "wof:lastmodified":1559685265,
     "wof:name":"CX7909 (MSY-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

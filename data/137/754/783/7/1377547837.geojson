@@ -35,6 +35,7 @@
         "PAL115"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -74,7 +75,7 @@
         1159285661,
         1159157717
     ],
-    "wof:lastmodified":1556381071,
+    "wof:lastmodified":1559683100,
     "wof:name":"PR115 (SFO-MNL)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

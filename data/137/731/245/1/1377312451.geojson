@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-RDD-SFO-UA-5452",
     "sfomuseum:flight_number":"UA5452",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -67,7 +68,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554220963,
+    "wof:lastmodified":1559683795,
     "wof:name":"UA5452 (RDD-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

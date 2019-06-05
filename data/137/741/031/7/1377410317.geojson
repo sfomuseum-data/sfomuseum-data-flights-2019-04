@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-PHL-NZ-9051",
     "sfomuseum:flight_number":"NZ9051",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1555017574,
+    "wof:lastmodified":1559684463,
     "wof:name":"NZ9051 (SFO-PHL)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

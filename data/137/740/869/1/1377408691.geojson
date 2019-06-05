@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-IAD-SFO-ET-1358",
     "sfomuseum:flight_number":"ET1358",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -71,7 +72,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1555017564,
+    "wof:lastmodified":1559683884,
     "wof:name":"ET1358 (IAD-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

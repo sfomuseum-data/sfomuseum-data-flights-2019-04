@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-SBA-SFO-UA-5446",
     "sfomuseum:flight_number":"UA5446",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -67,7 +68,7 @@
         1159285413,
         1159157725
     ],
-    "wof:lastmodified":1554652943,
+    "wof:lastmodified":1559684608,
     "wof:name":"UA5446 (SBA-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

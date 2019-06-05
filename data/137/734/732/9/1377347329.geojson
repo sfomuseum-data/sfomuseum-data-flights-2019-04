@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-MSP-UA-5927",
     "sfomuseum:flight_number":"UA5927",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -69,7 +70,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554566621,
+    "wof:lastmodified":1559684658,
     "wof:name":"UA5927 (SFO-MSP)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

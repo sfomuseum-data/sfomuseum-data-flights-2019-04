@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-DUB-SFO-BA-6147",
     "sfomuseum:flight_number":"BA6147",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -71,7 +72,7 @@
         1159157621,
         1159283495
     ],
-    "wof:lastmodified":1554393747,
+    "wof:lastmodified":1559685147,
     "wof:name":"BA6147 (DUB-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

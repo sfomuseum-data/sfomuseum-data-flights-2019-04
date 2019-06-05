@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-LAS-SFO-CM-1890",
     "sfomuseum:flight_number":"CM1890",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157699,
@@ -71,7 +72,7 @@
         1159157699,
         1159285413
     ],
-    "wof:lastmodified":1554307347,
+    "wof:lastmodified":1559683852,
     "wof:name":"CM1890 (LAS-SFO)",
     "wof:parent_id":1159157699,
     "wof:placetype":"event",

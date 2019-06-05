@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-SEA-SFO-UA-587",
     "sfomuseum:flight_number":"UA587",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -67,7 +68,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1554307349,
+    "wof:lastmodified":1559683799,
     "wof:name":"UA587 (SEA-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

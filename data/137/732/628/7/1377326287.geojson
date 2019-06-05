@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-IAH-SFO-NZ-9213",
     "sfomuseum:flight_number":"NZ9213",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -71,7 +72,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554393748,
+    "wof:lastmodified":1559685103,
     "wof:name":"NZ9213 (IAH-SFO)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

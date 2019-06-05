@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAX-AV-2011",
     "sfomuseum:flight_number":"AV2011",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -73,7 +74,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1554739444,
+    "wof:lastmodified":1559683686,
     "wof:name":"AV2011 (SFO-LAX)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

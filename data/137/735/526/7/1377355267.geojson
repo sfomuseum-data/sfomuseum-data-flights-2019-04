@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-JFK-HA-2352",
     "sfomuseum:flight_number":"HA2352",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157641,
@@ -73,7 +74,7 @@
         1159157641,
         1360700745
     ],
-    "wof:lastmodified":1554653009,
+    "wof:lastmodified":1559685242,
     "wof:name":"HA2352 (SFO-JFK)",
     "wof:parent_id":1159157641,
     "wof:placetype":"event",

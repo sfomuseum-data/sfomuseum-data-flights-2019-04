@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-LAX-KE-7261",
     "sfomuseum:flight_number":"KE7261",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -73,7 +74,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1554825792,
+    "wof:lastmodified":1559683558,
     "wof:name":"KE7261 (SFO-LAX)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

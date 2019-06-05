@@ -36,6 +36,7 @@
         "KAL3101"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -76,7 +77,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1555862590,
+    "wof:lastmodified":1559683994,
     "wof:name":"KE3101 (SEA-SFO)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

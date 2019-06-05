@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-LHR-SFO-SQ-2519",
     "sfomuseum:flight_number":"SQ2519",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -71,7 +72,7 @@
         1159157717,
         1159285483
     ],
-    "wof:lastmodified":1554566553,
+    "wof:lastmodified":1559684701,
     "wof:name":"SQ2519 (LHR-SFO)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

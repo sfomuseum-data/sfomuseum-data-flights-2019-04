@@ -33,6 +33,7 @@
         "SWA1100"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -72,7 +73,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1556726623,
+    "wof:lastmodified":1559685496,
     "wof:name":"WN1100 (DEN-SFO)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

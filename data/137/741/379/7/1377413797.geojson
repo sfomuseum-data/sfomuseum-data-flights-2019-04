@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-HKG-AA-8931",
     "sfomuseum:flight_number":"AA8931",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -73,7 +74,7 @@
         1159157717,
         1159284127
     ],
-    "wof:lastmodified":1555017636,
+    "wof:lastmodified":1559684478,
     "wof:name":"AA8931 (SFO-HKG)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

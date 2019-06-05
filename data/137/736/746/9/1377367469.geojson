@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-TUS-UA-5396",
     "sfomuseum:flight_number":"UA5396",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -69,7 +70,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554825766,
+    "wof:lastmodified":1559683625,
     "wof:name":"UA5396 (SFO-TUS)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

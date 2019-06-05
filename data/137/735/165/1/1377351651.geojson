@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-IAH-SFO-UA-404",
     "sfomuseum:flight_number":"UA404",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -67,7 +68,7 @@
         1159285413,
         1159157665
     ],
-    "wof:lastmodified":1554652951,
+    "wof:lastmodified":1559685256,
     "wof:name":"UA404 (IAH-SFO)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

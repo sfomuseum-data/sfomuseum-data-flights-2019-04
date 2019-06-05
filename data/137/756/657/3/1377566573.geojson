@@ -36,6 +36,7 @@
         "QFA3122"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -76,7 +77,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1556640224,
+    "wof:lastmodified":1559684897,
     "wof:name":"QF3122 (ORD-SFO)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

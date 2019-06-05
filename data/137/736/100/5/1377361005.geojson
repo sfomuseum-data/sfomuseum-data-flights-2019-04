@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-BOI-NH-7334",
     "sfomuseum:flight_number":"NH7334",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -73,7 +74,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1554739412,
+    "wof:lastmodified":1559683658,
     "wof:name":"NH7334 (SFO-BOI)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

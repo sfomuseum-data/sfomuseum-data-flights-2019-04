@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-LAX-NZ-9254",
     "sfomuseum:flight_number":"NZ9254",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -73,7 +74,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1554307416,
+    "wof:lastmodified":1559685118,
     "wof:name":"NZ9254 (SFO-LAX)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

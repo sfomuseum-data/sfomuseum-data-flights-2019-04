@@ -38,6 +38,7 @@
         "ANA7354"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -78,7 +79,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1556726692,
+    "wof:lastmodified":1559685516,
     "wof:name":"NH7354 (SFO-LAX)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

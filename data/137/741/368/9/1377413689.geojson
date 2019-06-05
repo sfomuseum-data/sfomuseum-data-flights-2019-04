@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-CM-1071",
     "sfomuseum:flight_number":"CM1071",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1555017634,
+    "wof:lastmodified":1559684506,
     "wof:name":"CM1071 (SFO-LAX)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ANZ9408"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -78,7 +79,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1556208275,
+    "wof:lastmodified":1559683257,
     "wof:name":"NZ9408 (SFO-SEA)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

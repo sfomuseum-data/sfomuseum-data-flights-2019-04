@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-EWR-UA-577",
     "sfomuseum:flight_number":"UA577",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -69,7 +70,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554221021,
+    "wof:lastmodified":1559683844,
     "wof:name":"UA577 (SFO-EWR)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

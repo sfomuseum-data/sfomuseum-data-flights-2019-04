@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-SAN-SFO-WN-1542",
     "sfomuseum:flight_number":"WN1542",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157813,
@@ -67,7 +68,7 @@
         1159285591,
         1159157813
     ],
-    "wof:lastmodified":1555017559,
+    "wof:lastmodified":1559683886,
     "wof:name":"WN1542 (SAN-SFO)",
     "wof:parent_id":1159157813,
     "wof:placetype":"event",

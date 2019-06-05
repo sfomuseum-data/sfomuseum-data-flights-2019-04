@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-FRA-NZ-9800",
     "sfomuseum:flight_number":"NZ9800",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -73,7 +74,7 @@
         1159157687,
         1159285413
     ],
-    "wof:lastmodified":1554912173,
+    "wof:lastmodified":1559682874,
     "wof:name":"NZ9800 (SFO-FRA)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

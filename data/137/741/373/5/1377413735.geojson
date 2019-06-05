@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-HEL-BA-6061",
     "sfomuseum:flight_number":"BA6061",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157639,
@@ -73,7 +74,7 @@
         1159157639,
         1159284389
     ],
-    "wof:lastmodified":1555017635,
+    "wof:lastmodified":1559684586,
     "wof:name":"BA6061 (SFO-HEL)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",

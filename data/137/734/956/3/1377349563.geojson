@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-YYZ-SFO-UA-1939",
     "sfomuseum:flight_number":"UA1939",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -67,7 +68,7 @@
         1159285413,
         1159157685
     ],
-    "wof:lastmodified":1554652944,
+    "wof:lastmodified":1559684660,
     "wof:name":"UA1939 (YYZ-SFO)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

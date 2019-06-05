@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-LAX-CM-1454",
     "sfomuseum:flight_number":"CM1454",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -73,7 +74,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1554393782,
+    "wof:lastmodified":1559684811,
     "wof:name":"CM1454 (SFO-LAX)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

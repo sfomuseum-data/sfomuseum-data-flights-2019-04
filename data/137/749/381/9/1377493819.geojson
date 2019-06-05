@@ -35,6 +35,7 @@
         "AAL2374"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -74,7 +75,7 @@
         1159283849,
         1159157797
     ],
-    "wof:lastmodified":1555776273,
+    "wof:lastmodified":1559684047,
     "wof:name":"AA2374 (SFO-DFW)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-MUC-SFO-OS-7333",
     "sfomuseum:flight_number":"OS7333",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -71,7 +72,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1554912158,
+    "wof:lastmodified":1559682900,
     "wof:name":"OS7333 (MUC-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-HNL-SFO-LH-9187",
     "sfomuseum:flight_number":"LH9187",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -71,7 +72,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554652948,
+    "wof:lastmodified":1559685236,
     "wof:name":"LH9187 (HNL-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

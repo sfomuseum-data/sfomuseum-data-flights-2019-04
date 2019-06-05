@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-LGA-OS-7718",
     "sfomuseum:flight_number":"OS7718",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -73,7 +74,7 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1554912217,
+    "wof:lastmodified":1559682871,
     "wof:name":"OS7718 (SFO-LGA)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

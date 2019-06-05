@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SMF-SA-7405",
     "sfomuseum:flight_number":"SA7405",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -73,7 +74,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1554393820,
+    "wof:lastmodified":1559684755,
     "wof:name":"SA7405 (SFO-SMF)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

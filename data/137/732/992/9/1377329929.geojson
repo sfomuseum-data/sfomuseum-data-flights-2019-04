@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-DFW-CX-7531",
     "sfomuseum:flight_number":"CX7531",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157795,
@@ -73,7 +74,7 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1554393772,
+    "wof:lastmodified":1559685144,
     "wof:name":"CX7531 (SFO-DFW)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",

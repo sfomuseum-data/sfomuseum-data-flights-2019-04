@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-TUS-LH-9398",
     "sfomuseum:flight_number":"LH9398",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157769,
@@ -73,7 +74,7 @@
         1159157769,
         1159285413
     ],
-    "wof:lastmodified":1554739395,
+    "wof:lastmodified":1559683719,
     "wof:name":"LH9398 (SFO-TUS)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-DEN-AC-5415",
     "sfomuseum:flight_number":"AC5415",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -73,7 +74,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554221024,
+    "wof:lastmodified":1559683808,
     "wof:name":"AC5415 (SFO-DEN)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

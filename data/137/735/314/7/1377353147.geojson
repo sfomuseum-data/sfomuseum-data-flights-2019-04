@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-HNL-UA-1670",
     "sfomuseum:flight_number":"UA1670",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -69,7 +70,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1554652972,
+    "wof:lastmodified":1559685251,
     "wof:name":"UA1670 (SFO-HNL)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

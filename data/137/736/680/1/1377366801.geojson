@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-DEN-SFO-UA-264",
     "sfomuseum:flight_number":"UA264",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -67,7 +68,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554825756,
+    "wof:lastmodified":1559683542,
     "wof:name":"UA264 (DEN-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "UAL1193"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -74,7 +75,7 @@
         1159285413,
         1159157749
     ],
-    "wof:lastmodified":1556553880,
+    "wof:lastmodified":1559684899,
     "wof:name":"UA1193 (SFO-BWI)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "CMP1478"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -78,7 +79,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1556726695,
+    "wof:lastmodified":1559685525,
     "wof:name":"CM1478 (SFO-STS)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

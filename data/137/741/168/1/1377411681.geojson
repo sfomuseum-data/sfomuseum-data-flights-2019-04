@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-YUL-UA-8020",
     "sfomuseum:flight_number":"UA8020",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -73,7 +74,7 @@
         1159157683,
         1159283597
     ],
-    "wof:lastmodified":1555017598,
+    "wof:lastmodified":1559684407,
     "wof:name":"UA8020 (SFO-YUL)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

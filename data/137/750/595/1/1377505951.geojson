@@ -35,6 +35,7 @@
         "JBU834"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1360700745
     ],
-    "wof:lastmodified":1555949026,
+    "wof:lastmodified":1559685312,
     "wof:name":"B6834 (SFO-BOS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

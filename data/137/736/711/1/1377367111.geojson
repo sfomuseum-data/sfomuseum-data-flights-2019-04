@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PDX-AS-1325",
     "sfomuseum:flight_number":"AS1325",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157753,
@@ -69,7 +70,7 @@
         1159283813,
         1159157753
     ],
-    "wof:lastmodified":1554825759,
+    "wof:lastmodified":1559683770,
     "wof:name":"AS1325 (SFO-PDX)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",

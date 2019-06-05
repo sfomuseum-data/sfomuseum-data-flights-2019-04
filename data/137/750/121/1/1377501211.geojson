@@ -35,6 +35,7 @@
         "DAL2700"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -74,7 +75,7 @@
         1159284261,
         1159157661
     ],
-    "wof:lastmodified":1555862656,
+    "wof:lastmodified":1559685354,
     "wof:name":"DL2700 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

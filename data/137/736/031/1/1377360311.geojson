@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-MIA-LA-6760",
     "sfomuseum:flight_number":"LA6760",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -73,7 +74,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554739400,
+    "wof:lastmodified":1559683568,
     "wof:name":"LA6760 (SFO-MIA)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

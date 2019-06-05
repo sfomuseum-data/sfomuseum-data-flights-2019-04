@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-YVR-NH-7394",
     "sfomuseum:flight_number":"NH7394",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -73,7 +74,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1554912223,
+    "wof:lastmodified":1559682981,
     "wof:name":"NH7394 (SFO-YVR)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

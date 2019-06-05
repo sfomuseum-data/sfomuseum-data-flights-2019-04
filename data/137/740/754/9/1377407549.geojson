@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-STL-SFO-WN-278",
     "sfomuseum:flight_number":"WN278",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -67,7 +68,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1555017560,
+    "wof:lastmodified":1559683878,
     "wof:name":"WN278 (STL-SFO)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

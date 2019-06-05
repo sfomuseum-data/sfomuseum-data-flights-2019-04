@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-BUR-AC-4394",
     "sfomuseum:flight_number":"AC4394",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -73,7 +74,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1554480230,
+    "wof:lastmodified":1559684685,
     "wof:name":"AC4394 (SFO-BUR)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

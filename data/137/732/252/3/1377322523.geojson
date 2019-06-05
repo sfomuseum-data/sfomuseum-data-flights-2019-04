@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-OGG-SQ-1441",
     "sfomuseum:flight_number":"SQ1441",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -73,7 +74,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1554307378,
+    "wof:lastmodified":1559685186,
     "wof:name":"SQ1441 (SFO-OGG)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
         "CPA872"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -72,7 +73,7 @@
         1159284127,
         1159157717
     ],
-    "wof:lastmodified":1556121805,
+    "wof:lastmodified":1559685078,
     "wof:name":"CX872 (HKG-SFO)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

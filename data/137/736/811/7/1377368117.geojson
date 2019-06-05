@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ORD-QF-3127",
     "sfomuseum:flight_number":"QF3127",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157795,
@@ -73,7 +74,7 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1554825777,
+    "wof:lastmodified":1559683523,
     "wof:name":"QF3127 (SFO-ORD)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",

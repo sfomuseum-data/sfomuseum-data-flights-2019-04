@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-MCO-AS-1300",
     "sfomuseum:flight_number":"AS1300",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554652990,
+    "wof:lastmodified":1559685221,
     "wof:name":"AS1300 (SFO-MCO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

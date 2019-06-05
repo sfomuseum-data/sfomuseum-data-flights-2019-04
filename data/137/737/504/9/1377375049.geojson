@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-FRA-LH-455",
     "sfomuseum:flight_number":"LH455",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159284711
     ],
-    "wof:lastmodified":1554912173,
+    "wof:lastmodified":1559682877,
     "wof:name":"LH455 (SFO-FRA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

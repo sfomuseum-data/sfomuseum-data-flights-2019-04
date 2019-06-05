@@ -38,6 +38,7 @@
         "ANZ9619"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -78,7 +79,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1556208238,
+    "wof:lastmodified":1559683426,
     "wof:name":"NZ9619 (SFO-SBA)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "KLM4840"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157823,
@@ -78,7 +79,7 @@
         1159157823,
         1159285483
     ],
-    "wof:lastmodified":1556208231,
+    "wof:lastmodified":1559683253,
     "wof:name":"KL4840 (SFO-LHR)",
     "wof:parent_id":1159157823,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "KAL6115"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -76,7 +77,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1556035409,
+    "wof:lastmodified":1559685036,
     "wof:name":"KE6115 (SEA-SFO)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

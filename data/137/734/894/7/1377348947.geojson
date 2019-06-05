@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-MCO-SFO-UA-380",
     "sfomuseum:flight_number":"UA380",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -67,7 +68,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1554652942,
+    "wof:lastmodified":1559684635,
     "wof:name":"UA380 (MCO-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

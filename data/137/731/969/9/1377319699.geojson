@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-TUS-SFO-LH-7913",
     "sfomuseum:flight_number":"LH7913",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -71,7 +72,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1554307352,
+    "wof:lastmodified":1559683835,
     "wof:name":"LH7913 (TUS-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-BOI-SFO-UA-5358",
     "sfomuseum:flight_number":"UA5358",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -67,7 +68,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554739374,
+    "wof:lastmodified":1559685253,
     "wof:name":"UA5358 (BOI-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

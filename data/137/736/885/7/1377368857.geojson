@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-LAX-AS-3444",
     "sfomuseum:flight_number":"AS3444",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -69,7 +70,7 @@
         1159283813,
         1159157701
     ],
-    "wof:lastmodified":1554825790,
+    "wof:lastmodified":1559683704,
     "wof:name":"AS3444 (SFO-LAX)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

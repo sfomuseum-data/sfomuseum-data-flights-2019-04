@@ -38,6 +38,7 @@
         "AVA6982"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159283957,
         1159283597
     ],
-    "wof:lastmodified":1555171441,
+    "wof:lastmodified":1559685748,
     "wof:name":"AV6982 (SFO-YVR)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

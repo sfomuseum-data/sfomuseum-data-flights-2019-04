@@ -38,6 +38,7 @@
         "ANZ9390"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -78,7 +79,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1556035427,
+    "wof:lastmodified":1559685022,
     "wof:name":"NZ9390 (SFO-PIT)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

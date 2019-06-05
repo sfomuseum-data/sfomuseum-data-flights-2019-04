@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-LAX-WN-1073",
     "sfomuseum:flight_number":"WN1073",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -69,7 +70,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1554825760,
+    "wof:lastmodified":1559683609,
     "wof:name":"WN1073 (SFO-LAX)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

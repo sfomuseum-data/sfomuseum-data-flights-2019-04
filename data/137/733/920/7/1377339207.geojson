@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-FAT-AC-3849",
     "sfomuseum:flight_number":"AC3849",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -73,7 +74,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1554480212,
+    "wof:lastmodified":1559684832,
     "wof:name":"AC3849 (SFO-FAT)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

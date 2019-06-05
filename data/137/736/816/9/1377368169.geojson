@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-JFK-QF-3288",
     "sfomuseum:flight_number":"QF3288",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -73,7 +74,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554825778,
+    "wof:lastmodified":1559683519,
     "wof:name":"QF3288 (SFO-JFK)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

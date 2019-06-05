@@ -36,6 +36,7 @@
         "UAL7950"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -76,7 +77,7 @@
         1159157677,
         1159283875
     ],
-    "wof:lastmodified":1555862587,
+    "wof:lastmodified":1559683976,
     "wof:name":"UA7950 (NRT-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

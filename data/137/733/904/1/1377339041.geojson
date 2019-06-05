@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-RDU-CX-7906",
     "sfomuseum:flight_number":"CX7906",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1554480209,
+    "wof:lastmodified":1559684791,
     "wof:name":"CX7906 (SFO-RDU)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

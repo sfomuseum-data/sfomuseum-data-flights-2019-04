@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-TUS-SFO-NH-7393",
     "sfomuseum:flight_number":"NH7393",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -71,7 +72,7 @@
         1159157837,
         1159285413
     ],
-    "wof:lastmodified":1554652943,
+    "wof:lastmodified":1559684610,
     "wof:name":"NH7393 (TUS-SFO)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

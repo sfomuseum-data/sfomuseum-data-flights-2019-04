@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SIN-UA-29",
     "sfomuseum:flight_number":"UA29",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -69,7 +70,7 @@
         1159285413,
         1159157779
     ],
-    "wof:lastmodified":1554393801,
+    "wof:lastmodified":1559684795,
     "wof:name":"UA29 (SFO-SIN)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

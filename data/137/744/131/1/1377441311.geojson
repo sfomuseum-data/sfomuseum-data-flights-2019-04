@@ -36,6 +36,7 @@
         "CMP2506"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -76,7 +77,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1555344195,
+    "wof:lastmodified":1559685620,
     "wof:name":"CM2506 (SNA-SFO)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

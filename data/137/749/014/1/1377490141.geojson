@@ -36,6 +36,7 @@
         "DSM6453"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -76,7 +77,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1555776210,
+    "wof:lastmodified":1559683956,
     "wof:name":"4M6453 (MIA-SFO)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

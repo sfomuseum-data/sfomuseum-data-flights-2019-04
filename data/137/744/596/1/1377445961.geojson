@@ -38,6 +38,7 @@
         "DLH8880"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -78,7 +79,7 @@
         1159157725,
         1159285413
     ],
-    "wof:lastmodified":1555344265,
+    "wof:lastmodified":1559685630,
     "wof:name":"LH8880 (SFO-MRY)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

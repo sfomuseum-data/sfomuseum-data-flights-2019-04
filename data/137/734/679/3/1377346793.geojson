@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-MIA-QF-3109",
     "sfomuseum:flight_number":"QF3109",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157795,
@@ -73,7 +74,7 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1554566611,
+    "wof:lastmodified":1559684683,
     "wof:name":"QF3109 (SFO-MIA)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",

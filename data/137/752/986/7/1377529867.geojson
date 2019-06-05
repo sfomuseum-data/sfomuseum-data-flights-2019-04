@@ -38,6 +38,7 @@
         "AMX4293"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -78,7 +79,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1556208225,
+    "wof:lastmodified":1559682754,
     "wof:name":"AM4293 (SFO-JFK)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

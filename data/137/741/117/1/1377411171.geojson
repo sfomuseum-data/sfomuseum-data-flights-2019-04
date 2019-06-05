@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-YYZ-NZ-4740",
     "sfomuseum:flight_number":"NZ4740",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157775,
@@ -73,7 +74,7 @@
         1159157775,
         1159283597
     ],
-    "wof:lastmodified":1555017589,
+    "wof:lastmodified":1559684501,
     "wof:name":"NZ4740 (SFO-YYZ)",
     "wof:parent_id":1159157775,
     "wof:placetype":"event",

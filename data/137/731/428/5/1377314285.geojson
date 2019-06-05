@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LHR-UA-901",
     "sfomuseum:flight_number":"UA901",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -69,7 +70,7 @@
         1159285413,
         1159157683
     ],
-    "wof:lastmodified":1554220975,
+    "wof:lastmodified":1559683840,
     "wof:name":"UA901 (SFO-LHR)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

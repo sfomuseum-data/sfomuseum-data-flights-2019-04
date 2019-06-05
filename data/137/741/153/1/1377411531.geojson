@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-PHX-AC-4465",
     "sfomuseum:flight_number":"AC4465",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -73,7 +74,7 @@
         1159157647,
         1159285413
     ],
-    "wof:lastmodified":1555017595,
+    "wof:lastmodified":1559684501,
     "wof:name":"AC4465 (SFO-PHX)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

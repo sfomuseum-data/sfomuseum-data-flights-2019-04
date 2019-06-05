@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SLC-DL-2479",
     "sfomuseum:flight_number":"DL2479",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -69,7 +70,7 @@
         1159284261,
         1159157857
     ],
-    "wof:lastmodified":1554652970,
+    "wof:lastmodified":1559685256,
     "wof:name":"DL2479 (SFO-SLC)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

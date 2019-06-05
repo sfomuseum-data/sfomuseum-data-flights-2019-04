@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-IAD-UA-2330",
     "sfomuseum:flight_number":"UA2330",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -69,7 +70,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1554480210,
+    "wof:lastmodified":1559684774,
     "wof:name":"UA2330 (SFO-IAD)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

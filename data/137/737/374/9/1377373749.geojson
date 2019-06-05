@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-DFW-SFO-BA-5743",
     "sfomuseum:flight_number":"BA5743",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -71,7 +72,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554912161,
+    "wof:lastmodified":1559682989,
     "wof:name":"BA5743 (DFW-SFO)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-MSP-SFO-KL-5406",
     "sfomuseum:flight_number":"KL5406",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -71,7 +72,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1554307350,
+    "wof:lastmodified":1559683857,
     "wof:name":"KL5406 (MSP-SFO)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "UAE3110"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -78,7 +79,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1555949065,
+    "wof:lastmodified":1559685376,
     "wof:name":"EK3110 (SFO-SNA)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

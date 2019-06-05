@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-MFR-NZ-9525",
     "sfomuseum:flight_number":"NZ9525",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -73,7 +74,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554912202,
+    "wof:lastmodified":1559682904,
     "wof:name":"NZ9525 (SFO-MFR)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

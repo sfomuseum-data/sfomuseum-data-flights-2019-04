@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-EUG-UA-5832",
     "sfomuseum:flight_number":"UA5832",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -69,7 +70,7 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1554480171,
+    "wof:lastmodified":1559684761,
     "wof:name":"UA5832 (SFO-EUG)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

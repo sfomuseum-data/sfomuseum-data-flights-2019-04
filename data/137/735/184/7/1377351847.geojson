@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-BOS-SFO-NZ-9023",
     "sfomuseum:flight_number":"NZ9023",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -71,7 +72,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554652951,
+    "wof:lastmodified":1559685294,
     "wof:name":"NZ9023 (BOS-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

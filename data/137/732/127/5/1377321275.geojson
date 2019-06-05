@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-SNA-SFO-UA-1077",
     "sfomuseum:flight_number":"UA1077",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -67,7 +68,7 @@
         1159285413,
         1159157741
     ],
-    "wof:lastmodified":1554307357,
+    "wof:lastmodified":1559685133,
     "wof:name":"UA1077 (SNA-SFO)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

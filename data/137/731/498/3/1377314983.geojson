@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-PHL-NZ-9360",
     "sfomuseum:flight_number":"NZ9360",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -73,7 +74,7 @@
         1159157723,
         1159285413
     ],
-    "wof:lastmodified":1554220988,
+    "wof:lastmodified":1559683813,
     "wof:name":"NZ9360 (SFO-PHL)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

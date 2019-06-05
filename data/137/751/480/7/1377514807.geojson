@@ -35,6 +35,7 @@
         "ASA3326"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1556035451,
+    "wof:lastmodified":1559685057,
     "wof:name":"AS3326 (SFO-PSP)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

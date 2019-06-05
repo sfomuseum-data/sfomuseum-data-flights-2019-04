@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LAX-WN-5044",
     "sfomuseum:flight_number":"WN5044",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -69,7 +70,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1554652983,
+    "wof:lastmodified":1559685247,
     "wof:name":"WN5044 (SFO-LAX)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

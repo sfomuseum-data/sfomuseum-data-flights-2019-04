@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-LAX-SFO-WN-2506",
     "sfomuseum:flight_number":"WN2506",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157813,
@@ -67,7 +68,7 @@
         1159285591,
         1159157813
     ],
-    "wof:lastmodified":1554393756,
+    "wof:lastmodified":1559685104,
     "wof:name":"WN2506 (LAX-SFO)",
     "wof:parent_id":1159157813,
     "wof:placetype":"event",

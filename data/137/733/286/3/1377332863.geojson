@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-JFK-SFO-AS-623",
     "sfomuseum:flight_number":"AS623",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -67,7 +68,7 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1554480153,
+    "wof:lastmodified":1559684753,
     "wof:name":"AS623 (JFK-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

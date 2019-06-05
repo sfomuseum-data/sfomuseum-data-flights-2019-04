@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-HKG-SFO-SQ-2",
     "sfomuseum:flight_number":"SQ2",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -67,7 +68,7 @@
         1159285163,
         1159157621
     ],
-    "wof:lastmodified":1554307348,
+    "wof:lastmodified":1559683862,
     "wof:name":"SQ2 (HKG-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

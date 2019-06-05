@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PVG-UA-857",
     "sfomuseum:flight_number":"UA857",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -69,7 +70,7 @@
         1159285413,
         1159157683
     ],
-    "wof:lastmodified":1554739427,
+    "wof:lastmodified":1559683758,
     "wof:name":"UA857 (SFO-PVG)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

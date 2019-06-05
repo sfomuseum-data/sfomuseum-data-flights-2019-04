@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SEA-KL-7351",
     "sfomuseum:flight_number":"KL7351",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -73,7 +74,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1554739418,
+    "wof:lastmodified":1559683491,
     "wof:name":"KL7351 (SFO-SEA)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

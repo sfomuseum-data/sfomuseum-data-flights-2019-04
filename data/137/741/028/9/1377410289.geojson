@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-YVR-NZ-4612",
     "sfomuseum:flight_number":"NZ4612",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -73,7 +74,7 @@
         1159157623,
         1159283597
     ],
-    "wof:lastmodified":1555017573,
+    "wof:lastmodified":1559684546,
     "wof:name":"NZ4612 (SFO-YVR)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

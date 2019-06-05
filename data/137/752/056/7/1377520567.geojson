@@ -38,6 +38,7 @@
         "SIA1394"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159285163,
         1159283813
     ],
-    "wof:lastmodified":1556121817,
+    "wof:lastmodified":1559682741,
     "wof:name":"SQ1394 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

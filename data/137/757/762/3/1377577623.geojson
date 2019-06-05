@@ -38,6 +38,7 @@
         "BEL7253"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -78,7 +79,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1556726668,
+    "wof:lastmodified":1559685420,
     "wof:name":"SN7253 (SFO-MUC)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SNA-AC-5848",
     "sfomuseum:flight_number":"AC5848",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -73,7 +74,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1554307419,
+    "wof:lastmodified":1559685101,
     "wof:name":"AC5848 (SFO-SNA)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

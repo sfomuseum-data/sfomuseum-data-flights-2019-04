@@ -38,6 +38,7 @@
         "ANZ9106"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -78,7 +79,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1555776274,
+    "wof:lastmodified":1559683993,
     "wof:name":"NZ9106 (SFO-EWR)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

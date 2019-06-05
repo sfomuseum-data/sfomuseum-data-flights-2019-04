@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-OTH-UA-5685",
     "sfomuseum:flight_number":"UA5685",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -69,7 +70,7 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1554221032,
+    "wof:lastmodified":1559683789,
     "wof:name":"UA5685 (SFO-OTH)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

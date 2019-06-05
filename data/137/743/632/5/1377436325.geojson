@@ -38,6 +38,7 @@
         "AMX3295"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -78,7 +79,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1555257802,
+    "wof:lastmodified":1559685760,
     "wof:name":"AM3295 (SFO-SEA)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

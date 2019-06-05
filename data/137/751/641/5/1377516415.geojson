@@ -33,6 +33,7 @@
         "UAL2235"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -72,7 +73,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1556121795,
+    "wof:lastmodified":1559685057,
     "wof:name":"UA2235 (SAN-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

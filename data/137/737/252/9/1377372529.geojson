@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-RNO-SFO-UA-1582",
     "sfomuseum:flight_number":"UA1582",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -67,7 +68,7 @@
         1159285413,
         1159157767
     ],
-    "wof:lastmodified":1554912157,
+    "wof:lastmodified":1559682979,
     "wof:name":"UA1582 (RNO-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

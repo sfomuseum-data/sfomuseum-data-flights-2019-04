@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-OGG-SFO-UA-1722",
     "sfomuseum:flight_number":"UA1722",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -67,7 +68,7 @@
         1159285413,
         1159157821
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682989,
     "wof:name":"UA1722 (OGG-SFO)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

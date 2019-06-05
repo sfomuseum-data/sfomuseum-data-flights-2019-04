@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-PSP-UA-2215",
     "sfomuseum:flight_number":"UA2215",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -69,7 +70,7 @@
         1159285413,
         1159157741
     ],
-    "wof:lastmodified":1554652994,
+    "wof:lastmodified":1559685233,
     "wof:name":"UA2215 (SFO-PSP)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

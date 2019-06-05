@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SEA-FI-7658",
     "sfomuseum:flight_number":"FI7658",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284513,
         1159283813
     ],
-    "wof:lastmodified":1554393771,
+    "wof:lastmodified":1559685137,
     "wof:name":"FI7658 (SFO-SEA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

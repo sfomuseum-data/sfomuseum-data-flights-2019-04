@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SJD-UA-1194",
     "sfomuseum:flight_number":"UA1194",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -69,7 +70,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1554652957,
+    "wof:lastmodified":1559685216,
     "wof:name":"UA1194 (SFO-SJD)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

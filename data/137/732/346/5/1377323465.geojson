@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-LGB-JL-5886",
     "sfomuseum:flight_number":"JL5886",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -73,7 +74,7 @@
         1159157605,
         1360700745
     ],
-    "wof:lastmodified":1554307395,
+    "wof:lastmodified":1559685127,
     "wof:name":"JL5886 (SFO-LGB)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

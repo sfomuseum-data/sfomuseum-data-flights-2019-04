@@ -38,6 +38,7 @@
         "ANA7011"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -78,7 +79,7 @@
         1159157685,
         1159285413
     ],
-    "wof:lastmodified":1555344256,
+    "wof:lastmodified":1559685684,
     "wof:name":"NH7011 (SFO-HND)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

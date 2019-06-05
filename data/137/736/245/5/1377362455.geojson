@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SAL-BR-3115",
     "sfomuseum:flight_number":"BR3115",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -73,7 +74,7 @@
         1159157631,
         1159283957
     ],
-    "wof:lastmodified":1554739438,
+    "wof:lastmodified":1559683533,
     "wof:name":"BR3115 (SFO-SAL)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

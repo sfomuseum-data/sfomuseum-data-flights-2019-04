@@ -38,6 +38,7 @@
         "DLH8908"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -78,7 +79,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1555949072,
+    "wof:lastmodified":1559685334,
     "wof:name":"LH8908 (SFO-RNO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

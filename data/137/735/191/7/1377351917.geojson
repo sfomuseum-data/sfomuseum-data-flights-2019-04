@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-DFW-SFO-QF-4351",
     "sfomuseum:flight_number":"QF4351",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157801,
@@ -71,7 +72,7 @@
         1159157801,
         1159283849
     ],
-    "wof:lastmodified":1554652952,
+    "wof:lastmodified":1559685256,
     "wof:name":"QF4351 (DFW-SFO)",
     "wof:parent_id":1159157801,
     "wof:placetype":"event",

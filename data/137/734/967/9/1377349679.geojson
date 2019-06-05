@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-PEK-SFO-CA-785",
     "sfomuseum:flight_number":"CA785",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -67,7 +68,7 @@
         1159283605,
         1159157687
     ],
-    "wof:lastmodified":1554652945,
+    "wof:lastmodified":1559684658,
     "wof:name":"CA785 (PEK-SFO)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

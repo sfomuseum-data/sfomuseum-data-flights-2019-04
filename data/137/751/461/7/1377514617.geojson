@@ -35,6 +35,7 @@
         "DAL2494"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157747,
@@ -74,7 +75,7 @@
         1159284261,
         1159157747
     ],
-    "wof:lastmodified":1556035448,
+    "wof:lastmodified":1559685066,
     "wof:name":"DL2494 (SFO-SLC)",
     "wof:parent_id":1159157747,
     "wof:placetype":"event",

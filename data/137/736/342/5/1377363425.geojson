@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-IAD-SFO-UA-1763",
     "sfomuseum:flight_number":"UA1763",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -67,7 +68,7 @@
         1159285413,
         1159157785
     ],
-    "wof:lastmodified":1554825745,
+    "wof:lastmodified":1559683756,
     "wof:name":"UA1763 (IAD-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

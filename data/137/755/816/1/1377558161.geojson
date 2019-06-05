@@ -36,6 +36,7 @@
         "DLH9047"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -76,7 +77,7 @@
         1159157723,
         1159285413
     ],
-    "wof:lastmodified":1556553821,
+    "wof:lastmodified":1559682773,
     "wof:name":"LH9047 (FAT-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

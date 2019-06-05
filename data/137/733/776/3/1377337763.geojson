@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PHX-UA-2342",
     "sfomuseum:flight_number":"UA2342",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -69,7 +70,7 @@
         1159285413,
         1159157749
     ],
-    "wof:lastmodified":1554480186,
+    "wof:lastmodified":1559684776,
     "wof:name":"UA2342 (SFO-PHX)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

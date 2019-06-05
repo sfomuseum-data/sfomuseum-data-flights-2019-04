@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-SLC-VS-4543",
     "sfomuseum:flight_number":"VS4543",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -73,7 +74,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1555017632,
+    "wof:lastmodified":1559684502,
     "wof:name":"VS4543 (SFO-SLC)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

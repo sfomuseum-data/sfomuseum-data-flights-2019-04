@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-EUG-SFO-UA-5320",
     "sfomuseum:flight_number":"UA5320",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -67,7 +68,7 @@
         1159285413,
         1159157693
     ],
-    "wof:lastmodified":1554739380,
+    "wof:lastmodified":1559685227,
     "wof:name":"UA5320 (EUG-SFO)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

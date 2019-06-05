@@ -38,6 +38,7 @@
         "CPA7914"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -78,7 +79,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1556294657,
+    "wof:lastmodified":1559683229,
     "wof:name":"CX7914 (SFO-SEA)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

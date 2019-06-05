@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-PHL-SFO-BA-6703",
     "sfomuseum:flight_number":"BA6703",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -71,7 +72,7 @@
         1159157755,
         1159283849
     ],
-    "wof:lastmodified":1554307347,
+    "wof:lastmodified":1559683844,
     "wof:name":"BA6703 (PHL-SFO)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

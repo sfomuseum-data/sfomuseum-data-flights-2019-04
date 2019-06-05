@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-MUC-UA-8882",
     "sfomuseum:flight_number":"UA8882",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -73,7 +74,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1554221026,
+    "wof:lastmodified":1559683788,
     "wof:name":"UA8882 (SFO-MUC)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

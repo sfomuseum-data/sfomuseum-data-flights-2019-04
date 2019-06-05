@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-YVR-AC-567",
     "sfomuseum:flight_number":"AC567",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157775,
@@ -69,7 +70,7 @@
         1159283597,
         1159157775
     ],
-    "wof:lastmodified":1554393768,
+    "wof:lastmodified":1559685129,
     "wof:name":"AC567 (SFO-YVR)",
     "wof:parent_id":1159157775,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-CLE-SFO-UA-413",
     "sfomuseum:flight_number":"UA413",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -67,7 +68,7 @@
         1159285413,
         1159157647
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685157,
     "wof:name":"UA413 (CLE-SFO)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

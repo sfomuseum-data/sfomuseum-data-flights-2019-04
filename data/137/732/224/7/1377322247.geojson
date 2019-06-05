@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SEA-UA-1003",
     "sfomuseum:flight_number":"UA1003",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -69,7 +70,7 @@
         1159285413,
         1159157777
     ],
-    "wof:lastmodified":1554307373,
+    "wof:lastmodified":1559685163,
     "wof:name":"UA1003 (SFO-SEA)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

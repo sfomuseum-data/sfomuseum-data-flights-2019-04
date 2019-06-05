@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-ATL-VS-4479",
     "sfomuseum:flight_number":"VS4479",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -73,7 +74,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1554393783,
+    "wof:lastmodified":1559684759,
     "wof:name":"VS4479 (SFO-ATL)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

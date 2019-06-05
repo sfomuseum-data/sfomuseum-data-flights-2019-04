@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-YUL-SFO-UA-8041",
     "sfomuseum:flight_number":"UA8041",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -71,7 +72,7 @@
         1159157683,
         1159283597
     ],
-    "wof:lastmodified":1554912159,
+    "wof:lastmodified":1559682910,
     "wof:name":"UA8041 (YUL-SFO)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

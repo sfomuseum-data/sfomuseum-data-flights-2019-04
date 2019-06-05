@@ -33,6 +33,7 @@
         "UAL927"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -72,7 +73,7 @@
         1159285413,
         1159157779
     ],
-    "wof:lastmodified":1556121800,
+    "wof:lastmodified":1559685073,
     "wof:name":"UA927 (FRA-SFO)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

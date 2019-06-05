@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-NRT-UA-837",
     "sfomuseum:flight_number":"UA837",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -69,7 +70,7 @@
         1159285413,
         1159157687
     ],
-    "wof:lastmodified":1554566590,
+    "wof:lastmodified":1559684657,
     "wof:name":"UA837 (SFO-NRT)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

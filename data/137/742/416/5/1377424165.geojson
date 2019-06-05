@@ -33,6 +33,7 @@
         "ASA1219"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102521851,
         1159283813
     ],
-    "wof:lastmodified":1555171374,
+    "wof:lastmodified":1559685899,
     "wof:name":"AS1219 (AUS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "ANZ9204"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -76,7 +77,7 @@
         1159157669,
         1159285413
     ],
-    "wof:lastmodified":1555344191,
+    "wof:lastmodified":1559685582,
     "wof:name":"NZ9204 (FAT-SFO)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

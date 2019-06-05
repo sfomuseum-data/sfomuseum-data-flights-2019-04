@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-SLC-AC-4162",
     "sfomuseum:flight_number":"AC4162",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -73,7 +74,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1554825797,
+    "wof:lastmodified":1559683617,
     "wof:name":"AC4162 (SFO-SLC)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

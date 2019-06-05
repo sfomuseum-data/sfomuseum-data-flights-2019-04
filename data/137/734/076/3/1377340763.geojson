@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-KOA-SFO-AS-759",
     "sfomuseum:flight_number":"AS759",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -67,7 +68,7 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1554566553,
+    "wof:lastmodified":1559684625,
     "wof:name":"AS759 (KOA-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

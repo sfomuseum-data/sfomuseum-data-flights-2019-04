@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PHL-AS-1138",
     "sfomuseum:flight_number":"AS1138",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554825786,
+    "wof:lastmodified":1559683573,
     "wof:name":"AS1138 (SFO-PHL)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

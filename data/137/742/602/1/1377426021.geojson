@@ -36,6 +36,7 @@
         "ANZ9803"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157815,
@@ -76,7 +77,7 @@
         1159157815,
         1159285413
     ],
-    "wof:lastmodified":1555171380,
+    "wof:lastmodified":1559685856,
     "wof:name":"NZ9803 (FRA-SFO)",
     "wof:parent_id":1159157815,
     "wof:placetype":"event",

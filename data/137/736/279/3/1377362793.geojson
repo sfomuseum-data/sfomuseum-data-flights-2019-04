@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PDX-CA-7329",
     "sfomuseum:flight_number":"CA7329",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -73,7 +74,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1554739444,
+    "wof:lastmodified":1559683691,
     "wof:name":"CA7329 (SFO-PDX)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

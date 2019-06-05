@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-JFK-SFO-AA-2215",
     "sfomuseum:flight_number":"AA2215",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -67,7 +68,7 @@
         1159283849,
         1159157791
     ],
-    "wof:lastmodified":1554480160,
+    "wof:lastmodified":1559684795,
     "wof:name":"AA2215 (JFK-SFO)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-MCI-AS-3361",
     "sfomuseum:flight_number":"AS3361",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -69,7 +70,7 @@
         1159283813,
         1159157829
     ],
-    "wof:lastmodified":1554912222,
+    "wof:lastmodified":1559682984,
     "wof:name":"AS3361 (SFO-MCI)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

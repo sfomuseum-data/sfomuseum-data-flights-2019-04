@@ -38,6 +38,7 @@
         "SIA1018"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -78,7 +79,7 @@
         1159157827,
         1159283597
     ],
-    "wof:lastmodified":1556726657,
+    "wof:lastmodified":1559685447,
     "wof:name":"SQ1018 (SFO-YYZ)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

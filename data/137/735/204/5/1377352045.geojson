@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-PEK-CA-7206",
     "sfomuseum:flight_number":"CA7206",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -73,7 +74,7 @@
         1159157677,
         1159285413
     ],
-    "wof:lastmodified":1554652953,
+    "wof:lastmodified":1559685232,
     "wof:name":"CA7206 (SFO-PEK)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

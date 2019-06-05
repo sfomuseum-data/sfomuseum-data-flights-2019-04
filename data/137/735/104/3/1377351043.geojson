@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-IAD-SFO-AS-1071",
     "sfomuseum:flight_number":"AS1071",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -67,7 +68,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1554652949,
+    "wof:lastmodified":1559685204,
     "wof:name":"AS1071 (IAD-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

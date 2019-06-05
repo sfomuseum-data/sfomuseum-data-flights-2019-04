@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SEA-NZ-9409",
     "sfomuseum:flight_number":"NZ9409",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -73,7 +74,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554221017,
+    "wof:lastmodified":1559683814,
     "wof:name":"NZ9409 (SFO-SEA)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

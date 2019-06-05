@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SBA-UA-5325",
     "sfomuseum:flight_number":"UA5325",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -69,7 +70,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1554307424,
+    "wof:lastmodified":1559685151,
     "wof:name":"UA5325 (SFO-SBA)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

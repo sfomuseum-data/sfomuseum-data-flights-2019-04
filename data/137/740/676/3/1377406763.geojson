@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-XNA-SFO-UA-5550",
     "sfomuseum:flight_number":"UA5550",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -67,7 +68,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1555017557,
+    "wof:lastmodified":1559683892,
     "wof:name":"UA5550 (XNA-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

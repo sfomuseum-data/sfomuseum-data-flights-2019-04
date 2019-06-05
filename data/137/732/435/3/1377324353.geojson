@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-BOS-SQ-1350",
     "sfomuseum:flight_number":"SQ1350",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285163,
         1159283813
     ],
-    "wof:lastmodified":1554307411,
+    "wof:lastmodified":1559685185,
     "wof:name":"SQ1350 (SFO-BOS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

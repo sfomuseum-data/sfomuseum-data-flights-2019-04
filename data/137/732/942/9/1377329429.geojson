@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-LAS-AS-712",
     "sfomuseum:flight_number":"AS712",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -69,7 +70,7 @@
         1159283813,
         1159157829
     ],
-    "wof:lastmodified":1554393763,
+    "wof:lastmodified":1559685194,
     "wof:name":"AS712 (SFO-LAS)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

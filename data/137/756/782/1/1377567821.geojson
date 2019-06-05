@@ -33,6 +33,7 @@
         "AIJ8820"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -72,7 +73,7 @@
         1159286485,
         1159157633
     ],
-    "wof:lastmodified":1556640228,
+    "wof:lastmodified":1559684906,
     "wof:name":"4O8820 (GDL-SFO)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

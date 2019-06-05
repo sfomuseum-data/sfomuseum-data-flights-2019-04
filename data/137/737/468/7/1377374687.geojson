@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-BUR-AC-5514",
     "sfomuseum:flight_number":"AC5514",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -73,7 +74,7 @@
         1159157837,
         1159285413
     ],
-    "wof:lastmodified":1554912166,
+    "wof:lastmodified":1559682970,
     "wof:name":"AC5514 (SFO-BUR)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

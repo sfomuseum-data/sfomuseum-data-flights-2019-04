@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-BOS-SFO-FJ-5863",
     "sfomuseum:flight_number":"FJ5863",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159283717,
         1159283813
     ],
-    "wof:lastmodified":1555017569,
+    "wof:lastmodified":1559684551,
     "wof:name":"FJ5863 (BOS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

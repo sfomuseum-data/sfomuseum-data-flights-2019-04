@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-PDX-SFO-AS-391",
     "sfomuseum:flight_number":"AS391",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157833,
@@ -67,7 +68,7 @@
         1159283813,
         1159157833
     ],
-    "wof:lastmodified":1554393746,
+    "wof:lastmodified":1559685091,
     "wof:name":"AS391 (PDX-SFO)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",

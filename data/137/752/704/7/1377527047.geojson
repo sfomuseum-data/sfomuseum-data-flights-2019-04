@@ -36,6 +36,7 @@
         "DLH9297"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -76,7 +77,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1556208215,
+    "wof:lastmodified":1559682718,
     "wof:name":"LH9297 (SAN-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

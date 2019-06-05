@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-SAN-SFO-WN-421",
     "sfomuseum:flight_number":"WN421",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -67,7 +68,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1554825750,
+    "wof:lastmodified":1559683639,
     "wof:name":"WN421 (SAN-SFO)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

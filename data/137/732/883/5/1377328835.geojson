@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-PHL-SFO-QF-3799",
     "sfomuseum:flight_number":"QF3799",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554393756,
+    "wof:lastmodified":1559685160,
     "wof:name":"QF3799 (PHL-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-LAS-UA-943",
     "sfomuseum:flight_number":"UA943",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -69,7 +70,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554566629,
+    "wof:lastmodified":1559684705,
     "wof:name":"UA943 (SFO-LAS)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

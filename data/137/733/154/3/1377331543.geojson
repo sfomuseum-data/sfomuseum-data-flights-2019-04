@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-JFK-VS-4898",
     "sfomuseum:flight_number":"VS4898",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -73,7 +74,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1554393801,
+    "wof:lastmodified":1559684785,
     "wof:name":"VS4898 (SFO-JFK)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

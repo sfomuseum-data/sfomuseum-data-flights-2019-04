@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-BOI-SFO-AC-3995",
     "sfomuseum:flight_number":"AC3995",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157769,
@@ -71,7 +72,7 @@
         1159157769,
         1159285413
     ],
-    "wof:lastmodified":1554307347,
+    "wof:lastmodified":1559683798,
     "wof:name":"AC3995 (BOI-SFO)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",

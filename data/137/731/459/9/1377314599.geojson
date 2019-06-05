@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LAS-CA-7316",
     "sfomuseum:flight_number":"CA7316",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -73,7 +74,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1554220981,
+    "wof:lastmodified":1559683860,
     "wof:name":"CA7316 (SFO-LAS)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-IAD-LH-7531",
     "sfomuseum:flight_number":"LH7531",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -73,7 +74,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1554566571,
+    "wof:lastmodified":1559684639,
     "wof:name":"LH7531 (SFO-IAD)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

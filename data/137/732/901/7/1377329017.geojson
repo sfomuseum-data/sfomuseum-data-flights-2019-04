@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-ATL-SFO-DL-1626",
     "sfomuseum:flight_number":"DL1626",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -67,7 +68,7 @@
         1159284261,
         1159157803
     ],
-    "wof:lastmodified":1554393756,
+    "wof:lastmodified":1559685092,
     "wof:name":"DL1626 (ATL-SFO)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-SAN-SFO-WN-213",
     "sfomuseum:flight_number":"WN213",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157813,
@@ -67,7 +68,7 @@
         1159285591,
         1159157813
     ],
-    "wof:lastmodified":1554825751,
+    "wof:lastmodified":1559683609,
     "wof:name":"WN213 (SAN-SFO)",
     "wof:parent_id":1159157813,
     "wof:placetype":"event",

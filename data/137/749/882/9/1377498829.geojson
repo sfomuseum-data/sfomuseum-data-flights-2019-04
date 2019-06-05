@@ -38,6 +38,7 @@
         "BEL9010"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -78,7 +79,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1555862614,
+    "wof:lastmodified":1559684013,
     "wof:name":"SN9010 (SFO-CDG)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

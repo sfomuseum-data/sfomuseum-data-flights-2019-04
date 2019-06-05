@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-PEK-SFO-UA-889",
     "sfomuseum:flight_number":"UA889",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -67,7 +68,7 @@
         1159285413,
         1159157685
     ],
-    "wof:lastmodified":1554912163,
+    "wof:lastmodified":1559682939,
     "wof:name":"UA889 (PEK-SFO)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

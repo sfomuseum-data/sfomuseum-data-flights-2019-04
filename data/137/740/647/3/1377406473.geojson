@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-PSP-SFO-NZ-9548",
     "sfomuseum:flight_number":"NZ9548",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -71,7 +72,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1555017556,
+    "wof:lastmodified":1559683892,
     "wof:name":"NZ9548 (PSP-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

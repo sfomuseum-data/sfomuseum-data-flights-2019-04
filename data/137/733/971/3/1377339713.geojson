@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SAN-CM-2510",
     "sfomuseum:flight_number":"CM2510",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -73,7 +74,7 @@
         1159157779,
         1159285413
     ],
-    "wof:lastmodified":1554480221,
+    "wof:lastmodified":1559684779,
     "wof:name":"CM2510 (SFO-SAN)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

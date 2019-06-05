@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-AMS-SFO-KL-607",
     "sfomuseum:flight_number":"KL607",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -67,7 +68,7 @@
         1159284613,
         1159157635
     ],
-    "wof:lastmodified":1554566559,
+    "wof:lastmodified":1559684620,
     "wof:name":"KL607 (AMS-SFO)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

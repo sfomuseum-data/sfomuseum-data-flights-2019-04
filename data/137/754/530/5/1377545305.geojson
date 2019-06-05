@@ -36,6 +36,7 @@
         "ACA4375"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -76,7 +77,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1556381030,
+    "wof:lastmodified":1559683109,
     "wof:name":"AC4375 (ORD-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

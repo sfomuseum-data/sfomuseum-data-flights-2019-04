@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-ORD-SFO-UA-222",
     "sfomuseum:flight_number":"UA222",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -67,7 +68,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554393750,
+    "wof:lastmodified":1559685109,
     "wof:name":"UA222 (ORD-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

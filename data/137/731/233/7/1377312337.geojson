@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-SAN-SFO-WN-5662",
     "sfomuseum:flight_number":"WN5662",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -67,7 +68,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1554220963,
+    "wof:lastmodified":1559683814,
     "wof:name":"WN5662 (SAN-SFO)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

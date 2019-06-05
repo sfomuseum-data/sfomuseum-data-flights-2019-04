@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-BOS-SFO-DL-1553",
     "sfomuseum:flight_number":"DL1553",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -67,7 +68,7 @@
         1159284261,
         1159157663
     ],
-    "wof:lastmodified":1554739375,
+    "wof:lastmodified":1559685209,
     "wof:name":"DL1553 (BOS-SFO)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

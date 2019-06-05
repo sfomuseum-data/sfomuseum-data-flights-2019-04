@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-PDX-SFO-UA-2054",
     "sfomuseum:flight_number":"UA2054",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -67,7 +68,7 @@
         1159285413,
         1159157785
     ],
-    "wof:lastmodified":1555017559,
+    "wof:lastmodified":1559683878,
     "wof:name":"UA2054 (PDX-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

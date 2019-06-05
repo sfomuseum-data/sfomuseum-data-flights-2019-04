@@ -38,6 +38,7 @@
         "ICE7658"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -78,7 +79,7 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1555344226,
+    "wof:lastmodified":1559685595,
     "wof:name":"FI7658 (SFO-SEA)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

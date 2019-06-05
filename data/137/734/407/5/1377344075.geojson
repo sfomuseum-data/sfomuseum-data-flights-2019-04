@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-SNA-SFO-UA-1616",
     "sfomuseum:flight_number":"UA1616",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -67,7 +68,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1554566566,
+    "wof:lastmodified":1559684634,
     "wof:name":"UA1616 (SNA-SFO)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

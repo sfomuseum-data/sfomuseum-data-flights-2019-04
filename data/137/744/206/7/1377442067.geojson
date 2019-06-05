@@ -33,6 +33,7 @@
         "ASA375"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102530049,
         1159283813
     ],
-    "wof:lastmodified":1555344198,
+    "wof:lastmodified":1559685665,
     "wof:name":"AS375 (EWR-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
         "ASA759"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102532939,
         1159283813
     ],
-    "wof:lastmodified":1555776198,
+    "wof:lastmodified":1559684087,
     "wof:name":"AS759 (KOA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

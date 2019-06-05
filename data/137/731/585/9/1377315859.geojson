@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LAX-LA-5073",
     "sfomuseum:flight_number":"LA5073",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285641,
         1159283813
     ],
-    "wof:lastmodified":1554221004,
+    "wof:lastmodified":1559683865,
     "wof:name":"LA5073 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

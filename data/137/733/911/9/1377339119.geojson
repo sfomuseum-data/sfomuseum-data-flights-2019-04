@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LHR-IB-7444",
     "sfomuseum:flight_number":"IB7444",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -73,7 +74,7 @@
         1159157633,
         1159284021
     ],
-    "wof:lastmodified":1554480210,
+    "wof:lastmodified":1559684831,
     "wof:name":"IB7444 (SFO-LHR)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

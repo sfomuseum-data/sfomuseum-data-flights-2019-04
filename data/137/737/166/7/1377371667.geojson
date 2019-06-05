@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-SMF-SFO-UA-5531",
     "sfomuseum:flight_number":"UA5531",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -67,7 +68,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682873,
     "wof:name":"UA5531 (SMF-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

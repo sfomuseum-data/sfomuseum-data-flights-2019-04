@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-TPE-SFO-UA-872",
     "sfomuseum:flight_number":"UA872",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -67,7 +68,7 @@
         1159285413,
         1159157621
     ],
-    "wof:lastmodified":1554307351,
+    "wof:lastmodified":1559683870,
     "wof:name":"UA872 (TPE-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

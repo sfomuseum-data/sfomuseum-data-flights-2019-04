@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-JFK-SFO-JL-7575",
     "sfomuseum:flight_number":"JL7575",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -71,7 +72,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554825753,
+    "wof:lastmodified":1559683596,
     "wof:name":"JL7575 (JFK-SFO)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

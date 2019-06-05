@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-YVR-SFO-AV-6985",
     "sfomuseum:flight_number":"AV6985",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157775,
@@ -71,7 +72,7 @@
         1159157775,
         1159283597
     ],
-    "wof:lastmodified":1554307348,
+    "wof:lastmodified":1559683857,
     "wof:name":"AV6985 (YVR-SFO)",
     "wof:parent_id":1159157775,
     "wof:placetype":"event",

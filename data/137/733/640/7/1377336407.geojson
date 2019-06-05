@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-DEN-SFO-AC-5331",
     "sfomuseum:flight_number":"AC5331",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -71,7 +72,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1554480165,
+    "wof:lastmodified":1559684807,
     "wof:name":"AC5331 (DEN-SFO)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

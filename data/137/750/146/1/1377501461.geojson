@@ -33,6 +33,7 @@
         "UAL984"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -72,7 +73,7 @@
         1159285413,
         1159157623
     ],
-    "wof:lastmodified":1555949001,
+    "wof:lastmodified":1559685403,
     "wof:name":"UA984 (CDG-SFO)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

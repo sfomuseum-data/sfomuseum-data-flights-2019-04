@@ -38,6 +38,7 @@
         "AFR2791"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -78,7 +79,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1555949028,
+    "wof:lastmodified":1559685334,
     "wof:name":"AF2791 (SFO-JFK)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

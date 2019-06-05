@@ -35,6 +35,7 @@
         "SWA384"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -74,7 +75,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1556294643,
+    "wof:lastmodified":1559683384,
     "wof:name":"WN384 (SFO-MDW)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

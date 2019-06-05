@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-TUS-UA-5802",
     "sfomuseum:flight_number":"UA5802",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -69,7 +70,7 @@
         1159285413,
         1159157689
     ],
-    "wof:lastmodified":1554480215,
+    "wof:lastmodified":1559684777,
     "wof:name":"UA5802 (SFO-TUS)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

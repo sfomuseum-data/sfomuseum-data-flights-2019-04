@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-LAX-SFO-DL-2531",
     "sfomuseum:flight_number":"DL2531",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -67,7 +68,7 @@
         1159284261,
         1159157743
     ],
-    "wof:lastmodified":1554566566,
+    "wof:lastmodified":1559684676,
     "wof:name":"DL2531 (LAX-SFO)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-PDX-SFO-LH-9035",
     "sfomuseum:flight_number":"LH9035",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -71,7 +72,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554652950,
+    "wof:lastmodified":1559685300,
     "wof:name":"LH9035 (PDX-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

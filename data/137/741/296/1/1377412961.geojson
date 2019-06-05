@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-VS-1853",
     "sfomuseum:flight_number":"VS1853",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1555017621,
+    "wof:lastmodified":1559684561,
     "wof:name":"VS1853 (SFO-LAX)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

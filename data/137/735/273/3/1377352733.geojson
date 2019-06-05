@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-DFW-FJ-5017",
     "sfomuseum:flight_number":"FJ5017",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -73,7 +74,7 @@
         1159157755,
         1159283849
     ],
-    "wof:lastmodified":1554652965,
+    "wof:lastmodified":1559685219,
     "wof:name":"FJ5017 (SFO-DFW)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

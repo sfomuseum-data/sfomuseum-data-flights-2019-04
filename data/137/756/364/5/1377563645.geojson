@@ -38,6 +38,7 @@
         "DLH9404"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -78,7 +79,7 @@
         1159157689,
         1159285413
     ],
-    "wof:lastmodified":1556553884,
+    "wof:lastmodified":1559684864,
     "wof:name":"LH9404 (SFO-TUS)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

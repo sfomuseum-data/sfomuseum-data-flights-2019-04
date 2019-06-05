@@ -38,6 +38,7 @@
         "CCA7335"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -78,7 +79,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1555862630,
+    "wof:lastmodified":1559684050,
     "wof:name":"CA7335 (SFO-SAN)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

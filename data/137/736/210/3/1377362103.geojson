@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PDX-AS-2383",
     "sfomuseum:flight_number":"AS2383",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -69,7 +70,7 @@
         1159283813,
         1159157701
     ],
-    "wof:lastmodified":1554739432,
+    "wof:lastmodified":1559683544,
     "wof:name":"AS2383 (SFO-PDX)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

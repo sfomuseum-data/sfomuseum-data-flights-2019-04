@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-EWR-SFO-UA-1825",
     "sfomuseum:flight_number":"UA1825",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -67,7 +68,7 @@
         1159285413,
         1159157821
     ],
-    "wof:lastmodified":1554307350,
+    "wof:lastmodified":1559683785,
     "wof:name":"UA1825 (EWR-SFO)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

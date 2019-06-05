@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LAX-UA-2263",
     "sfomuseum:flight_number":"UA2263",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -69,7 +70,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554480189,
+    "wof:lastmodified":1559684729,
     "wof:name":"UA2263 (SFO-LAX)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

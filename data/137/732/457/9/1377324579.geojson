@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-PHX-JL-7540",
     "sfomuseum:flight_number":"JL7540",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -73,7 +74,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554307415,
+    "wof:lastmodified":1559685181,
     "wof:name":"JL7540 (SFO-PHX)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

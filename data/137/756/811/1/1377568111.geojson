@@ -38,6 +38,7 @@
         "ANA7300"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -78,7 +79,7 @@
         1159157623,
         1159285413
     ],
-    "wof:lastmodified":1556640230,
+    "wof:lastmodified":1559684868,
     "wof:name":"NH7300 (SFO-SAN)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

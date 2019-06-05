@@ -36,6 +36,7 @@
         "AVA4507"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -76,7 +77,7 @@
         1159157621,
         1159284349
     ],
-    "wof:lastmodified":1555776199,
+    "wof:lastmodified":1559684066,
     "wof:name":"AV4507 (TPE-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

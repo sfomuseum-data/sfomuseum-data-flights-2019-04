@@ -38,6 +38,7 @@
         "ACA5040"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -78,7 +79,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1556553853,
+    "wof:lastmodified":1559684909,
     "wof:name":"AC5040 (SFO-SAN)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

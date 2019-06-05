@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-BUR-CM-1448",
     "sfomuseum:flight_number":"CM1448",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -73,7 +74,7 @@
         1159157669,
         1159285413
     ],
-    "wof:lastmodified":1554307397,
+    "wof:lastmodified":1559685096,
     "wof:name":"CM1448 (SFO-BUR)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

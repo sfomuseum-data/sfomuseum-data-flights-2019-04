@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-ORD-AA-1470",
     "sfomuseum:flight_number":"AA1470",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -69,7 +70,7 @@
         1159283849,
         1159157791
     ],
-    "wof:lastmodified":1554912166,
+    "wof:lastmodified":1559682962,
     "wof:name":"AA1470 (SFO-ORD)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

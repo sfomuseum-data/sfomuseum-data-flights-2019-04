@@ -35,6 +35,7 @@
         "UAL5850"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -74,7 +75,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1556553836,
+    "wof:lastmodified":1559684952,
     "wof:name":"UA5850 (SFO-MRY)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

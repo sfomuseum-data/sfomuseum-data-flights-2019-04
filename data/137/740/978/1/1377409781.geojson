@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-SAN-SFO-UA-2833",
     "sfomuseum:flight_number":"UA2833",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -67,7 +68,7 @@
         1159285413,
         1159157783
     ],
-    "wof:lastmodified":1555017568,
+    "wof:lastmodified":1559683887,
     "wof:name":"UA2833 (SAN-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

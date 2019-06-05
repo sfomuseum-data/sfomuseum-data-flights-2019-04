@@ -33,6 +33,7 @@
         "UAL384"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -72,7 +73,7 @@
         1159285413,
         1159157765
     ],
-    "wof:lastmodified":1555776197,
+    "wof:lastmodified":1559684129,
     "wof:name":"UA384 (SAN-SFO)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

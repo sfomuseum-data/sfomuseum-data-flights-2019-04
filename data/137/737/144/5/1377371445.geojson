@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-ATL-SFO-UA-912",
     "sfomuseum:flight_number":"UA912",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -67,7 +68,7 @@
         1159285413,
         1159157767
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682914,
     "wof:name":"UA912 (ATL-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

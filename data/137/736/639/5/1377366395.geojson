@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-ATL-SFO-DL-775",
     "sfomuseum:flight_number":"DL775",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -67,7 +68,7 @@
         1159284261,
         1159157803
     ],
-    "wof:lastmodified":1554825755,
+    "wof:lastmodified":1559683736,
     "wof:name":"DL775 (ATL-SFO)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "AVA2125"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -76,7 +77,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1556294618,
+    "wof:lastmodified":1559683330,
     "wof:name":"AV2125 (PDX-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

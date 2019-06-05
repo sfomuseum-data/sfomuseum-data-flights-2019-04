@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-ORD-SFO-AC-4375",
     "sfomuseum:flight_number":"AC4375",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -71,7 +72,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1554566555,
+    "wof:lastmodified":1559684667,
     "wof:name":"AC4375 (ORD-SFO)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "ACA4210"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -76,7 +77,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1555257771,
+    "wof:lastmodified":1559685770,
     "wof:name":"AC4210 (YYC-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

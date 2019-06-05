@@ -33,6 +33,7 @@
         "ASA1324"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -72,7 +73,7 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1555171378,
+    "wof:lastmodified":1559685918,
     "wof:name":"AS1324 (PDX-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

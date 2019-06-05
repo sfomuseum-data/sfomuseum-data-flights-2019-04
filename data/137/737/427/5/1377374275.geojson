@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-ICN-SFO-DL-7891",
     "sfomuseum:flight_number":"DL7891",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157639,
@@ -71,7 +72,7 @@
         1159157639,
         1159284625
     ],
-    "wof:lastmodified":1554912163,
+    "wof:lastmodified":1559682952,
     "wof:name":"DL7891 (ICN-SFO)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",

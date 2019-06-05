@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-BOS-SFO-JL-5938",
     "sfomuseum:flight_number":"JL5938",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -71,7 +72,7 @@
         1159157633,
         1360700745
     ],
-    "wof:lastmodified":1554652941,
+    "wof:lastmodified":1559684700,
     "wof:name":"JL5938 (BOS-SFO)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

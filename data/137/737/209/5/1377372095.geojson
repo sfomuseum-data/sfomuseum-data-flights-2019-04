@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-SAN-SFO-EK-3083",
     "sfomuseum:flight_number":"EK3083",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -71,7 +72,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1554912156,
+    "wof:lastmodified":1559682961,
     "wof:name":"EK3083 (SAN-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

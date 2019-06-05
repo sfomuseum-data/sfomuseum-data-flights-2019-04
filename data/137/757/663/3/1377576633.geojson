@@ -38,6 +38,7 @@
         "AMX3056"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -78,7 +79,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1556726651,
+    "wof:lastmodified":1559685503,
     "wof:name":"AM3056 (SFO-SLC)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

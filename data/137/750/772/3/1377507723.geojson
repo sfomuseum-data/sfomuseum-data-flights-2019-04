@@ -38,6 +38,7 @@
         "ICE7662"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159284513,
         1159283813
     ],
-    "wof:lastmodified":1555949057,
+    "wof:lastmodified":1559685400,
     "wof:name":"FI7662 (SFO-SEA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

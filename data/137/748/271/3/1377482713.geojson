@@ -38,6 +38,7 @@
         "SIA1445"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -78,7 +79,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1555689808,
+    "wof:lastmodified":1559684122,
     "wof:name":"SQ1445 (SFO-BNA)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

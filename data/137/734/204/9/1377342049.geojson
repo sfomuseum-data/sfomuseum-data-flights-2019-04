@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-YVR-SFO-UA-2285",
     "sfomuseum:flight_number":"UA2285",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -67,7 +68,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554566558,
+    "wof:lastmodified":1559684632,
     "wof:name":"UA2285 (YVR-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

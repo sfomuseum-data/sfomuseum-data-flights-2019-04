@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-IAH-SFO-NZ-9209",
     "sfomuseum:flight_number":"NZ9209",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -71,7 +72,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554220957,
+    "wof:lastmodified":1559683863,
     "wof:name":"NZ9209 (IAH-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

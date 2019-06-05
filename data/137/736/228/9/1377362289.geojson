@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LHR-OS-7856",
     "sfomuseum:flight_number":"OS7856",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -73,7 +74,7 @@
         1159157779,
         1159285413
     ],
-    "wof:lastmodified":1554739435,
+    "wof:lastmodified":1559683549,
     "wof:name":"OS7856 (SFO-LHR)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

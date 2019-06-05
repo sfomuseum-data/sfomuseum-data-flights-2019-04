@@ -38,6 +38,7 @@
         "DLH9136"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -78,7 +79,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1556726696,
+    "wof:lastmodified":1559685520,
     "wof:name":"LH9136 (SFO-HNL)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

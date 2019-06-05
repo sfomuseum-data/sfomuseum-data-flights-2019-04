@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-DTW-SFO-KL-5336",
     "sfomuseum:flight_number":"KL5336",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -71,7 +72,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1555017565,
+    "wof:lastmodified":1559683899,
     "wof:name":"KL5336 (DTW-SFO)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-CAN-CZ-658",
     "sfomuseum:flight_number":"CZ658",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157627,
@@ -69,7 +70,7 @@
         1159284165,
         1159157627
     ],
-    "wof:lastmodified":1554220983,
+    "wof:lastmodified":1559683845,
     "wof:name":"CZ658 (SFO-CAN)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",

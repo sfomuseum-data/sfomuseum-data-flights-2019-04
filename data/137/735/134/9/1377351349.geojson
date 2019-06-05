@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-PDX-SFO-UA-1401",
     "sfomuseum:flight_number":"UA1401",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -67,7 +68,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1554652950,
+    "wof:lastmodified":1559685211,
     "wof:name":"UA1401 (PDX-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

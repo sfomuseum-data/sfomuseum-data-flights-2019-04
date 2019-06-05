@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-ORD-OS-7718",
     "sfomuseum:flight_number":"OS7718",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -73,7 +74,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1555017575,
+    "wof:lastmodified":1559684463,
     "wof:name":"OS7718 (SFO-ORD)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

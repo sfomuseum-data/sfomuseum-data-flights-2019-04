@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PSP-AC-4335",
     "sfomuseum:flight_number":"AC4335",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -73,7 +74,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1554393761,
+    "wof:lastmodified":1559685197,
     "wof:name":"AC4335 (SFO-PSP)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

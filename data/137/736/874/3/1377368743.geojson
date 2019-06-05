@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PHX-CA-7333",
     "sfomuseum:flight_number":"CA7333",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554825788,
+    "wof:lastmodified":1559683531,
     "wof:name":"CA7333 (SFO-PHX)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-DEN-CA-7308",
     "sfomuseum:flight_number":"CA7308",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -73,7 +74,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1555017622,
+    "wof:lastmodified":1559684509,
     "wof:name":"CA7308 (SFO-DEN)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

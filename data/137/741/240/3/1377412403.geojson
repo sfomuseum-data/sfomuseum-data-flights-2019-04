@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-PDX-BA-7543",
     "sfomuseum:flight_number":"BA7543",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -73,7 +74,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1555017611,
+    "wof:lastmodified":1559684541,
     "wof:name":"BA7543 (SFO-PDX)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

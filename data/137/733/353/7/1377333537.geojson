@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-PVR-SFO-UA-1243",
     "sfomuseum:flight_number":"UA1243",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -67,7 +68,7 @@
         1159285413,
         1159157779
     ],
-    "wof:lastmodified":1554480156,
+    "wof:lastmodified":1559684726,
     "wof:name":"UA1243 (PVR-SFO)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-DAL-WN-2256",
     "sfomuseum:flight_number":"WN2256",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157859,
@@ -69,7 +70,7 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1554307379,
+    "wof:lastmodified":1559685177,
     "wof:name":"WN2256 (SFO-DAL)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",

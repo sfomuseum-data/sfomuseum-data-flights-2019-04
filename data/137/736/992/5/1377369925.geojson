@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-DEN-UA-1227",
     "sfomuseum:flight_number":"UA1227",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -69,7 +70,7 @@
         1159285413,
         1159157765
     ],
-    "wof:lastmodified":1554825809,
+    "wof:lastmodified":1559683639,
     "wof:name":"UA1227 (SFO-DEN)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

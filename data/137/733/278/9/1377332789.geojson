@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-HKG-MH-9199",
     "sfomuseum:flight_number":"MH9199",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -73,7 +74,7 @@
         1159157717,
         1159284127
     ],
-    "wof:lastmodified":1554393823,
+    "wof:lastmodified":1559684808,
     "wof:name":"MH9199 (SFO-HKG)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

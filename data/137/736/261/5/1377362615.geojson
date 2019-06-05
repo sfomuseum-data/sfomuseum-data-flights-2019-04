@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-DTW-UA-2363",
     "sfomuseum:flight_number":"UA2363",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -69,7 +70,7 @@
         1159285413,
         1159157771
     ],
-    "wof:lastmodified":1554739441,
+    "wof:lastmodified":1559683562,
     "wof:name":"UA2363 (SFO-DTW)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

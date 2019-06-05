@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-CDG-DL-8599",
     "sfomuseum:flight_number":"DL8599",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -73,7 +74,7 @@
         1159157717,
         1159283627
     ],
-    "wof:lastmodified":1555017590,
+    "wof:lastmodified":1559684496,
     "wof:name":"DL8599 (SFO-CDG)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-SMF-SFO-UA-5697",
     "sfomuseum:flight_number":"UA5697",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -67,7 +68,7 @@
         1159285413,
         1159157837
     ],
-    "wof:lastmodified":1554652942,
+    "wof:lastmodified":1559684669,
     "wof:name":"UA5697 (SMF-SFO)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

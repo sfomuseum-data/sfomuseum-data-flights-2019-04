@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SEA-FI-7662",
     "sfomuseum:flight_number":"FI7662",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284513,
         1159283813
     ],
-    "wof:lastmodified":1554393824,
+    "wof:lastmodified":1559684742,
     "wof:name":"FI7662 (SFO-SEA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-SEA-SFO-QF-3768",
     "sfomuseum:flight_number":"QF3768",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -71,7 +72,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1554739375,
+    "wof:lastmodified":1559685296,
     "wof:name":"QF3768 (SEA-SFO)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

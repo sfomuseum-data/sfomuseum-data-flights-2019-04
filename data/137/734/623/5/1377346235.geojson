@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-RDU-WN-582",
     "sfomuseum:flight_number":"WN582",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157859,
@@ -69,7 +70,7 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1554566601,
+    "wof:lastmodified":1559684676,
     "wof:name":"WN582 (SFO-RDU)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",

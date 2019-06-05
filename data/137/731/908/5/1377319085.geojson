@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-JFK-SFO-SA-7384",
     "sfomuseum:flight_number":"SA7384",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157629,
@@ -71,7 +72,7 @@
         1159157629,
         1360700745
     ],
-    "wof:lastmodified":1554307350,
+    "wof:lastmodified":1559683787,
     "wof:name":"SA7384 (JFK-SFO)",
     "wof:parent_id":1159157629,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAS-AS-1910",
     "sfomuseum:flight_number":"AS1910",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -69,7 +70,7 @@
         1159283813,
         1159157793
     ],
-    "wof:lastmodified":1555017636,
+    "wof:lastmodified":1559684587,
     "wof:name":"AS1910 (SFO-LAS)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-YYZ-AC-754",
     "sfomuseum:flight_number":"AC754",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -69,7 +70,7 @@
         1159283597,
         1159157683
     ],
-    "wof:lastmodified":1554221012,
+    "wof:lastmodified":1559683863,
     "wof:name":"AC754 (SFO-YYZ)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

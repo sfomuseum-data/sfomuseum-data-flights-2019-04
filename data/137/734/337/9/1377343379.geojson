@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-LGB-SFO-B6-2136",
     "sfomuseum:flight_number":"B62136",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157607,
@@ -67,7 +68,7 @@
         1360700745,
         1159157607
     ],
-    "wof:lastmodified":1554566563,
+    "wof:lastmodified":1559684609,
     "wof:name":"B62136 (LGB-SFO)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",

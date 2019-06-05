@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-HNL-FJ-5806",
     "sfomuseum:flight_number":"FJ5806",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554393796,
+    "wof:lastmodified":1559684776,
     "wof:name":"FJ5806 (SFO-HNL)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

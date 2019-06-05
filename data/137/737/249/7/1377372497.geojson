@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-LAX-SFO-NH-7510",
     "sfomuseum:flight_number":"NH7510",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -71,7 +72,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554912157,
+    "wof:lastmodified":1559682950,
     "wof:name":"NH7510 (LAX-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

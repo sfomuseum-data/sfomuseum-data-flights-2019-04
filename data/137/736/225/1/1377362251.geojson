@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-MIA-AA-383",
     "sfomuseum:flight_number":"AA383",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -69,7 +70,7 @@
         1159283849,
         1159157791
     ],
-    "wof:lastmodified":1554739434,
+    "wof:lastmodified":1559683711,
     "wof:name":"AA383 (SFO-MIA)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-RNO-AC-4598",
     "sfomuseum:flight_number":"AC4598",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -73,7 +74,7 @@
         1159157855,
         1159285413
     ],
-    "wof:lastmodified":1554393788,
+    "wof:lastmodified":1559684744,
     "wof:name":"AC4598 (SFO-RNO)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

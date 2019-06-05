@@ -38,6 +38,7 @@
         "ANZ9339"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -78,7 +79,7 @@
         1159157689,
         1159285413
     ],
-    "wof:lastmodified":1555344260,
+    "wof:lastmodified":1559685546,
     "wof:name":"NZ9339 (SFO-ACV)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

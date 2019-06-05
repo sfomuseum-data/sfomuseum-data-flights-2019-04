@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-PDX-NZ-9349",
     "sfomuseum:flight_number":"NZ9349",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -73,7 +74,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554912220,
+    "wof:lastmodified":1559682928,
     "wof:name":"NZ9349 (SFO-PDX)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

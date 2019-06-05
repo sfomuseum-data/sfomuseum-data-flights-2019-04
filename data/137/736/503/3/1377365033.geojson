@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-HNL-SFO-QF-3661",
     "sfomuseum:flight_number":"QF3661",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554825751,
+    "wof:lastmodified":1559683503,
     "wof:name":"QF3661 (HNL-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

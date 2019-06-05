@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PEK-CA-786",
     "sfomuseum:flight_number":"CA786",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -69,7 +70,7 @@
         1159283605,
         1159157827
     ],
-    "wof:lastmodified":1554393794,
+    "wof:lastmodified":1559684832,
     "wof:name":"CA786 (SFO-PEK)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PAE-AS-2827",
     "sfomuseum:flight_number":"AS2827",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554739394,
+    "wof:lastmodified":1559685208,
     "wof:name":"AS2827 (SFO-PAE)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

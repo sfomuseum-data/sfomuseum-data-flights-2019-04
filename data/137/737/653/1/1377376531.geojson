@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-BOS-JL-5448",
     "sfomuseum:flight_number":"JL5448",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284563,
         1159283813
     ],
-    "wof:lastmodified":1554912199,
+    "wof:lastmodified":1559682973,
     "wof:name":"JL5448 (SFO-BOS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

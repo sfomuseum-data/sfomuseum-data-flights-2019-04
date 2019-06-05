@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PDX-AS-2389",
     "sfomuseum:flight_number":"AS2389",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554566603,
+    "wof:lastmodified":1559684701,
     "wof:name":"AS2389 (SFO-PDX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAS-NZ-9226",
     "sfomuseum:flight_number":"NZ9226",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -73,7 +74,7 @@
         1159157765,
         1159285413
     ],
-    "wof:lastmodified":1555017577,
+    "wof:lastmodified":1559684560,
     "wof:name":"NZ9226 (SFO-LAS)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

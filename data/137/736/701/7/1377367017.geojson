@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-YYZ-OS-8318",
     "sfomuseum:flight_number":"OS8318",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -73,7 +74,7 @@
         1159157621,
         1159283597
     ],
-    "wof:lastmodified":1554825758,
+    "wof:lastmodified":1559683475,
     "wof:name":"OS8318 (SFO-YYZ)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ANZ9545"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -78,7 +79,7 @@
         1159157855,
         1159285413
     ],
-    "wof:lastmodified":1556208255,
+    "wof:lastmodified":1559683251,
     "wof:name":"NZ9545 (SFO-PSP)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

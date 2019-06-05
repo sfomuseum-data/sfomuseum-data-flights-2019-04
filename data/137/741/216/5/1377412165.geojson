@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-KOA-UA-694",
     "sfomuseum:flight_number":"UA694",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -69,7 +70,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1555017607,
+    "wof:lastmodified":1559684427,
     "wof:name":"UA694 (SFO-KOA)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

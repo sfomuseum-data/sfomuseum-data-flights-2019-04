@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-LAX-AS-938",
     "sfomuseum:flight_number":"AS938",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -69,7 +70,7 @@
         1159283813,
         1159157829
     ],
-    "wof:lastmodified":1554393822,
+    "wof:lastmodified":1559684754,
     "wof:name":"AS938 (SFO-LAX)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

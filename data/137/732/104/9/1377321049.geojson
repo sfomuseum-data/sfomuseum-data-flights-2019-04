@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-EUG-SFO-OZ-6325",
     "sfomuseum:flight_number":"OZ6325",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -71,7 +72,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1554307356,
+    "wof:lastmodified":1559685086,
     "wof:name":"OZ6325 (EUG-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

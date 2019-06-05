@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-ONT-AC-4122",
     "sfomuseum:flight_number":"AC4122",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -73,7 +74,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554221009,
+    "wof:lastmodified":1559683847,
     "wof:name":"AC4122 (SFO-ONT)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

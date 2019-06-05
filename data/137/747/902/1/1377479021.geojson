@@ -36,6 +36,7 @@
         "FIN2510"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -76,7 +77,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1555689792,
+    "wof:lastmodified":1559683915,
     "wof:name":"AY2510 (SLC-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

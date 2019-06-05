@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-PDX-SFO-UA-569",
     "sfomuseum:flight_number":"UA569",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -67,7 +68,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554307348,
+    "wof:lastmodified":1559683846,
     "wof:name":"UA569 (PDX-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

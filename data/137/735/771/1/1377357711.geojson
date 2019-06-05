@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-JFK-SFO-AM-3305",
     "sfomuseum:flight_number":"AM3305",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -71,7 +72,7 @@
         1159157663,
         1159284261
     ],
-    "wof:lastmodified":1554739377,
+    "wof:lastmodified":1559685245,
     "wof:name":"AM3305 (JFK-SFO)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

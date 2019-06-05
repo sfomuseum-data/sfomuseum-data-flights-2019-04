@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-PPT-UA-115",
     "sfomuseum:flight_number":"UA115",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -69,7 +70,7 @@
         1159285413,
         1159157683
     ],
-    "wof:lastmodified":1554307418,
+    "wof:lastmodified":1559685164,
     "wof:name":"UA115 (SFO-PPT)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

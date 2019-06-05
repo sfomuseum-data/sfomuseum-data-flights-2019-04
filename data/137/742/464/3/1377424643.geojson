@@ -36,6 +36,7 @@
         "SIA1291"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157667,
@@ -76,7 +77,7 @@
         1159157667,
         1159283813
     ],
-    "wof:lastmodified":1555171376,
+    "wof:lastmodified":1559685858,
     "wof:name":"SQ1291 (SJD-SFO)",
     "wof:parent_id":1159157667,
     "wof:placetype":"event",

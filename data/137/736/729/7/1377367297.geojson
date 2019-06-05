@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-JFK-AA-234",
     "sfomuseum:flight_number":"AA234",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -69,7 +70,7 @@
         1159283849,
         1159157797
     ],
-    "wof:lastmodified":1554825763,
+    "wof:lastmodified":1559683774,
     "wof:name":"AA234 (SFO-JFK)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

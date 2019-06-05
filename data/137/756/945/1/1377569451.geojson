@@ -38,6 +38,7 @@
         "ANZ9405"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -78,7 +79,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1556640254,
+    "wof:lastmodified":1559684974,
     "wof:name":"NZ9405 (SFO-SEA)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

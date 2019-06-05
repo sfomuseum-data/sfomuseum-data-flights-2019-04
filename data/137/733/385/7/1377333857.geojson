@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-RNO-SFO-UA-5899",
     "sfomuseum:flight_number":"UA5899",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -67,7 +68,7 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1554480157,
+    "wof:lastmodified":1559684777,
     "wof:name":"UA5899 (RNO-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

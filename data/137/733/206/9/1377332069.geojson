@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SLC-UA-5374",
     "sfomuseum:flight_number":"UA5374",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -69,7 +70,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554393811,
+    "wof:lastmodified":1559684824,
     "wof:name":"UA5374 (SFO-SLC)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

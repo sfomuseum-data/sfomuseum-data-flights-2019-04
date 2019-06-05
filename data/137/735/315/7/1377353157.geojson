@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-BOS-NZ-9016",
     "sfomuseum:flight_number":"NZ9016",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -73,7 +74,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1554652972,
+    "wof:lastmodified":1559685245,
     "wof:name":"NZ9016 (SFO-BOS)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

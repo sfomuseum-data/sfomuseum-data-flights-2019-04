@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-CDG-SFO-VS-6770",
     "sfomuseum:flight_number":"VS6770",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -71,7 +72,7 @@
         1159157631,
         1159283627
     ],
-    "wof:lastmodified":1554739377,
+    "wof:lastmodified":1559685251,
     "wof:name":"VS6770 (CDG-SFO)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

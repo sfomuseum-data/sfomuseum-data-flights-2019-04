@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-PHL-SFO-UA-731",
     "sfomuseum:flight_number":"UA731",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -67,7 +68,7 @@
         1159285413,
         1159157767
     ],
-    "wof:lastmodified":1554480156,
+    "wof:lastmodified":1559684778,
     "wof:name":"UA731 (PHL-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

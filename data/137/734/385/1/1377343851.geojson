@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-FAT-SFO-UA-5395",
     "sfomuseum:flight_number":"UA5395",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -67,7 +68,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1554566565,
+    "wof:lastmodified":1559684646,
     "wof:name":"UA5395 (FAT-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

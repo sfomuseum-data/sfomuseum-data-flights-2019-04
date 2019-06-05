@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PDX-FJ-5814",
     "sfomuseum:flight_number":"FJ5814",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554825804,
+    "wof:lastmodified":1559683666,
     "wof:name":"FJ5814 (SFO-PDX)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

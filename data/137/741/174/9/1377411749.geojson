@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-EWR-OZ-9523",
     "sfomuseum:flight_number":"OZ9523",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -73,7 +74,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1555017599,
+    "wof:lastmodified":1559684477,
     "wof:name":"OZ9523 (SFO-EWR)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

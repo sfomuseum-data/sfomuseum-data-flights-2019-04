@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SAN-WN-1935",
     "sfomuseum:flight_number":"WN1935",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157813,
@@ -69,7 +70,7 @@
         1159285591,
         1159157813
     ],
-    "wof:lastmodified":1554739430,
+    "wof:lastmodified":1559683724,
     "wof:name":"WN1935 (SFO-SAN)",
     "wof:parent_id":1159157813,
     "wof:placetype":"event",

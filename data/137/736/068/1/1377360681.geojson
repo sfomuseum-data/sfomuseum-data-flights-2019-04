@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-JFK-UX-3323",
     "sfomuseum:flight_number":"UX3323",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -73,7 +74,7 @@
         1159157663,
         1159284261
     ],
-    "wof:lastmodified":1554739406,
+    "wof:lastmodified":1559683737,
     "wof:name":"UX3323 (SFO-JFK)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

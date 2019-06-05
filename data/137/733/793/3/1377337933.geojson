@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SEA-NH-7285",
     "sfomuseum:flight_number":"NH7285",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554480189,
+    "wof:lastmodified":1559684788,
     "wof:name":"NH7285 (SFO-SEA)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

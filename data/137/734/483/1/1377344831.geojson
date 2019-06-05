@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-STS-NZ-9735",
     "sfomuseum:flight_number":"NZ9735",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -73,7 +74,7 @@
         1159157855,
         1159285413
     ],
-    "wof:lastmodified":1554566574,
+    "wof:lastmodified":1559684621,
     "wof:name":"NZ9735 (SFO-STS)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "ANA7303"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -76,7 +77,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1556467531,
+    "wof:lastmodified":1559682759,
     "wof:name":"NH7303 (SLC-SFO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

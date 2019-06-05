@@ -36,6 +36,7 @@
         "ANZ9820"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -76,7 +77,7 @@
         1159157623,
         1159285413
     ],
-    "wof:lastmodified":1556208213,
+    "wof:lastmodified":1559682725,
     "wof:name":"NZ9820 (MEX-SFO)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

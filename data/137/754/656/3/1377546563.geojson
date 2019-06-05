@@ -38,6 +38,7 @@
         "ANZ9373"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -78,7 +79,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1556381049,
+    "wof:lastmodified":1559683059,
     "wof:name":"NZ9373 (SFO-PHX)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

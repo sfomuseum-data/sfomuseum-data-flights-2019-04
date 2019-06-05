@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-YVR-UA-1968",
     "sfomuseum:flight_number":"UA1968",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -69,7 +70,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1554393808,
+    "wof:lastmodified":1559684733,
     "wof:name":"UA1968 (SFO-YVR)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

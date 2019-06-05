@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LIH-UA-1111",
     "sfomuseum:flight_number":"UA1111",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -69,7 +70,7 @@
         1159285413,
         1159157789
     ],
-    "wof:lastmodified":1554652993,
+    "wof:lastmodified":1559685288,
     "wof:name":"UA1111 (SFO-LIH)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

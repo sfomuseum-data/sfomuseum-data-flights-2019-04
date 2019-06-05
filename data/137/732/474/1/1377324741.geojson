@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-MIA-IB-4847",
     "sfomuseum:flight_number":"IB4847",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157795,
@@ -73,7 +74,7 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1554307418,
+    "wof:lastmodified":1559685169,
     "wof:name":"IB4847 (SFO-MIA)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",

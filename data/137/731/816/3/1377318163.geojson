@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-SEA-SFO-LX-3302",
     "sfomuseum:flight_number":"LX3302",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -71,7 +72,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1554307347,
+    "wof:lastmodified":1559683793,
     "wof:name":"LX3302 (SEA-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

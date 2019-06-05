@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SAT-AC-4347",
     "sfomuseum:flight_number":"AC4347",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -73,7 +74,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1554566630,
+    "wof:lastmodified":1559684711,
     "wof:name":"AC4347 (SFO-SAT)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

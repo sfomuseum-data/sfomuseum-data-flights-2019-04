@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SEA-LX-3256",
     "sfomuseum:flight_number":"LX3256",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -73,7 +74,7 @@
         1159157647,
         1159285413
     ],
-    "wof:lastmodified":1554221007,
+    "wof:lastmodified":1559683805,
     "wof:name":"LX3256 (SFO-SEA)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

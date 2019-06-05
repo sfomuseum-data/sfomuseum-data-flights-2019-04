@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-BWI-NZ-9030",
     "sfomuseum:flight_number":"NZ9030",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -73,7 +74,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554739413,
+    "wof:lastmodified":1559683660,
     "wof:name":"NZ9030 (SFO-BWI)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

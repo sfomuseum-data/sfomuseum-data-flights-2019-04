@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-STL-SFO-UA-5681",
     "sfomuseum:flight_number":"UA5681",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -67,7 +68,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554912164,
+    "wof:lastmodified":1559682961,
     "wof:name":"UA5681 (STL-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

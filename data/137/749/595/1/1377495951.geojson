@@ -36,6 +36,7 @@
         "UAL8829"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -76,7 +77,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1555862592,
+    "wof:lastmodified":1559683937,
     "wof:name":"UA8829 (FRA-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

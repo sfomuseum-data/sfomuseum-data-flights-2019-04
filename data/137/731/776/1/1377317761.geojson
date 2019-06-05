@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-LAX-SFO-CM-1062",
     "sfomuseum:flight_number":"CM1062",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -71,7 +72,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1554307346,
+    "wof:lastmodified":1559683822,
     "wof:name":"CM1062 (LAX-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

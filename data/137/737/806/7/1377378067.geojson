@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-DEN-AC-4466",
     "sfomuseum:flight_number":"AC4466",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -73,7 +74,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1554912226,
+    "wof:lastmodified":1559682972,
     "wof:name":"AC4466 (SFO-DEN)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

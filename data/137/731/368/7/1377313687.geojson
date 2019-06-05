@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-MUC-SFO-UA-195",
     "sfomuseum:flight_number":"UA195",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -67,7 +68,7 @@
         1159285413,
         1159157623
     ],
-    "wof:lastmodified":1554220968,
+    "wof:lastmodified":1559683830,
     "wof:name":"UA195 (MUC-SFO)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

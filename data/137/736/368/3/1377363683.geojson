@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-SAN-SFO-UA-662",
     "sfomuseum:flight_number":"UA662",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -67,7 +68,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1554825746,
+    "wof:lastmodified":1559683638,
     "wof:name":"UA662 (SAN-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

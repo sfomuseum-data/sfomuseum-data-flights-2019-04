@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAS-NH-7308",
     "sfomuseum:flight_number":"NH7308",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -73,7 +74,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1554739402,
+    "wof:lastmodified":1559683707,
     "wof:name":"NH7308 (SFO-LAS)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

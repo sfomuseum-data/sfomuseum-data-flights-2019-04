@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-HKG-MH-9183",
     "sfomuseum:flight_number":"MH9183",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -73,7 +74,7 @@
         1159157631,
         1159284127
     ],
-    "wof:lastmodified":1554307364,
+    "wof:lastmodified":1559685201,
     "wof:name":"MH9183 (SFO-HKG)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

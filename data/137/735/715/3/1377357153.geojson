@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-ASE-SFO-UA-5577",
     "sfomuseum:flight_number":"UA5577",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -67,7 +68,7 @@
         1159285413,
         1159157693
     ],
-    "wof:lastmodified":1554739375,
+    "wof:lastmodified":1559685246,
     "wof:name":"UA5577 (ASE-SFO)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

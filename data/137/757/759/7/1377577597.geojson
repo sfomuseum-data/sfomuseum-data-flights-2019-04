@@ -38,6 +38,7 @@
         "FIN5738"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -78,7 +79,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1556726668,
+    "wof:lastmodified":1559685483,
     "wof:name":"AY5738 (SFO-JFK)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

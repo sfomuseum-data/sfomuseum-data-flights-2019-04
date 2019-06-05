@@ -38,6 +38,7 @@
         "AVA2024"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -78,7 +79,7 @@
         1159157739,
         1159285413
     ],
-    "wof:lastmodified":1556035449,
+    "wof:lastmodified":1559685052,
     "wof:name":"AV2024 (SFO-RNO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

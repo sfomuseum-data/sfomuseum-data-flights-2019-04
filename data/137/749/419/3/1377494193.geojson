@@ -38,6 +38,7 @@
         "FIN2505"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -78,7 +79,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1555776279,
+    "wof:lastmodified":1559684006,
     "wof:name":"AY2505 (SFO-PDX)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

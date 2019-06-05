@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-DFW-AA-1198",
     "sfomuseum:flight_number":"AA1198",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157651,
@@ -69,7 +70,7 @@
         1159283849,
         1159157651
     ],
-    "wof:lastmodified":1554307417,
+    "wof:lastmodified":1559685174,
     "wof:name":"AA1198 (SFO-DFW)",
     "wof:parent_id":1159157651,
     "wof:placetype":"event",

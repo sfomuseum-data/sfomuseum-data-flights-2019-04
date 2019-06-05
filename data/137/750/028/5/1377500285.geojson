@@ -35,6 +35,7 @@
         "AAL2042"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283849
     ],
-    "wof:lastmodified":1555862640,
+    "wof:lastmodified":1559685380,
     "wof:name":"AA2042 (SFO-PHX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

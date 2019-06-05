@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-DCA-LO-4410",
     "sfomuseum:flight_number":"LO4410",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -73,7 +74,7 @@
         1159157665,
         1159285413
     ],
-    "wof:lastmodified":1554652979,
+    "wof:lastmodified":1559685256,
     "wof:name":"LO4410 (SFO-DCA)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

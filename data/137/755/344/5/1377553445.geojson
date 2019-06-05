@@ -38,6 +38,7 @@
         "SIA1301"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -78,7 +79,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1556467544,
+    "wof:lastmodified":1559682867,
     "wof:name":"SQ1301 (SFO-PSP)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

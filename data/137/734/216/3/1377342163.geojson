@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-SEA-SFO-CX-7915",
     "sfomuseum:flight_number":"CX7915",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157833,
@@ -71,7 +72,7 @@
         1159157833,
         1159283813
     ],
-    "wof:lastmodified":1554566558,
+    "wof:lastmodified":1559684614,
     "wof:name":"CX7915 (SEA-SFO)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",

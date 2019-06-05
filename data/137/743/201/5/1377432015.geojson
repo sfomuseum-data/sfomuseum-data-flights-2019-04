@@ -33,6 +33,7 @@
         "UAL392"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -72,7 +73,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1555257767,
+    "wof:lastmodified":1559685810,
     "wof:name":"UA392 (PDX-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

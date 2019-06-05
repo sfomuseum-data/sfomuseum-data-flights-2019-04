@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-SAN-SFO-WN-2378",
     "sfomuseum:flight_number":"WN2378",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -67,7 +68,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554220961,
+    "wof:lastmodified":1559683824,
     "wof:name":"WN2378 (SAN-SFO)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

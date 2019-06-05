@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PHX-CZ-1720",
     "sfomuseum:flight_number":"CZ1720",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -73,7 +74,7 @@
         1159157755,
         1159283849
     ],
-    "wof:lastmodified":1554480168,
+    "wof:lastmodified":1559684814,
     "wof:name":"CZ1720 (SFO-PHX)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

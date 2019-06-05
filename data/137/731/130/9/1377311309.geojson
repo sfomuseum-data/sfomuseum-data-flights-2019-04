@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-LAS-SFO-AC-5441",
     "sfomuseum:flight_number":"AC5441",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -71,7 +72,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1554220960,
+    "wof:lastmodified":1559683838,
     "wof:name":"AC5441 (LAS-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

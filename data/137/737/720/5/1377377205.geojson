@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-AUS-AC-4444",
     "sfomuseum:flight_number":"AC4444",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554912211,
+    "wof:lastmodified":1559682998,
     "wof:name":"AC4444 (SFO-AUS)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

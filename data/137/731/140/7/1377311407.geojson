@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-SMF-SFO-LH-9225",
     "sfomuseum:flight_number":"LH9225",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -71,7 +72,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1554220960,
+    "wof:lastmodified":1559683874,
     "wof:name":"LH9225 (SMF-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

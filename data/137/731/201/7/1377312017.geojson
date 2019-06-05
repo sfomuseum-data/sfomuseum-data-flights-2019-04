@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-ORD-SFO-UA-1723",
     "sfomuseum:flight_number":"UA1723",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -67,7 +68,7 @@
         1159285413,
         1159157779
     ],
-    "wof:lastmodified":1554220962,
+    "wof:lastmodified":1559683859,
     "wof:name":"UA1723 (ORD-SFO)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

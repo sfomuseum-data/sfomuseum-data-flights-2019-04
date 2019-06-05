@@ -35,6 +35,7 @@
         "ASA1890"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1556121832,
+    "wof:lastmodified":1559682715,
     "wof:name":"AS1890 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

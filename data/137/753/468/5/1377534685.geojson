@@ -36,6 +36,7 @@
         "ACA5807"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -76,7 +77,7 @@
         1159157765,
         1159285413
     ],
-    "wof:lastmodified":1556294619,
+    "wof:lastmodified":1559683390,
     "wof:name":"AC5807 (DEN-SFO)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

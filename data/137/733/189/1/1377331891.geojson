@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PDX-UA-766",
     "sfomuseum:flight_number":"UA766",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554393807,
+    "wof:lastmodified":1559684773,
     "wof:name":"UA766 (SFO-PDX)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

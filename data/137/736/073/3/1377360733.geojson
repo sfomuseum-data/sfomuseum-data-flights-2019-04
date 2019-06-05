@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PDX-CM-2409",
     "sfomuseum:flight_number":"CM2409",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -73,7 +74,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554739407,
+    "wof:lastmodified":1559683689,
     "wof:name":"CM2409 (SFO-PDX)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "QFA3789"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1555689823,
+    "wof:lastmodified":1559684061,
     "wof:name":"QF3789 (SFO-PDX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

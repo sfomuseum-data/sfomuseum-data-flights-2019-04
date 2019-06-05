@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-LAX-SFO-AS-933",
     "sfomuseum:flight_number":"AS933",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -67,7 +68,7 @@
         1159283813,
         1159157705
     ],
-    "wof:lastmodified":1554739372,
+    "wof:lastmodified":1559685221,
     "wof:name":"AS933 (LAX-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "SWA5212"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -74,7 +75,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1555862629,
+    "wof:lastmodified":1559684002,
     "wof:name":"WN5212 (SFO-SEA)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

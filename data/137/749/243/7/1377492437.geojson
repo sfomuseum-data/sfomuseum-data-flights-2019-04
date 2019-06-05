@@ -38,6 +38,7 @@
         "CMP2404"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -78,7 +79,7 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1555776248,
+    "wof:lastmodified":1559683959,
     "wof:name":"CM2404 (SFO-PDX)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

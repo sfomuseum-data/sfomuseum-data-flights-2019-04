@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-LAS-SQ-1404",
     "sfomuseum:flight_number":"SQ1404",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -73,7 +74,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1554307376,
+    "wof:lastmodified":1559685179,
     "wof:name":"SQ1404 (SFO-LAS)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

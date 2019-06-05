@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-DCA-UA-616",
     "sfomuseum:flight_number":"UA616",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -69,7 +70,7 @@
         1159285413,
         1159157765
     ],
-    "wof:lastmodified":1554652964,
+    "wof:lastmodified":1559685236,
     "wof:name":"UA616 (SFO-DCA)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SEA-DL-1484",
     "sfomuseum:flight_number":"DL1484",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -69,7 +70,7 @@
         1159284261,
         1159157743
     ],
-    "wof:lastmodified":1554220972,
+    "wof:lastmodified":1559683800,
     "wof:name":"DL1484 (SFO-SEA)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SLC-JL-5432",
     "sfomuseum:flight_number":"JL5432",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -73,7 +74,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1554307366,
+    "wof:lastmodified":1559685128,
     "wof:name":"JL5432 (SFO-SLC)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

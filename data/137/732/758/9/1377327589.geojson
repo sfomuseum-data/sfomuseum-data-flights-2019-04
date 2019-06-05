@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-DUB-SFO-EI-147",
     "sfomuseum:flight_number":"EI147",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -67,7 +68,7 @@
         1159283495,
         1159157621
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685146,
     "wof:name":"EI147 (DUB-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

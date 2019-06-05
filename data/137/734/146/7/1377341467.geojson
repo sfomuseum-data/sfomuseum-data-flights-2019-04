@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-PDX-SFO-UA-441",
     "sfomuseum:flight_number":"UA441",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -67,7 +68,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554566556,
+    "wof:lastmodified":1559684709,
     "wof:name":"UA441 (PDX-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

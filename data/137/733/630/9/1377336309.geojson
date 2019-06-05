@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-YYZ-SFO-OS-8317",
     "sfomuseum:flight_number":"OS8317",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -71,7 +72,7 @@
         1159157687,
         1159283597
     ],
-    "wof:lastmodified":1554480164,
+    "wof:lastmodified":1559684821,
     "wof:name":"OS8317 (YYZ-SFO)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

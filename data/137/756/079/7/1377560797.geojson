@@ -38,6 +38,7 @@
         "AVA2034"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -78,7 +79,7 @@
         1159157837,
         1159285413
     ],
-    "wof:lastmodified":1556553834,
+    "wof:lastmodified":1559684868,
     "wof:name":"AV2034 (SFO-FAT)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

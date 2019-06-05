@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-CLT-SFO-CZ-1759",
     "sfomuseum:flight_number":"CZ1759",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -71,7 +72,7 @@
         1159157755,
         1159283849
     ],
-    "wof:lastmodified":1554912158,
+    "wof:lastmodified":1559682950,
     "wof:name":"CZ1759 (CLT-SFO)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

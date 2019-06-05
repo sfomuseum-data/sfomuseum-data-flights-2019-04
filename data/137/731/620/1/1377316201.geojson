@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-EWR-SQ-1442",
     "sfomuseum:flight_number":"SQ1442",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554221010,
+    "wof:lastmodified":1559683801,
     "wof:name":"SQ1442 (SFO-EWR)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

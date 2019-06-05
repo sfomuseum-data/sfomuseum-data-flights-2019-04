@@ -35,6 +35,7 @@
         "UAL1822"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -74,7 +75,7 @@
         1159285413,
         1159157647
     ],
-    "wof:lastmodified":1555776276,
+    "wof:lastmodified":1559683935,
     "wof:name":"UA1822 (SFO-PHX)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

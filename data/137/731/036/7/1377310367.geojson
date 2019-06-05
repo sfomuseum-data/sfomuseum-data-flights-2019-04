@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-PHL-SFO-CZ-1758",
     "sfomuseum:flight_number":"CZ1758",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157707,
@@ -71,7 +72,7 @@
         1159157707,
         1159283849
     ],
-    "wof:lastmodified":1554220956,
+    "wof:lastmodified":1559683808,
     "wof:name":"CZ1758 (PHL-SFO)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",

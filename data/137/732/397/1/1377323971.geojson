@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-LHR-NZ-9854",
     "sfomuseum:flight_number":"NZ9854",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -73,7 +74,7 @@
         1159157779,
         1159285413
     ],
-    "wof:lastmodified":1554307404,
+    "wof:lastmodified":1559685097,
     "wof:name":"NZ9854 (SFO-LHR)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

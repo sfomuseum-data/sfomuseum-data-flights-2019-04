@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-JFK-SU-3605",
     "sfomuseum:flight_number":"SU3605",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -73,7 +74,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1554652952,
+    "wof:lastmodified":1559685233,
     "wof:name":"SU3605 (SFO-JFK)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "DAL9347"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -78,7 +79,7 @@
         1159157635,
         1159284613
     ],
-    "wof:lastmodified":1555776224,
+    "wof:lastmodified":1559683997,
     "wof:name":"DL9347 (SFO-AMS)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-AKL-LH-7156",
     "sfomuseum:flight_number":"LH7156",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -73,7 +74,7 @@
         1159157827,
         1159283697
     ],
-    "wof:lastmodified":1554739428,
+    "wof:lastmodified":1559683607,
     "wof:name":"LH7156 (SFO-AKL)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-SLC-SFO-AC-4393",
     "sfomuseum:flight_number":"AC4393",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -71,7 +72,7 @@
         1159157725,
         1159285413
     ],
-    "wof:lastmodified":1554739376,
+    "wof:lastmodified":1559685244,
     "wof:name":"AC4393 (SLC-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

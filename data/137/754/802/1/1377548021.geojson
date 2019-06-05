@@ -38,6 +38,7 @@
         "FJI5854"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -78,7 +79,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1556381075,
+    "wof:lastmodified":1559683074,
     "wof:name":"FJ5854 (SFO-PSP)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

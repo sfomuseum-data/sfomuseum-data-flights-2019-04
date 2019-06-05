@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SLC-AM-3437",
     "sfomuseum:flight_number":"AM3437",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -73,7 +74,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1554652972,
+    "wof:lastmodified":1559685250,
     "wof:name":"AM3437 (SFO-SLC)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

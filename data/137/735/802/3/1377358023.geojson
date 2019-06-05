@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-LAS-SFO-NZ-9241",
     "sfomuseum:flight_number":"NZ9241",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -71,7 +72,7 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1554739378,
+    "wof:lastmodified":1559685238,
     "wof:name":"NZ9241 (LAS-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

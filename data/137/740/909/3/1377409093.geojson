@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-JFK-SFO-QF-3146",
     "sfomuseum:flight_number":"QF3146",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157795,
@@ -71,7 +72,7 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1555017565,
+    "wof:lastmodified":1559683876,
     "wof:name":"QF3146 (JFK-SFO)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-PHX-SFO-UA-2162",
     "sfomuseum:flight_number":"UA2162",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -67,7 +68,7 @@
         1159285413,
         1159157771
     ],
-    "wof:lastmodified":1554393754,
+    "wof:lastmodified":1559685163,
     "wof:name":"UA2162 (PHX-SFO)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

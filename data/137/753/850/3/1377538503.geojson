@@ -38,6 +38,7 @@
         "ANZ9191"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -78,7 +79,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1556294642,
+    "wof:lastmodified":1559683281,
     "wof:name":"NZ9191 (SFO-IAH)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

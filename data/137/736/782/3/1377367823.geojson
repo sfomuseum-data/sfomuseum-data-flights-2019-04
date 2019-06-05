@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PHX-LH-9346",
     "sfomuseum:flight_number":"LH9346",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554825772,
+    "wof:lastmodified":1559683605,
     "wof:name":"LH9346 (SFO-PHX)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

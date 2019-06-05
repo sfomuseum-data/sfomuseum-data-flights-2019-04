@@ -36,6 +36,7 @@
         "DLH9221"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -76,7 +77,7 @@
         1159157837,
         1159285413
     ],
-    "wof:lastmodified":1555862591,
+    "wof:lastmodified":1559683932,
     "wof:name":"LH9221 (SMF-SFO)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

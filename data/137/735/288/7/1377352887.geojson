@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-EWR-UA-1796",
     "sfomuseum:flight_number":"UA1796",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -69,7 +70,7 @@
         1159285413,
         1159157821
     ],
-    "wof:lastmodified":1554652967,
+    "wof:lastmodified":1559685224,
     "wof:name":"UA1796 (SFO-EWR)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

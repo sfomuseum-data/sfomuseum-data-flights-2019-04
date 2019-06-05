@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PTY-UA-7132",
     "sfomuseum:flight_number":"UA7132",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -73,7 +74,7 @@
         1159157631,
         1159284211
     ],
-    "wof:lastmodified":1554566601,
+    "wof:lastmodified":1559684625,
     "wof:name":"UA7132 (SFO-PTY)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

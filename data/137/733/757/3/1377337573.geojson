@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LGA-EI-6224",
     "sfomuseum:flight_number":"EI6224",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -73,7 +74,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1554480182,
+    "wof:lastmodified":1559684796,
     "wof:name":"EI6224 (SFO-LGA)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

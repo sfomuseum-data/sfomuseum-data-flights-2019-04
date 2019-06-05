@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-ORD-SFO-AA-2634",
     "sfomuseum:flight_number":"AA2634",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -67,7 +68,7 @@
         1159283849,
         1159157797
     ],
-    "wof:lastmodified":1554566560,
+    "wof:lastmodified":1559684670,
     "wof:name":"AA2634 (ORD-SFO)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

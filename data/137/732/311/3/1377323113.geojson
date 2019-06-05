@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-BUR-WN-1971",
     "sfomuseum:flight_number":"WN1971",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -69,7 +70,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554307389,
+    "wof:lastmodified":1559685189,
     "wof:name":"WN1971 (SFO-BUR)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "RJA7103"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -78,7 +79,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1556726688,
+    "wof:lastmodified":1559685437,
     "wof:name":"RJ7103 (SFO-ORD)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

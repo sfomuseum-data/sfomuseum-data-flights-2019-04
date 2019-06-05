@@ -38,6 +38,7 @@
         "CMP2430"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -78,7 +79,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1555776217,
+    "wof:lastmodified":1559684032,
     "wof:name":"CM2430 (SFO-PHX)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

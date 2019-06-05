@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-IAD-CX-7918",
     "sfomuseum:flight_number":"CX7918",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1554480175,
+    "wof:lastmodified":1559684835,
     "wof:name":"CX7918 (SFO-IAD)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

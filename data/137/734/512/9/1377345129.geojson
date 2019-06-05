@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-EWR-UA-349",
     "sfomuseum:flight_number":"UA349",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -69,7 +70,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554566580,
+    "wof:lastmodified":1559684716,
     "wof:name":"UA349 (SFO-EWR)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

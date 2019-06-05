@@ -33,6 +33,7 @@
         "UAL2376"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -72,7 +73,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1556640225,
+    "wof:lastmodified":1559684929,
     "wof:name":"UA2376 (ORD-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

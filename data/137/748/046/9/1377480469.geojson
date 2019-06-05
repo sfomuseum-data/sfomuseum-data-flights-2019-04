@@ -33,6 +33,7 @@
         "ASA3461"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -72,7 +73,7 @@
         1159283813,
         1159157829
     ],
-    "wof:lastmodified":1555689797,
+    "wof:lastmodified":1559684067,
     "wof:name":"AS3461 (SLC-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

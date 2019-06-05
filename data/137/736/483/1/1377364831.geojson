@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-SLC-SFO-EK-3114",
     "sfomuseum:flight_number":"EK3114",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284333,
         1159283813
     ],
-    "wof:lastmodified":1554825750,
+    "wof:lastmodified":1559683538,
     "wof:name":"EK3114 (SLC-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

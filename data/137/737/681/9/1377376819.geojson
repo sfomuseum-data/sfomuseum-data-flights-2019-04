@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-PDX-UA-2036",
     "sfomuseum:flight_number":"UA2036",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554912204,
+    "wof:lastmodified":1559682881,
     "wof:name":"UA2036 (SFO-PDX)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

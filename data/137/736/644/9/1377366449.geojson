@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-IAD-SFO-QF-3761",
     "sfomuseum:flight_number":"QF3761",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -71,7 +72,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1554825755,
+    "wof:lastmodified":1559683521,
     "wof:name":"QF3761 (IAD-SFO)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

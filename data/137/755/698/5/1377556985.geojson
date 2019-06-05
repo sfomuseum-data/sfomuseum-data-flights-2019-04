@@ -33,6 +33,7 @@
         "ASA2084"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -72,7 +73,7 @@
         1159283813,
         1159157705
     ],
-    "wof:lastmodified":1556553817,
+    "wof:lastmodified":1559682849,
     "wof:name":"AS2084 (SNA-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

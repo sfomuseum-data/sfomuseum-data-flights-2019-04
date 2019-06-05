@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-KOA-SFO-FJ-5821",
     "sfomuseum:flight_number":"FJ5821",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -71,7 +72,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1554825752,
+    "wof:lastmodified":1559683472,
     "wof:name":"FJ5821 (KOA-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

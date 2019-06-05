@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PHL-QF-3798",
     "sfomuseum:flight_number":"QF3798",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554825767,
+    "wof:lastmodified":1559683655,
     "wof:name":"QF3798 (SFO-PHL)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

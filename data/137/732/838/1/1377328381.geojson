@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-LHR-SFO-LX-3042",
     "sfomuseum:flight_number":"LX3042",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -71,7 +72,7 @@
         1159157657,
         1159285413
     ],
-    "wof:lastmodified":1554393754,
+    "wof:lastmodified":1559685174,
     "wof:name":"LX3042 (LHR-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

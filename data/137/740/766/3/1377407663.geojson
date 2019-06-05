@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-SLC-SFO-DL-1142",
     "sfomuseum:flight_number":"DL1142",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -67,7 +68,7 @@
         1159284261,
         1159157663
     ],
-    "wof:lastmodified":1555017560,
+    "wof:lastmodified":1559683891,
     "wof:name":"DL1142 (SLC-SFO)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

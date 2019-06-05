@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PDX-AA-7532",
     "sfomuseum:flight_number":"AA7532",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -73,7 +74,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1554825807,
+    "wof:lastmodified":1559683608,
     "wof:name":"AA7532 (SFO-PDX)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

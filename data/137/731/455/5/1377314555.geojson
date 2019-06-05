@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-ORD-NZ-9310",
     "sfomuseum:flight_number":"NZ9310",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554220980,
+    "wof:lastmodified":1559683808,
     "wof:name":"NZ9310 (SFO-ORD)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-FAT-AC-5026",
     "sfomuseum:flight_number":"AC5026",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -73,7 +74,7 @@
         1159157689,
         1159285413
     ],
-    "wof:lastmodified":1554220993,
+    "wof:lastmodified":1559683818,
     "wof:name":"AC5026 (SFO-FAT)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

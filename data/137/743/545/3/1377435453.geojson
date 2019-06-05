@@ -38,6 +38,7 @@
         "AAL6962"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -78,7 +79,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1555257786,
+    "wof:lastmodified":1559685774,
     "wof:name":"AA6962 (SFO-SEA)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

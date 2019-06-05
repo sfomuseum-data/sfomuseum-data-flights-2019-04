@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-LAX-SFO-KL-7562",
     "sfomuseum:flight_number":"KL7562",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -71,7 +72,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1554825748,
+    "wof:lastmodified":1559683554,
     "wof:name":"KL7562 (LAX-SFO)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

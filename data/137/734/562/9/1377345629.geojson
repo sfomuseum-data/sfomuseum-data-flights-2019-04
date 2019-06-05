@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-IAH-NZ-9198",
     "sfomuseum:flight_number":"NZ9198",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -73,7 +74,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1554566590,
+    "wof:lastmodified":1559684663,
     "wof:name":"NZ9198 (SFO-IAH)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-PSP-EK-3100",
     "sfomuseum:flight_number":"EK3100",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -73,7 +74,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1554221024,
+    "wof:lastmodified":1559683858,
     "wof:name":"EK3100 (SFO-PSP)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

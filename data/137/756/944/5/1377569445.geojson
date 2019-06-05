@@ -38,6 +38,7 @@
         "SIA5807"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157639,
@@ -78,7 +79,7 @@
         1159157639,
         1159284349
     ],
-    "wof:lastmodified":1556640254,
+    "wof:lastmodified":1559684980,
     "wof:name":"SQ5807 (SFO-TPE)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",

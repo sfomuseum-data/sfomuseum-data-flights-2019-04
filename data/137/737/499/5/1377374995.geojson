@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-ATL-KL-7131",
     "sfomuseum:flight_number":"KL7131",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -73,7 +74,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1554912172,
+    "wof:lastmodified":1559682898,
     "wof:name":"KL7131 (SFO-ATL)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

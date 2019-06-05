@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-IAH-SFO-UA-2264",
     "sfomuseum:flight_number":"UA2264",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -67,7 +68,7 @@
         1159285413,
         1159157765
     ],
-    "wof:lastmodified":1554912156,
+    "wof:lastmodified":1559682899,
     "wof:name":"UA2264 (IAH-SFO)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

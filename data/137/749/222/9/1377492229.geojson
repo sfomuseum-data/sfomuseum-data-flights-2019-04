@@ -38,6 +38,7 @@
         "ANZ9142"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -78,7 +79,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1555776244,
+    "wof:lastmodified":1559684019,
     "wof:name":"NZ9142 (SFO-HNL)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

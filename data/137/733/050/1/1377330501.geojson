@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-FLL-QF-3672",
     "sfomuseum:flight_number":"QF3672",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -73,7 +74,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1554393783,
+    "wof:lastmodified":1559684822,
     "wof:name":"QF3672 (SFO-FLL)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

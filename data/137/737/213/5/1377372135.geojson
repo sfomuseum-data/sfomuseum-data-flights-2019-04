@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-FAT-SFO-CM-1158",
     "sfomuseum:flight_number":"CM1158",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -71,7 +72,7 @@
         1159157689,
         1159285413
     ],
-    "wof:lastmodified":1554912156,
+    "wof:lastmodified":1559682958,
     "wof:name":"CM1158 (FAT-SFO)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

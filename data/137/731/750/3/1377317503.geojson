@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-CVG-KE-6735",
     "sfomuseum:flight_number":"KE6735",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1554221034,
+    "wof:lastmodified":1559683837,
     "wof:name":"KE6735 (SFO-CVG)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-FRA-SFO-UA-8829",
     "sfomuseum:flight_number":"UA8829",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -71,7 +72,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1554566559,
+    "wof:lastmodified":1559684615,
     "wof:name":"UA8829 (FRA-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

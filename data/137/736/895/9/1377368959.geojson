@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-SLC-UA-1123",
     "sfomuseum:flight_number":"UA1123",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -69,7 +70,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554825792,
+    "wof:lastmodified":1559683559,
     "wof:name":"UA1123 (SFO-SLC)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

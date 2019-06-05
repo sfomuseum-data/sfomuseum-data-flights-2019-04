@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-YVR-SFO-NZ-9877",
     "sfomuseum:flight_number":"NZ9877",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -71,7 +72,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1554652948,
+    "wof:lastmodified":1559685268,
     "wof:name":"NZ9877 (YVR-SFO)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-AA-6067",
     "sfomuseum:flight_number":"AA6067",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157707,
@@ -69,7 +70,7 @@
         1159283849,
         1159157707
     ],
-    "wof:lastmodified":1555017601,
+    "wof:lastmodified":1559684585,
     "wof:name":"AA6067 (SFO-LAX)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-IAD-SQ-1305",
     "sfomuseum:flight_number":"SQ1305",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -73,7 +74,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1554912192,
+    "wof:lastmodified":1559682939,
     "wof:name":"SQ1305 (SFO-IAD)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

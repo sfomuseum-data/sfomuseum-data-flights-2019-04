@@ -38,6 +38,7 @@
         "AVA2350"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -78,7 +79,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1555171438,
+    "wof:lastmodified":1559685791,
     "wof:name":"AV2350 (SFO-LIH)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

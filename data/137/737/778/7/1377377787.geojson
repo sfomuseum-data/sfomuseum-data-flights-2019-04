@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-PHX-AA-2042",
     "sfomuseum:flight_number":"AA2042",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157651,
@@ -69,7 +70,7 @@
         1159283849,
         1159157651
     ],
-    "wof:lastmodified":1554912221,
+    "wof:lastmodified":1559682910,
     "wof:name":"AA2042 (SFO-PHX)",
     "wof:parent_id":1159157651,
     "wof:placetype":"event",

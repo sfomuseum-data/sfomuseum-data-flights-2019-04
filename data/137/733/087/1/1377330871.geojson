@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-AUS-UA-5553",
     "sfomuseum:flight_number":"UA5553",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -69,7 +70,7 @@
         1159285413,
         1159157725
     ],
-    "wof:lastmodified":1554393789,
+    "wof:lastmodified":1559684803,
     "wof:name":"UA5553 (SFO-AUS)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

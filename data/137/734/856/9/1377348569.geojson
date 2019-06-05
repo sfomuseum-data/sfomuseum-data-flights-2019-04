@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-NAN-SFO-AA-7213",
     "sfomuseum:flight_number":"AA7213",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -71,7 +72,7 @@
         1159157685,
         1159283717
     ],
-    "wof:lastmodified":1554652941,
+    "wof:lastmodified":1559684634,
     "wof:name":"AA7213 (NAN-SFO)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-DEN-NZ-9059",
     "sfomuseum:flight_number":"NZ9059",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1555017586,
+    "wof:lastmodified":1559684468,
     "wof:name":"NZ9059 (SFO-DEN)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

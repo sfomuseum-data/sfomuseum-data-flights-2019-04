@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-EWR-SFO-NZ-9132",
     "sfomuseum:flight_number":"NZ9132",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -71,7 +72,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1554307356,
+    "wof:lastmodified":1559685186,
     "wof:name":"NZ9132 (EWR-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

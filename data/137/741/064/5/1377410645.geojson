@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-MSP-SY-390",
     "sfomuseum:flight_number":"SY390",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157641,
@@ -69,7 +70,7 @@
         1159285227,
         1159157641
     ],
-    "wof:lastmodified":1555017580,
+    "wof:lastmodified":1559684469,
     "wof:name":"SY390 (SFO-MSP)",
     "wof:parent_id":1159157641,
     "wof:placetype":"event",

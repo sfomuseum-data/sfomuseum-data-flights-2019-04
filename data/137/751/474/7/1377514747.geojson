@@ -35,6 +35,7 @@
         "UAL2262"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -74,7 +75,7 @@
         1159285413,
         1159157741
     ],
-    "wof:lastmodified":1556035450,
+    "wof:lastmodified":1559685057,
     "wof:name":"UA2262 (SFO-CLE)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

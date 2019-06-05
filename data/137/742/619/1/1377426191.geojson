@@ -33,6 +33,7 @@
         "JAL2"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -72,7 +73,7 @@
         1159284563,
         1159157635
     ],
-    "wof:lastmodified":1555171381,
+    "wof:lastmodified":1559685846,
     "wof:name":"JL2 (HND-SFO)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

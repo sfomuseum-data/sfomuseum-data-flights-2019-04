@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-ORD-AC-5166",
     "sfomuseum:flight_number":"AC5166",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -73,7 +74,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1554480166,
+    "wof:lastmodified":1559684814,
     "wof:name":"AC5166 (SFO-ORD)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

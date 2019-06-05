@@ -38,6 +38,7 @@
         "ANZ9160"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -78,7 +79,7 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1555776230,
+    "wof:lastmodified":1559684042,
     "wof:name":"NZ9160 (SFO-SMF)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

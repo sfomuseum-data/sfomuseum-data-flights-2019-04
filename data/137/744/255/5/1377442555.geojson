@@ -35,6 +35,7 @@
         "UAL2166"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -74,7 +75,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1555344203,
+    "wof:lastmodified":1559685676,
     "wof:name":"UA2166 (SFO-PDX)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

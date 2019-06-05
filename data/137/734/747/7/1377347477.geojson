@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-FLL-JL-5890",
     "sfomuseum:flight_number":"JL5890",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157607,
@@ -73,7 +74,7 @@
         1159157607,
         1360700745
     ],
-    "wof:lastmodified":1554566623,
+    "wof:lastmodified":1559684644,
     "wof:name":"JL5890 (SFO-FLL)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",

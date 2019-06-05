@@ -38,6 +38,7 @@
         "FJI5806"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -78,7 +79,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1556121858,
+    "wof:lastmodified":1559682729,
     "wof:name":"FJ5806 (SFO-HNL)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-LAX-SFO-WN-5210",
     "sfomuseum:flight_number":"WN5210",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -67,7 +68,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1554739376,
+    "wof:lastmodified":1559685203,
     "wof:name":"WN5210 (LAX-SFO)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

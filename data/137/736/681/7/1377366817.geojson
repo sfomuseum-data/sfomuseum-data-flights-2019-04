@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-SMF-SFO-UA-1347",
     "sfomuseum:flight_number":"UA1347",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -67,7 +68,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554825756,
+    "wof:lastmodified":1559683514,
     "wof:name":"UA1347 (SMF-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

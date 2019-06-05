@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-BFL-UA-5260",
     "sfomuseum:flight_number":"UA5260",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -69,7 +70,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554221033,
+    "wof:lastmodified":1559683872,
     "wof:name":"UA5260 (SFO-BFL)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

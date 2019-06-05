@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-TPE-SQ-5827",
     "sfomuseum:flight_number":"SQ5827",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -73,7 +74,7 @@
         1159157657,
         1159284349
     ],
-    "wof:lastmodified":1554480225,
+    "wof:lastmodified":1559684793,
     "wof:name":"SQ5827 (SFO-TPE)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

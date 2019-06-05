@@ -38,6 +38,7 @@
         "ANZ9309"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -78,7 +79,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1556640289,
+    "wof:lastmodified":1559685459,
     "wof:name":"NZ9309 (SFO-DCA)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

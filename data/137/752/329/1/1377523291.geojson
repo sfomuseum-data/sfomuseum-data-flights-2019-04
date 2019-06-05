@@ -35,6 +35,7 @@
         "AAL152"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157801,
@@ -74,7 +75,7 @@
         1159283849,
         1159157801
     ],
-    "wof:lastmodified":1556121866,
+    "wof:lastmodified":1559682746,
     "wof:name":"AA152 (SFO-DFW)",
     "wof:parent_id":1159157801,
     "wof:placetype":"event",

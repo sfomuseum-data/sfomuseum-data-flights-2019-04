@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-JFK-DL-1466",
     "sfomuseum:flight_number":"DL1466",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -69,7 +70,7 @@
         1159284261,
         1159157803
     ],
-    "wof:lastmodified":1554220969,
+    "wof:lastmodified":1559683788,
     "wof:name":"DL1466 (SFO-JFK)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

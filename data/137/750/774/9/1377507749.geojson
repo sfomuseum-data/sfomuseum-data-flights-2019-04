@@ -38,6 +38,7 @@
         "ANZ9397"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -78,7 +79,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1555949057,
+    "wof:lastmodified":1559685404,
     "wof:name":"NZ9397 (SFO-BOI)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

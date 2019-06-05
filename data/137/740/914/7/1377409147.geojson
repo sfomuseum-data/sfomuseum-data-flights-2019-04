@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-SAN-SFO-AY-2516",
     "sfomuseum:flight_number":"AY2516",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284389,
         1159283813
     ],
-    "wof:lastmodified":1555017565,
+    "wof:lastmodified":1559683888,
     "wof:name":"AY2516 (SAN-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-CTU-SFO-UA-8",
     "sfomuseum:flight_number":"UA8",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -67,7 +68,7 @@
         1159285413,
         1159157777
     ],
-    "wof:lastmodified":1554825752,
+    "wof:lastmodified":1559683642,
     "wof:name":"UA8 (CTU-SFO)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

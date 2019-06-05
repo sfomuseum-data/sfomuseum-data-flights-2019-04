@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-LAX-SFO-UA-420",
     "sfomuseum:flight_number":"UA420",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -67,7 +68,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554220965,
+    "wof:lastmodified":1559683786,
     "wof:name":"UA420 (LAX-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

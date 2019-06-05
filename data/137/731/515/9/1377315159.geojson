@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-TPE-TG-6333",
     "sfomuseum:flight_number":"TG6333",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -73,7 +74,7 @@
         1159157687,
         1159284349
     ],
-    "wof:lastmodified":1554220991,
+    "wof:lastmodified":1559683875,
     "wof:name":"TG6333 (SFO-TPE)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

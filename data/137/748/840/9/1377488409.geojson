@@ -33,6 +33,7 @@
         "UAL114"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -72,7 +73,7 @@
         1159285413,
         1159157777
     ],
-    "wof:lastmodified":1555776204,
+    "wof:lastmodified":1559684121,
     "wof:name":"UA114 (PPT-SFO)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

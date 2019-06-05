@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-BOI-AC-4385",
     "sfomuseum:flight_number":"AC4385",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -73,7 +74,7 @@
         1159157669,
         1159285413
     ],
-    "wof:lastmodified":1555017579,
+    "wof:lastmodified":1559684557,
     "wof:name":"AC4385 (SFO-BOI)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

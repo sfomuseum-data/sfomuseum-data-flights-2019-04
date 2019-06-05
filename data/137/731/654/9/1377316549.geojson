@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-AUS-AC-5859",
     "sfomuseum:flight_number":"AC5859",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -73,7 +74,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554221016,
+    "wof:lastmodified":1559683860,
     "wof:name":"AC5859 (SFO-AUS)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

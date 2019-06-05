@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-IAH-NZ-9193",
     "sfomuseum:flight_number":"NZ9193",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554307377,
+    "wof:lastmodified":1559685165,
     "wof:name":"NZ9193 (SFO-IAH)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

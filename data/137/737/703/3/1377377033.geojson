@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-IAD-NZ-9250",
     "sfomuseum:flight_number":"NZ9250",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157757,
@@ -73,7 +74,7 @@
         1159157757,
         1159285413
     ],
-    "wof:lastmodified":1554912208,
+    "wof:lastmodified":1559682932,
     "wof:name":"NZ9250 (SFO-IAD)",
     "wof:parent_id":1159157757,
     "wof:placetype":"event",

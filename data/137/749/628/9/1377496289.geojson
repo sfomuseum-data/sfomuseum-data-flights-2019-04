@@ -36,6 +36,7 @@
         "CMP1137"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -76,7 +77,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1555862593,
+    "wof:lastmodified":1559683951,
     "wof:name":"CM1137 (YYC-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

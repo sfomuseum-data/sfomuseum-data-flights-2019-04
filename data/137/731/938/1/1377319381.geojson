@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-BOS-SFO-UA-477",
     "sfomuseum:flight_number":"UA477",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -67,7 +68,7 @@
         1159285413,
         1159157749
     ],
-    "wof:lastmodified":1554307351,
+    "wof:lastmodified":1559683779,
     "wof:name":"UA477 (BOS-SFO)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

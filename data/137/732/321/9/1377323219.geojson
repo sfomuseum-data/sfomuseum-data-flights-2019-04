@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-DEN-AC-5822",
     "sfomuseum:flight_number":"AC5822",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -73,7 +74,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1554307391,
+    "wof:lastmodified":1559685198,
     "wof:name":"AC5822 (SFO-DEN)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

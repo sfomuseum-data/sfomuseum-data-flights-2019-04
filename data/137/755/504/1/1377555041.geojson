@@ -38,6 +38,7 @@
         "ANZ4606"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157719,
@@ -78,7 +79,7 @@
         1159157719,
         1159283597
     ],
-    "wof:lastmodified":1556467573,
+    "wof:lastmodified":1559682768,
     "wof:name":"NZ4606 (SFO-YVR)",
     "wof:parent_id":1159157719,
     "wof:placetype":"event",

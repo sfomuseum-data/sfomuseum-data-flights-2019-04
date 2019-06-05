@@ -33,6 +33,7 @@
         "ASA1969"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102528997,
         1159283813
     ],
-    "wof:lastmodified":1556640222,
+    "wof:lastmodified":1559684934,
     "wof:name":"AS1969 (SAN-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-ABQ-AC-4030",
     "sfomuseum:flight_number":"AC4030",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157769,
@@ -73,7 +74,7 @@
         1159157769,
         1159285413
     ],
-    "wof:lastmodified":1554307368,
+    "wof:lastmodified":1559685143,
     "wof:name":"AC4030 (SFO-ABQ)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",

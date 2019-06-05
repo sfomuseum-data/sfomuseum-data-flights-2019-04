@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-SAN-CX-7926",
     "sfomuseum:flight_number":"CX7926",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1554825775,
+    "wof:lastmodified":1559683468,
     "wof:name":"CX7926 (SFO-SAN)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

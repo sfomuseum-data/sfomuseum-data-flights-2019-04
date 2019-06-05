@@ -35,6 +35,7 @@
         "ACA754"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -74,7 +75,7 @@
         1159283597,
         1159157687
     ],
-    "wof:lastmodified":1556121874,
+    "wof:lastmodified":1559682712,
     "wof:name":"AC754 (SFO-YYZ)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

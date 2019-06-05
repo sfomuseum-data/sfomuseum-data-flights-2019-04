@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-AMS-DL-9347",
     "sfomuseum:flight_number":"DL9347",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157641,
@@ -73,7 +74,7 @@
         1159157641,
         1159284613
     ],
-    "wof:lastmodified":1554393772,
+    "wof:lastmodified":1559685193,
     "wof:name":"DL9347 (SFO-AMS)",
     "wof:parent_id":1159157641,
     "wof:placetype":"event",

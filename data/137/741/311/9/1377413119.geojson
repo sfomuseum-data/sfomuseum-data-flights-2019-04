@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-CLT-QF-3015",
     "sfomuseum:flight_number":"QF3015",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -73,7 +74,7 @@
         1159157755,
         1159283849
     ],
-    "wof:lastmodified":1555017624,
+    "wof:lastmodified":1559684580,
     "wof:name":"QF3015 (SFO-CLT)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

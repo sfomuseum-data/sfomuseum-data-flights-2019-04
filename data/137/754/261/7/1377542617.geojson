@@ -33,6 +33,7 @@
         "DAL3633"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -72,7 +73,7 @@
         1159284261,
         1159157711
     ],
-    "wof:lastmodified":1556381020,
+    "wof:lastmodified":1559683055,
     "wof:name":"DL3633 (SLC-SFO)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

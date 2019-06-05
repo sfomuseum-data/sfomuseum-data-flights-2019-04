@@ -36,6 +36,7 @@
         "CAL9868"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -76,7 +77,7 @@
         1159157663,
         1159284261
     ],
-    "wof:lastmodified":1555171375,
+    "wof:lastmodified":1559685856,
     "wof:name":"CI9868 (LAX-SFO)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

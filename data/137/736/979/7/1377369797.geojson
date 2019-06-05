@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-SBA-LH-9220",
     "sfomuseum:flight_number":"LH9220",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -73,7 +74,7 @@
         1159157855,
         1159285413
     ],
-    "wof:lastmodified":1554825807,
+    "wof:lastmodified":1559683586,
     "wof:name":"LH9220 (SFO-SBA)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

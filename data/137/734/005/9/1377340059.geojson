@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PHX-LH-9366",
     "sfomuseum:flight_number":"LH9366",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -73,7 +74,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1554480227,
+    "wof:lastmodified":1559684698,
     "wof:name":"LH9366 (SFO-PHX)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

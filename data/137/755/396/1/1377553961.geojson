@@ -38,6 +38,7 @@
         "JAL5432"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159284563,
         1159283813
     ],
-    "wof:lastmodified":1556467554,
+    "wof:lastmodified":1559682761,
     "wof:name":"JL5432 (SFO-SLC)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PTY-BR-3185",
     "sfomuseum:flight_number":"BR3185",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -73,7 +74,7 @@
         1159157623,
         1159284211
     ],
-    "wof:lastmodified":1554566637,
+    "wof:lastmodified":1559684684,
     "wof:name":"BR3185 (SFO-PTY)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

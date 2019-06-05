@@ -38,6 +38,7 @@
         "DAL4363"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157641,
@@ -78,7 +79,7 @@
         1159157641,
         1159285483
     ],
-    "wof:lastmodified":1556294671,
+    "wof:lastmodified":1559683040,
     "wof:name":"DL4363 (SFO-LHR)",
     "wof:parent_id":1159157641,
     "wof:placetype":"event",

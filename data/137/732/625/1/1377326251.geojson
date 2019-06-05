@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-STS-SFO-UA-5738",
     "sfomuseum:flight_number":"UA5738",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -67,7 +68,7 @@
         1159285413,
         1159157837
     ],
-    "wof:lastmodified":1554393748,
+    "wof:lastmodified":1559685160,
     "wof:name":"UA5738 (STS-SFO)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

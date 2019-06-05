@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-ORD-AC-5332",
     "sfomuseum:flight_number":"AC5332",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554221002,
+    "wof:lastmodified":1559683873,
     "wof:name":"AC5332 (SFO-ORD)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

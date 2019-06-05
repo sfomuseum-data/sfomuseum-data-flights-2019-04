@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-ORD-NH-7242",
     "sfomuseum:flight_number":"NH7242",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -73,7 +74,7 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1554652957,
+    "wof:lastmodified":1559685231,
     "wof:name":"NH7242 (SFO-ORD)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

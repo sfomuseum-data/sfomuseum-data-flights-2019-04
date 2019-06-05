@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-ATL-SFO-AR-7060",
     "sfomuseum:flight_number":"AR7060",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -71,7 +72,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1554739376,
+    "wof:lastmodified":1559685262,
     "wof:name":"AR7060 (ATL-SFO)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ANA7346"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -78,7 +79,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1555689858,
+    "wof:lastmodified":1559684144,
     "wof:name":"NH7346 (SFO-MCO)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

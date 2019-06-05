@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAX-NH-7356",
     "sfomuseum:flight_number":"NH7356",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -73,7 +74,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554739428,
+    "wof:lastmodified":1559683593,
     "wof:name":"NH7356 (SFO-LAX)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

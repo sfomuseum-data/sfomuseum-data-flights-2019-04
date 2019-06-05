@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-ORD-SFO-UA-1847",
     "sfomuseum:flight_number":"UA1847",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -67,7 +68,7 @@
         1159285413,
         1159157789
     ],
-    "wof:lastmodified":1554220958,
+    "wof:lastmodified":1559683795,
     "wof:name":"UA1847 (ORD-SFO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

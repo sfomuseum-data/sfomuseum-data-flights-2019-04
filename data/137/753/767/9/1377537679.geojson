@@ -36,6 +36,7 @@
         "UAE6105"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157639,
@@ -76,7 +77,7 @@
         1159157639,
         1360700745
     ],
-    "wof:lastmodified":1556294629,
+    "wof:lastmodified":1559683315,
     "wof:name":"EK6105 (BOS-SFO)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",

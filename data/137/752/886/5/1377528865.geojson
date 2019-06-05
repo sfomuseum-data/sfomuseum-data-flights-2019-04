@@ -36,6 +36,7 @@
         "ANZ4805"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -76,7 +77,7 @@
         1159157687,
         1159283597
     ],
-    "wof:lastmodified":1556208220,
+    "wof:lastmodified":1559682685,
     "wof:name":"NZ4805 (YYZ-SFO)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

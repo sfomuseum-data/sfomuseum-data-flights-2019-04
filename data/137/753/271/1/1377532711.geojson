@@ -35,6 +35,7 @@
         "BAW286"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -74,7 +75,7 @@
         1159284021,
         1159157633
     ],
-    "wof:lastmodified":1556208275,
+    "wof:lastmodified":1559683350,
     "wof:name":"BA286 (SFO-LHR)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

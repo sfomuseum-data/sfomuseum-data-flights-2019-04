@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SAN-WN-5072",
     "sfomuseum:flight_number":"WN5072",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -69,7 +70,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1554652972,
+    "wof:lastmodified":1559685245,
     "wof:name":"WN5072 (SFO-SAN)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

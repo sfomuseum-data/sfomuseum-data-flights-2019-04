@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PHL-UA-384",
     "sfomuseum:flight_number":"UA384",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554739419,
+    "wof:lastmodified":1559683662,
     "wof:name":"UA384 (SFO-PHL)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

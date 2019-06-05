@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-EWR-SFO-NH-7007",
     "sfomuseum:flight_number":"NH7007",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -71,7 +72,7 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1555017560,
+    "wof:lastmodified":1559683897,
     "wof:name":"NH7007 (EWR-SFO)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

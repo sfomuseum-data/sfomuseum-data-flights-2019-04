@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-SMF-SFO-NZ-9677",
     "sfomuseum:flight_number":"NZ9677",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -71,7 +72,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1554307347,
+    "wof:lastmodified":1559683799,
     "wof:name":"NZ9677 (SMF-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

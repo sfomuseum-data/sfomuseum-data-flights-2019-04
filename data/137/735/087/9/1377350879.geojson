@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-LAX-SFO-AA-6041",
     "sfomuseum:flight_number":"AA6041",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157707,
@@ -67,7 +68,7 @@
         1159283849,
         1159157707
     ],
-    "wof:lastmodified":1554652948,
+    "wof:lastmodified":1559685266,
     "wof:name":"AA6041 (LAX-SFO)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",

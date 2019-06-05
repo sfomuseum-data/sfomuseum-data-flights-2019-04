@@ -36,6 +36,7 @@
         "ANZ9325"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -76,7 +77,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1556208212,
+    "wof:lastmodified":1559682682,
     "wof:name":"NZ9325 (ORD-SFO)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

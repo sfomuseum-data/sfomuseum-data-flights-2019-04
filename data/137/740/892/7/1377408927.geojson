@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-SEA-SFO-AS-1076",
     "sfomuseum:flight_number":"AS1076",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -67,7 +68,7 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1555017565,
+    "wof:lastmodified":1559683882,
     "wof:name":"AS1076 (SEA-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

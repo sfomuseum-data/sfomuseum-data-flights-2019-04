@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PHX-WN-1483",
     "sfomuseum:flight_number":"WN1483",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -69,7 +70,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554566588,
+    "wof:lastmodified":1559684602,
     "wof:name":"WN1483 (SFO-PHX)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

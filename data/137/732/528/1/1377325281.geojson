@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-EUG-SFO-UA-996",
     "sfomuseum:flight_number":"UA996",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -67,7 +68,7 @@
         1159285413,
         1159157783
     ],
-    "wof:lastmodified":1554393745,
+    "wof:lastmodified":1559685129,
     "wof:name":"UA996 (EUG-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

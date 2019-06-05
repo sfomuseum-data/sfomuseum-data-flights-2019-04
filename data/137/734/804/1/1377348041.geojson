@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-ATL-UA-575",
     "sfomuseum:flight_number":"UA575",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554566633,
+    "wof:lastmodified":1559684629,
     "wof:name":"UA575 (SFO-ATL)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

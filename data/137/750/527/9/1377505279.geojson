@@ -38,6 +38,7 @@
         "CCA7334"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -78,7 +79,7 @@
         1159157777,
         1159285413
     ],
-    "wof:lastmodified":1555949014,
+    "wof:lastmodified":1559685351,
     "wof:name":"CA7334 (SFO-PIT)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

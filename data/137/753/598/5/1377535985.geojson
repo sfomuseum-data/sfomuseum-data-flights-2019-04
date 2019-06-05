@@ -33,6 +33,7 @@
         "EVA8"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -72,7 +73,7 @@
         1159284349,
         1159157683
     ],
-    "wof:lastmodified":1556294623,
+    "wof:lastmodified":1559683328,
     "wof:name":"BR8 (TPE-SFO)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

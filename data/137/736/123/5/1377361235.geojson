@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SEA-WS-7469",
     "sfomuseum:flight_number":"WS7469",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -73,7 +74,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1554739416,
+    "wof:lastmodified":1559683752,
     "wof:name":"WS7469 (SFO-SEA)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

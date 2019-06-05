@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-CLE-OZ-9525",
     "sfomuseum:flight_number":"OZ9525",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -73,7 +74,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1554652954,
+    "wof:lastmodified":1559685276,
     "wof:name":"OZ9525 (SFO-CLE)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

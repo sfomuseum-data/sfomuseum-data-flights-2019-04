@@ -38,6 +38,7 @@
         "ACA4242"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -78,7 +79,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1556726688,
+    "wof:lastmodified":1559685437,
     "wof:name":"AC4242 (SFO-SNA)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

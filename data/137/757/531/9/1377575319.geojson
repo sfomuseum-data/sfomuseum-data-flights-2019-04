@@ -36,6 +36,7 @@
         "SAS3941"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -76,7 +77,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1556726632,
+    "wof:lastmodified":1559685478,
     "wof:name":"SK3941 (ORD-SFO)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

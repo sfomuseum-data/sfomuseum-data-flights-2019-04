@@ -36,6 +36,7 @@
         "VIR7650"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -76,7 +77,7 @@
         1159157677,
         1159283697
     ],
-    "wof:lastmodified":1555776210,
+    "wof:lastmodified":1559683947,
     "wof:name":"VS7650 (AKL-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

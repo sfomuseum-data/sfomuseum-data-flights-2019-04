@@ -36,6 +36,7 @@
         "QFA3795"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -76,7 +77,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1555171377,
+    "wof:lastmodified":1559685912,
     "wof:name":"QF3795 (MSY-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

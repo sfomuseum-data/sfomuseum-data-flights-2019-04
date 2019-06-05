@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-SLC-SFO-KE-6745",
     "sfomuseum:flight_number":"KE6745",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -71,7 +72,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1554220965,
+    "wof:lastmodified":1559683802,
     "wof:name":"KE6745 (SLC-SFO)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

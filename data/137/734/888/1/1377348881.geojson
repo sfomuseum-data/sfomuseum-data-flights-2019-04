@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-DEL-SFO-AI-173",
     "sfomuseum:flight_number":"AI173",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -67,7 +68,7 @@
         1159283649,
         1159157685
     ],
-    "wof:lastmodified":1554652942,
+    "wof:lastmodified":1559684626,
     "wof:name":"AI173 (DEL-SFO)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

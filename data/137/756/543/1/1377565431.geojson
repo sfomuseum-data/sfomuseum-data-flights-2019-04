@@ -33,6 +33,7 @@
         "ASA1945"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -72,7 +73,7 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1556640220,
+    "wof:lastmodified":1559684905,
     "wof:name":"AS1945 (LAX-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

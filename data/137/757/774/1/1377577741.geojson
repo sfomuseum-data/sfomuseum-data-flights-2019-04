@@ -38,6 +38,7 @@
         "CMP2512"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -78,7 +79,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1556726670,
+    "wof:lastmodified":1559685524,
     "wof:name":"CM2512 (SFO-SAN)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

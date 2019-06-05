@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-CLE-SFO-UA-1615",
     "sfomuseum:flight_number":"UA1615",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -67,7 +68,7 @@
         1159285413,
         1159157721
     ],
-    "wof:lastmodified":1554220961,
+    "wof:lastmodified":1559683816,
     "wof:name":"UA1615 (CLE-SFO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-RNO-LH-8940",
     "sfomuseum:flight_number":"LH8940",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -73,7 +74,7 @@
         1159157689,
         1159285413
     ],
-    "wof:lastmodified":1554307373,
+    "wof:lastmodified":1559685163,
     "wof:name":"LH8940 (SFO-RNO)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-YVR-SFO-AV-2391",
     "sfomuseum:flight_number":"AV2391",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -71,7 +72,7 @@
         1159157725,
         1159285413
     ],
-    "wof:lastmodified":1554825754,
+    "wof:lastmodified":1559683552,
     "wof:name":"AV2391 (YVR-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

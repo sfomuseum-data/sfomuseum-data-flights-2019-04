@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SAN-AC-5618",
     "sfomuseum:flight_number":"AC5618",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -73,7 +74,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1554307394,
+    "wof:lastmodified":1559685084,
     "wof:name":"AC5618 (SFO-SAN)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

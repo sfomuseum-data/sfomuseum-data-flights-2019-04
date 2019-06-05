@@ -33,6 +33,7 @@
         "ASA2359"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102532251,
         1159283813
     ],
-    "wof:lastmodified":1555344187,
+    "wof:lastmodified":1559685808,
     "wof:name":"AS2359 (PDX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

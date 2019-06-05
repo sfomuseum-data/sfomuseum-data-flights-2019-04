@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-YVR-AC-569",
     "sfomuseum:flight_number":"AC569",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -69,7 +70,7 @@
         1159283597,
         1159157623
     ],
-    "wof:lastmodified":1554393783,
+    "wof:lastmodified":1559684763,
     "wof:name":"AC569 (SFO-YVR)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

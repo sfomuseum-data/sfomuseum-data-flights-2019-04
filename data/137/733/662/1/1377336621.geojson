@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-NAN-SFO-QF-3855",
     "sfomuseum:flight_number":"QF3855",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157607,
@@ -71,7 +72,7 @@
         1159157607,
         1159283717
     ],
-    "wof:lastmodified":1554480165,
+    "wof:lastmodified":1559684824,
     "wof:name":"QF3855 (NAN-SFO)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",

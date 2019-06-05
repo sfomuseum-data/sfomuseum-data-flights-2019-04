@@ -33,6 +33,7 @@
         "DAL1401"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -72,7 +73,7 @@
         1159284261,
         1159157857
     ],
-    "wof:lastmodified":1555344197,
+    "wof:lastmodified":1559685608,
     "wof:name":"DL1401 (MSP-SFO)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

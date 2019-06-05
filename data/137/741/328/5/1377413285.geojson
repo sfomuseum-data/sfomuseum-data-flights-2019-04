@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-MRY-LH-8880",
     "sfomuseum:flight_number":"LH8880",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -73,7 +74,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1555017627,
+    "wof:lastmodified":1559684589,
     "wof:name":"LH8880 (SFO-MRY)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

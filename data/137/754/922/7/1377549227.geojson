@@ -38,6 +38,7 @@
         "CMP1887"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -78,7 +79,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1556381096,
+    "wof:lastmodified":1559683099,
     "wof:name":"CM1887 (SFO-LAS)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

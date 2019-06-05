@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-IAH-NH-7336",
     "sfomuseum:flight_number":"NH7336",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -73,7 +74,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1554393759,
+    "wof:lastmodified":1559685196,
     "wof:name":"NH7336 (SFO-IAH)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

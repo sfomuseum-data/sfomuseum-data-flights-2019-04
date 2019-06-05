@@ -33,6 +33,7 @@
         "AAL1428"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102528541,
         1159283849
     ],
-    "wof:lastmodified":1555776200,
+    "wof:lastmodified":1559684089,
     "wof:name":"AA1428 (DFW-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

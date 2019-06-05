@@ -33,6 +33,7 @@
         "UAL2348"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -72,7 +73,7 @@
         1159285413,
         1159157675
     ],
-    "wof:lastmodified":1555689791,
+    "wof:lastmodified":1559683906,
     "wof:name":"UA2348 (DFW-SFO)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

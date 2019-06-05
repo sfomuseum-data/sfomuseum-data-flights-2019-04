@@ -35,6 +35,7 @@
         "JBU1635"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157613,
@@ -74,7 +75,7 @@
         1360700745,
         1159157613
     ],
-    "wof:lastmodified":1556640240,
+    "wof:lastmodified":1559684942,
     "wof:name":"B61635 (SFO-LGB)",
     "wof:parent_id":1159157613,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAX-CI-9009",
     "sfomuseum:flight_number":"CI9009",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -73,7 +74,7 @@
         1159157663,
         1159284261
     ],
-    "wof:lastmodified":1554739396,
+    "wof:lastmodified":1559683566,
     "wof:name":"CI9009 (SFO-LAX)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

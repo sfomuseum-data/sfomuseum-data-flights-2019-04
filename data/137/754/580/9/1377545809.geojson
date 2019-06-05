@@ -38,6 +38,7 @@
         "ANZ9169"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -78,7 +79,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1556381035,
+    "wof:lastmodified":1559683105,
     "wof:name":"NZ9169 (SFO-IAD)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

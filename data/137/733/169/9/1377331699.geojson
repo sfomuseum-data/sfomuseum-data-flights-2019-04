@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-DAL-AS-3408",
     "sfomuseum:flight_number":"AS3408",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -69,7 +70,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1554393804,
+    "wof:lastmodified":1559684735,
     "wof:name":"AS3408 (SFO-DAL)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

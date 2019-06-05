@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-LAX-AS-1936",
     "sfomuseum:flight_number":"AS1936",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -69,7 +70,7 @@
         1159283813,
         1159157703
     ],
-    "wof:lastmodified":1554825812,
+    "wof:lastmodified":1559682903,
     "wof:name":"AS1936 (SFO-LAX)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

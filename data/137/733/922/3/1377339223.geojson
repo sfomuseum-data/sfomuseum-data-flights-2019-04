@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-MUC-OS-7334",
     "sfomuseum:flight_number":"OS7334",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -73,7 +74,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1554480212,
+    "wof:lastmodified":1559684781,
     "wof:name":"OS7334 (SFO-MUC)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-CDG-SFO-AC-5941",
     "sfomuseum:flight_number":"AC5941",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -71,7 +72,7 @@
         1159157677,
         1159285413
     ],
-    "wof:lastmodified":1554652950,
+    "wof:lastmodified":1559685261,
     "wof:name":"AC5941 (CDG-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
         "SWA1095"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -72,7 +73,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1556035412,
+    "wof:lastmodified":1559685057,
     "wof:name":"WN1095 (LAS-SFO)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

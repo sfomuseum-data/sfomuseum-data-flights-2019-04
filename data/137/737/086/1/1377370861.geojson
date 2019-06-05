@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-LAX-SFO-NZ-9276",
     "sfomuseum:flight_number":"NZ9276",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -71,7 +72,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1554912152,
+    "wof:lastmodified":1559682950,
     "wof:name":"NZ9276 (LAX-SFO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

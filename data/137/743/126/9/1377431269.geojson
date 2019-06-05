@@ -36,6 +36,7 @@
         "ACA4000"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -76,7 +77,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1555257765,
+    "wof:lastmodified":1559685775,
     "wof:name":"AC4000 (PHX-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

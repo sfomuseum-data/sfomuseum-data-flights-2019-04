@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-SEA-SFO-EK-3077",
     "sfomuseum:flight_number":"EK3077",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284333,
         1159283813
     ],
-    "wof:lastmodified":1554566561,
+    "wof:lastmodified":1559684627,
     "wof:name":"EK3077 (SEA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

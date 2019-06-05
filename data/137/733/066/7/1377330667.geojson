@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-AUS-NH-7332",
     "sfomuseum:flight_number":"NH7332",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -73,7 +74,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1554393786,
+    "wof:lastmodified":1559684821,
     "wof:name":"NH7332 (SFO-AUS)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

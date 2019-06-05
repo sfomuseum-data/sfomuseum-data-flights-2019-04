@@ -36,6 +36,7 @@
         "VIR4997"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -76,7 +77,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1556553824,
+    "wof:lastmodified":1559682862,
     "wof:name":"VS4997 (SEA-SFO)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

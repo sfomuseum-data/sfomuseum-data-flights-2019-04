@@ -38,6 +38,7 @@
         "DLH9202"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -78,7 +79,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1555776220,
+    "wof:lastmodified":1559683973,
     "wof:name":"LH9202 (SFO-SAN)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

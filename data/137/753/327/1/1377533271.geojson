@@ -38,6 +38,7 @@
         "FJI5822"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -78,7 +79,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1556208284,
+    "wof:lastmodified":1559683433,
     "wof:name":"FJ5822 (SFO-MCI)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

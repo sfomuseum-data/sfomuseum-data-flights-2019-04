@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-SMF-SFO-UA-5562",
     "sfomuseum:flight_number":"UA5562",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -67,7 +68,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554480158,
+    "wof:lastmodified":1559684742,
     "wof:name":"UA5562 (SMF-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

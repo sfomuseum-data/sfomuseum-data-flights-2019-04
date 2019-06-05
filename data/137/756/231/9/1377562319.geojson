@@ -35,6 +35,7 @@
         "ASA1202"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1556553861,
+    "wof:lastmodified":1559684949,
     "wof:name":"AS1202 (SFO-ORD)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

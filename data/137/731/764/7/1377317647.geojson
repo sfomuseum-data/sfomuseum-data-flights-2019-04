@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-BUR-WN-1515",
     "sfomuseum:flight_number":"WN1515",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157859,
@@ -69,7 +70,7 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1554221037,
+    "wof:lastmodified":1559683779,
     "wof:name":"WN1515 (SFO-BUR)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",

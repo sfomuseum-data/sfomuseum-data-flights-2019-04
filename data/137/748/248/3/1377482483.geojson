@@ -36,6 +36,7 @@
         "FIN2518"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -76,7 +77,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1555689805,
+    "wof:lastmodified":1559684114,
     "wof:name":"AY2518 (SAN-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

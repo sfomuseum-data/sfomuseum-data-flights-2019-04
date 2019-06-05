@@ -38,6 +38,7 @@
         "LOT4410"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -78,7 +79,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1556553849,
+    "wof:lastmodified":1559684926,
     "wof:name":"LO4410 (SFO-DCA)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

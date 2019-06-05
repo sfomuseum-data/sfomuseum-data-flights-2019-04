@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-LAX-SFO-CM-1065",
     "sfomuseum:flight_number":"CM1065",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -71,7 +72,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554825746,
+    "wof:lastmodified":1559683761,
     "wof:name":"CM1065 (LAX-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

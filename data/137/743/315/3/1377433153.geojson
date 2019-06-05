@@ -36,6 +36,7 @@
         "FJI5817"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -77,7 +78,7 @@
         1159283717,
         1159283813
     ],
-    "wof:lastmodified":1555257771,
+    "wof:lastmodified":1559685769,
     "wof:name":"FJ5817 (PDX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

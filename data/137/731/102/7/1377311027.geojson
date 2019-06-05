@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-DEN-SFO-Y4-2135",
     "sfomuseum:flight_number":"Y42135",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157625,
@@ -71,7 +72,7 @@
         1159157625,
         1159284401
     ],
-    "wof:lastmodified":1554220959,
+    "wof:lastmodified":1559683784,
     "wof:name":"Y42135 (DEN-SFO)",
     "wof:parent_id":1159157625,
     "wof:placetype":"event",

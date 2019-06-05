@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-RNO-SFO-LH-8909",
     "sfomuseum:flight_number":"LH8909",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -71,7 +72,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1554480156,
+    "wof:lastmodified":1559684843,
     "wof:name":"LH8909 (RNO-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

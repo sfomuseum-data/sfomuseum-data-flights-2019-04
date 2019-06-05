@@ -38,6 +38,7 @@
         "ANA7336"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -78,7 +79,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1556208240,
+    "wof:lastmodified":1559683345,
     "wof:name":"NH7336 (SFO-IAH)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

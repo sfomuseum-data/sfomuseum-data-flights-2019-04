@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-MSY-FJ-5826",
     "sfomuseum:flight_number":"FJ5826",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -73,7 +74,7 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1554739449,
+    "wof:lastmodified":1559683490,
     "wof:name":"FJ5826 (SFO-MSY)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

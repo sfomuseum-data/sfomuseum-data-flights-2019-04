@@ -38,6 +38,7 @@
         "ANA7509"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -78,7 +79,7 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1556121834,
+    "wof:lastmodified":1559682668,
     "wof:name":"NH7509 (SFO-EWR)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

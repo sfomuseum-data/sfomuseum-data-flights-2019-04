@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SEA-KL-5879",
     "sfomuseum:flight_number":"KL5879",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157747,
@@ -73,7 +74,7 @@
         1159157747,
         1159284261
     ],
-    "wof:lastmodified":1554221009,
+    "wof:lastmodified":1559683847,
     "wof:name":"KL5879 (SFO-SEA)",
     "wof:parent_id":1159157747,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SAN-WN-1802",
     "sfomuseum:flight_number":"WN1802",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -69,7 +70,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1554480202,
+    "wof:lastmodified":1559684821,
     "wof:name":"WN1802 (SFO-SAN)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

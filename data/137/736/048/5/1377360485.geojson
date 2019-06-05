@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-JFK-EK-6126",
     "sfomuseum:flight_number":"EK6126",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -73,7 +74,7 @@
         1159157631,
         1360700745
     ],
-    "wof:lastmodified":1554739403,
+    "wof:lastmodified":1559683531,
     "wof:name":"EK6126 (SFO-JFK)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

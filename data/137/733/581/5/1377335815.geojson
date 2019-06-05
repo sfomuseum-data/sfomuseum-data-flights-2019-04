@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-PDX-SFO-CX-7965",
     "sfomuseum:flight_number":"CX7965",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1554480163,
+    "wof:lastmodified":1559684774,
     "wof:name":"CX7965 (PDX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

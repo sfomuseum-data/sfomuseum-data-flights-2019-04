@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-CVG-UA-452",
     "sfomuseum:flight_number":"UA452",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -69,7 +70,7 @@
         1159285413,
         1159157647
     ],
-    "wof:lastmodified":1554912202,
+    "wof:lastmodified":1559682903,
     "wof:name":"UA452 (SFO-CVG)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

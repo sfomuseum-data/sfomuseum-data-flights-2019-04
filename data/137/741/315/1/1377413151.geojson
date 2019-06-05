@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-VS-4102",
     "sfomuseum:flight_number":"VS4102",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1555017624,
+    "wof:lastmodified":1559684487,
     "wof:name":"VS4102 (SFO-LAX)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

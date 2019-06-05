@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-FLL-AS-1346",
     "sfomuseum:flight_number":"AS1346",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554739432,
+    "wof:lastmodified":1559683717,
     "wof:name":"AS1346 (SFO-FLL)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

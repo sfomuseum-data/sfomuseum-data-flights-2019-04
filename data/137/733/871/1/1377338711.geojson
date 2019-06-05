@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PSP-FJ-5854",
     "sfomuseum:flight_number":"FJ5854",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554480203,
+    "wof:lastmodified":1559684809,
     "wof:name":"FJ5854 (SFO-PSP)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-DEL-SFO-AI-183",
     "sfomuseum:flight_number":"AI183",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -67,7 +68,7 @@
         1159283649,
         1159157683
     ],
-    "wof:lastmodified":1554739378,
+    "wof:lastmodified":1559685230,
     "wof:name":"AI183 (DEL-SFO)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

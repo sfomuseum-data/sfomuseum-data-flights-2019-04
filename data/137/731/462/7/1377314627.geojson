@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-HNL-UA-300",
     "sfomuseum:flight_number":"UA300",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -69,7 +70,7 @@
         1159285413,
         1159157671
     ],
-    "wof:lastmodified":1554220981,
+    "wof:lastmodified":1559683815,
     "wof:name":"UA300 (SFO-HNL)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

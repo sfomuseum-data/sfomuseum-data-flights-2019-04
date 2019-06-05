@@ -36,6 +36,7 @@
         "SAS6884"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -76,7 +77,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1556121800,
+    "wof:lastmodified":1559684985,
     "wof:name":"SK6884 (EWR-SFO)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "AAL7213"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -76,7 +77,7 @@
         1159157621,
         1159283717
     ],
-    "wof:lastmodified":1556467530,
+    "wof:lastmodified":1559682782,
     "wof:name":"AA7213 (NAN-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

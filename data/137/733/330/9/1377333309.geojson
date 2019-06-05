@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-PSP-SFO-UA-1493",
     "sfomuseum:flight_number":"UA1493",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -67,7 +68,7 @@
         1159285413,
         1159157771
     ],
-    "wof:lastmodified":1554480155,
+    "wof:lastmodified":1559684727,
     "wof:name":"UA1493 (PSP-SFO)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

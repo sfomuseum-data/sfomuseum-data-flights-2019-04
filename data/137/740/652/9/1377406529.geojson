@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-LHR-SFO-LH-9378",
     "sfomuseum:flight_number":"LH9378",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -71,7 +72,7 @@
         1159157657,
         1159285413
     ],
-    "wof:lastmodified":1555017557,
+    "wof:lastmodified":1559683894,
     "wof:name":"LH9378 (LHR-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-MCO-QF-3796",
     "sfomuseum:flight_number":"QF3796",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554652974,
+    "wof:lastmodified":1559685301,
     "wof:name":"QF3796 (SFO-MCO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

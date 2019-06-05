@@ -38,6 +38,7 @@
         "SIA5817"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -78,7 +79,7 @@
         1159157777,
         1159284349
     ],
-    "wof:lastmodified":1556294690,
+    "wof:lastmodified":1559683100,
     "wof:name":"SQ5817 (SFO-TPE)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

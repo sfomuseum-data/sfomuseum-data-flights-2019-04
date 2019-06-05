@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-ORD-SFO-AS-1203",
     "sfomuseum:flight_number":"AS1203",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -68,7 +69,7 @@
         102533631,
         1159283813
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685092,
     "wof:name":"AS1203 (ORD-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

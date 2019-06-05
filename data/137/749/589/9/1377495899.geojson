@@ -33,6 +33,7 @@
         "UAL2806"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -72,7 +73,7 @@
         1159285413,
         1159157623
     ],
-    "wof:lastmodified":1555862591,
+    "wof:lastmodified":1559683989,
     "wof:name":"UA2806 (CUN-SFO)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

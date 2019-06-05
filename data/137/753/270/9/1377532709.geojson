@@ -38,6 +38,7 @@
         "CCA7336"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -78,7 +79,7 @@
         1159157669,
         1159285413
     ],
-    "wof:lastmodified":1556208275,
+    "wof:lastmodified":1559683330,
     "wof:name":"CA7336 (SFO-SEA)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

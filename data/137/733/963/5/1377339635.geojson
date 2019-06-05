@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PHL-QF-3047",
     "sfomuseum:flight_number":"QF3047",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -73,7 +74,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554480219,
+    "wof:lastmodified":1559684732,
     "wof:name":"QF3047 (SFO-PHL)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

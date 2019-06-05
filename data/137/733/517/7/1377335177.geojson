@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-MRY-SFO-UA-5316",
     "sfomuseum:flight_number":"UA5316",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -67,7 +68,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554480161,
+    "wof:lastmodified":1559684771,
     "wof:name":"UA5316 (MRY-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

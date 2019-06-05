@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PHX-NZ-9370",
     "sfomuseum:flight_number":"NZ9370",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -73,7 +74,7 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1554825806,
+    "wof:lastmodified":1559683612,
     "wof:name":"NZ9370 (SFO-PHX)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

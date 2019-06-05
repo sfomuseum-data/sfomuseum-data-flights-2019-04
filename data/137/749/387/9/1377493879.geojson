@@ -38,6 +38,7 @@
         "KLM5879"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -78,7 +79,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1555776274,
+    "wof:lastmodified":1559684042,
     "wof:name":"KL5879 (SFO-SEA)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ACA5390"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -78,7 +79,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1556121822,
+    "wof:lastmodified":1559682682,
     "wof:name":"AC5390 (SFO-ORD)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

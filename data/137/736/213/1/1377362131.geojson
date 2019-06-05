@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAX-WN-5219",
     "sfomuseum:flight_number":"WN5219",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -69,7 +70,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554739432,
+    "wof:lastmodified":1559683717,
     "wof:name":"WN5219 (SFO-LAX)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

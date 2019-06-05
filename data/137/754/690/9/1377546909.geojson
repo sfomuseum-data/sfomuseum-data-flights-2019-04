@@ -38,6 +38,7 @@
         "FJI5850"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -78,7 +79,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1556381055,
+    "wof:lastmodified":1559683167,
     "wof:name":"FJ5850 (SFO-IAD)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

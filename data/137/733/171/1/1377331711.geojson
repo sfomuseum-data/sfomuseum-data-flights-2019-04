@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-MUC-SN-7253",
     "sfomuseum:flight_number":"SN7253",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -73,7 +74,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1554393804,
+    "wof:lastmodified":1559684845,
     "wof:name":"SN7253 (SFO-MUC)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

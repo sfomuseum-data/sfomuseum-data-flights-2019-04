@@ -36,6 +36,7 @@
         "ACA4134"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -76,7 +77,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1555776199,
+    "wof:lastmodified":1559684055,
     "wof:name":"AC4134 (SNA-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PDX-LH-7690",
     "sfomuseum:flight_number":"LH7690",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -73,7 +74,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554739404,
+    "wof:lastmodified":1559683571,
     "wof:name":"LH7690 (SFO-PDX)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

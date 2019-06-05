@@ -36,6 +36,7 @@
         "CPA7929"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -77,7 +78,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1556208211,
+    "wof:lastmodified":1559682715,
     "wof:name":"CX7929 (SAN-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

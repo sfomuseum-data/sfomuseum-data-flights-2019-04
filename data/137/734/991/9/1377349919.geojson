@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-FRA-SFO-AC-5961",
     "sfomuseum:flight_number":"AC5961",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -71,7 +72,7 @@
         1159157687,
         1159285413
     ],
-    "wof:lastmodified":1554652945,
+    "wof:lastmodified":1559684606,
     "wof:name":"AC5961 (FRA-SFO)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-MIA-SFO-BA-1839",
     "sfomuseum:flight_number":"BA1839",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157651,
@@ -71,7 +72,7 @@
         1159157651,
         1159283849
     ],
-    "wof:lastmodified":1554220957,
+    "wof:lastmodified":1559683856,
     "wof:name":"BA1839 (MIA-SFO)",
     "wof:parent_id":1159157651,
     "wof:placetype":"event",

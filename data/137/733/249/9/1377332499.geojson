@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PHX-AA-2045",
     "sfomuseum:flight_number":"AA2045",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -69,7 +70,7 @@
         1159283849,
         1159157755
     ],
-    "wof:lastmodified":1554393818,
+    "wof:lastmodified":1559684810,
     "wof:name":"AA2045 (SFO-PHX)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

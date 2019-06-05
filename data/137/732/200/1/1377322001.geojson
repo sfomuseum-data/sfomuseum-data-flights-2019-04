@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-EUG-UA-5368",
     "sfomuseum:flight_number":"UA5368",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -69,7 +70,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554307369,
+    "wof:lastmodified":1559685174,
     "wof:name":"UA5368 (SFO-EUG)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "AAL6829"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -78,7 +79,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1556726667,
+    "wof:lastmodified":1559685416,
     "wof:name":"AA6829 (SFO-PDX)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

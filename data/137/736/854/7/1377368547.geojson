@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ORD-SK-8772",
     "sfomuseum:flight_number":"SK8772",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -73,7 +74,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1554825785,
+    "wof:lastmodified":1559683738,
     "wof:name":"SK8772 (SFO-ORD)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-MCO-SFO-NZ-9295",
     "sfomuseum:flight_number":"NZ9295",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -71,7 +72,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1554393754,
+    "wof:lastmodified":1559685123,
     "wof:name":"NZ9295 (MCO-SFO)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

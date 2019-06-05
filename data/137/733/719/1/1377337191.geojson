@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LAX-CA-7319",
     "sfomuseum:flight_number":"CA7319",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -73,7 +74,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554480175,
+    "wof:lastmodified":1559684835,
     "wof:name":"CA7319 (SFO-LAX)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-DEN-SFO-NZ-9066",
     "sfomuseum:flight_number":"NZ9066",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -71,7 +72,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554307354,
+    "wof:lastmodified":1559685174,
     "wof:name":"NZ9066 (DEN-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

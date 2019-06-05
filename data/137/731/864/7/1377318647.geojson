@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-IAH-SFO-UA-2187",
     "sfomuseum:flight_number":"UA2187",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -67,7 +68,7 @@
         1159285413,
         1159157721
     ],
-    "wof:lastmodified":1554307349,
+    "wof:lastmodified":1559683863,
     "wof:name":"UA2187 (IAH-SFO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

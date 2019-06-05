@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LHR-UA-930",
     "sfomuseum:flight_number":"UA930",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157815,
@@ -69,7 +70,7 @@
         1159285413,
         1159157815
     ],
-    "wof:lastmodified":1554221009,
+    "wof:lastmodified":1559683840,
     "wof:name":"UA930 (SFO-LHR)",
     "wof:parent_id":1159157815,
     "wof:placetype":"event",

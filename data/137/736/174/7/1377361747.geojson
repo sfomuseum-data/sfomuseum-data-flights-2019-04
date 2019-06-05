@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SAL-AV-565",
     "sfomuseum:flight_number":"AV565",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -69,7 +70,7 @@
         1159283957,
         1159157631
     ],
-    "wof:lastmodified":1554739425,
+    "wof:lastmodified":1559683582,
     "wof:name":"AV565 (SFO-SAL)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

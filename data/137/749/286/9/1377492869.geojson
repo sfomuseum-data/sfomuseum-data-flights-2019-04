@@ -35,6 +35,7 @@
         "UAL837"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -74,7 +75,7 @@
         1159285413,
         1159157827
     ],
-    "wof:lastmodified":1555776256,
+    "wof:lastmodified":1559683961,
     "wof:name":"UA837 (SFO-NRT)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "ASA2567"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1556035459,
+    "wof:lastmodified":1559685027,
     "wof:name":"AS2567 (SFO-PDX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

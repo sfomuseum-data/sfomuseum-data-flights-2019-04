@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-AUS-SFO-AS-1221",
     "sfomuseum:flight_number":"AS1221",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -67,7 +68,7 @@
         1159283813,
         1159157703
     ],
-    "wof:lastmodified":1554220961,
+    "wof:lastmodified":1559683875,
     "wof:name":"AS1221 (AUS-SFO)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

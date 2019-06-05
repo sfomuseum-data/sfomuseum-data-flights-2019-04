@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-JFK-QF-3654",
     "sfomuseum:flight_number":"QF3654",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -73,7 +74,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1554307358,
+    "wof:lastmodified":1559685134,
     "wof:name":"QF3654 (SFO-JFK)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

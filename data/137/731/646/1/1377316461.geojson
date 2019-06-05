@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SEA-TK-9587",
     "sfomuseum:flight_number":"TK9587",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -73,7 +74,7 @@
         1159157647,
         1159285413
     ],
-    "wof:lastmodified":1554221015,
+    "wof:lastmodified":1559683849,
     "wof:name":"TK9587 (SFO-SEA)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-MRY-AC-4310",
     "sfomuseum:flight_number":"AC4310",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -73,7 +74,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1554307411,
+    "wof:lastmodified":1559685116,
     "wof:name":"AC4310 (SFO-MRY)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

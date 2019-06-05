@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-IAD-SN-8949",
     "sfomuseum:flight_number":"SN8949",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -73,7 +74,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1554739410,
+    "wof:lastmodified":1559683682,
     "wof:name":"SN8949 (SFO-IAD)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

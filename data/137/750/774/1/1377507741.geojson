@@ -35,6 +35,7 @@
         "UAL223"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -74,7 +75,7 @@
         1159285413,
         1159157821
     ],
-    "wof:lastmodified":1555949057,
+    "wof:lastmodified":1559685404,
     "wof:name":"UA223 (SFO-DEN)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "SWR3302"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -76,7 +77,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1555949005,
+    "wof:lastmodified":1559685370,
     "wof:name":"LX3302 (SEA-SFO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "CMP8012"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -78,7 +79,7 @@
         1159157827,
         1159284349
     ],
-    "wof:lastmodified":1555257815,
+    "wof:lastmodified":1559685778,
     "wof:name":"CM8012 (SFO-TPE)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

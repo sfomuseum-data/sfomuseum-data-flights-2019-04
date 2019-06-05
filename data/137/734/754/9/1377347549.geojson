@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-LIH-LH-9326",
     "sfomuseum:flight_number":"LH9326",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284711,
         1159285413
     ],
-    "wof:lastmodified":1554566625,
+    "wof:lastmodified":1559684608,
     "wof:name":"LH9326 (SFO-LIH)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

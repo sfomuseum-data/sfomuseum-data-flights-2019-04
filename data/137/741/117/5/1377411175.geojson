@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-WN-831",
     "sfomuseum:flight_number":"WN831",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -69,7 +70,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1555017589,
+    "wof:lastmodified":1559684501,
     "wof:name":"WN831 (SFO-LAX)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

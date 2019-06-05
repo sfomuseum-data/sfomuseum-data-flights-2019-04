@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-VS-2272",
     "sfomuseum:flight_number":"VS2272",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -73,7 +74,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1555017605,
+    "wof:lastmodified":1559684566,
     "wof:name":"VS2272 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

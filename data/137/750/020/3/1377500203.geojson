@@ -38,6 +38,7 @@
         "CPA7960"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1555862638,
+    "wof:lastmodified":1559685373,
     "wof:name":"CX7960 (SFO-PDX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

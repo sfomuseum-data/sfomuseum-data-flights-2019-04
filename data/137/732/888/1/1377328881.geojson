@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-FLL-SFO-AS-1345",
     "sfomuseum:flight_number":"AS1345",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157833,
@@ -67,7 +68,7 @@
         1159283813,
         1159157833
     ],
-    "wof:lastmodified":1554393756,
+    "wof:lastmodified":1559685112,
     "wof:name":"AS1345 (FLL-SFO)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",

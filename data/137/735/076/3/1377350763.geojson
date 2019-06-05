@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-ATL-SFO-UA-1900",
     "sfomuseum:flight_number":"UA1900",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -67,7 +68,7 @@
         1159285413,
         1159157741
     ],
-    "wof:lastmodified":1554652948,
+    "wof:lastmodified":1559685226,
     "wof:name":"UA1900 (ATL-SFO)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

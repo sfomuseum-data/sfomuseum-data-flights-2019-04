@@ -38,6 +38,7 @@
         "WJA7461"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -78,7 +79,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1556553870,
+    "wof:lastmodified":1559684934,
     "wof:name":"WS7461 (SFO-SEA)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

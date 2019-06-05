@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-ORD-IB-4270",
     "sfomuseum:flight_number":"IB4270",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -73,7 +74,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554307408,
+    "wof:lastmodified":1559685110,
     "wof:name":"IB4270 (SFO-ORD)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-BNA-WN-4669",
     "sfomuseum:flight_number":"WN4669",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -69,7 +70,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554653001,
+    "wof:lastmodified":1559685221,
     "wof:name":"WN4669 (SFO-BNA)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SEA-UA-277",
     "sfomuseum:flight_number":"UA277",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -69,7 +70,7 @@
         1159285413,
         1159157669
     ],
-    "wof:lastmodified":1554480209,
+    "wof:lastmodified":1559684796,
     "wof:name":"UA277 (SFO-SEA)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

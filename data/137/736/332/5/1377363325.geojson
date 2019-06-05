@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-SLC-SFO-CX-7917",
     "sfomuseum:flight_number":"CX7917",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1554825745,
+    "wof:lastmodified":1559683657,
     "wof:name":"CX7917 (SLC-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

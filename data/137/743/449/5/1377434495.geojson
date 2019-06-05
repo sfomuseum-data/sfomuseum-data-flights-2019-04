@@ -36,6 +36,7 @@
         "LAN6902"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -76,7 +77,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1555257776,
+    "wof:lastmodified":1559685734,
     "wof:name":"LA6902 (MIA-SFO)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "AAL1004"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157707,
@@ -74,7 +75,7 @@
         1159283849,
         1159157707
     ],
-    "wof:lastmodified":1555862646,
+    "wof:lastmodified":1559685395,
     "wof:name":"AA1004 (SFO-DFW)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",

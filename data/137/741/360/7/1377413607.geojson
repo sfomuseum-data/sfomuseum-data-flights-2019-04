@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-AUS-SQ-1424",
     "sfomuseum:flight_number":"SQ1424",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -73,7 +74,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1555017632,
+    "wof:lastmodified":1559684519,
     "wof:name":"SQ1424 (SFO-AUS)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

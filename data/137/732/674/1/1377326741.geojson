@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-SEA-SFO-SQ-1286",
     "sfomuseum:flight_number":"SQ1286",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -71,7 +72,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1554393749,
+    "wof:lastmodified":1559685108,
     "wof:name":"SQ1286 (SEA-SFO)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

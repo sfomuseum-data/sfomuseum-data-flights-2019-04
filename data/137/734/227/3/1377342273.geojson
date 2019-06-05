@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-MCI-SFO-UA-5255",
     "sfomuseum:flight_number":"UA5255",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -67,7 +68,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554566559,
+    "wof:lastmodified":1559684615,
     "wof:name":"UA5255 (MCI-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

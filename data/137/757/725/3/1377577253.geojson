@@ -35,6 +35,7 @@
         "UAL5993"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -74,7 +75,7 @@
         1159285413,
         1159157855
     ],
-    "wof:lastmodified":1556726662,
+    "wof:lastmodified":1559685457,
     "wof:name":"UA5993 (SFO-MFR)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

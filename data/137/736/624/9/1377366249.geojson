@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-LAX-SFO-AZ-3204",
     "sfomuseum:flight_number":"AZ3204",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -71,7 +72,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1554825754,
+    "wof:lastmodified":1559683705,
     "wof:name":"AZ3204 (LAX-SFO)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

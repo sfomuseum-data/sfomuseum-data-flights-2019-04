@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-PDX-SFO-CX-7961",
     "sfomuseum:flight_number":"CX7961",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1554652943,
+    "wof:lastmodified":1559684610,
     "wof:name":"CX7961 (PDX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

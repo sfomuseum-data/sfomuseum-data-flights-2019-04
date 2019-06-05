@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-DEN-SFO-UA-1478",
     "sfomuseum:flight_number":"UA1478",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -67,7 +68,7 @@
         1159285413,
         1159157767
     ],
-    "wof:lastmodified":1555017566,
+    "wof:lastmodified":1559683899,
     "wof:name":"UA1478 (DEN-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

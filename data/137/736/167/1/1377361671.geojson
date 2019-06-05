@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-BWI-UA-1153",
     "sfomuseum:flight_number":"UA1153",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -69,7 +70,7 @@
         1159285413,
         1159157783
     ],
-    "wof:lastmodified":1554739424,
+    "wof:lastmodified":1559683504,
     "wof:name":"UA1153 (SFO-BWI)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

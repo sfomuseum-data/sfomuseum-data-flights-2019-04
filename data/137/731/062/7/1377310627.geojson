@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-PDX-SFO-SY-697",
     "sfomuseum:flight_number":"SY697",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -67,7 +68,7 @@
         1159285227,
         1159157635
     ],
-    "wof:lastmodified":1554220957,
+    "wof:lastmodified":1559683804,
     "wof:name":"SY697 (PDX-SFO)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

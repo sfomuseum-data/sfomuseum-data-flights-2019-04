@@ -38,6 +38,7 @@
         "AAR6307"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -78,7 +79,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1556208253,
+    "wof:lastmodified":1559683447,
     "wof:name":"OZ6307 (SFO-SAN)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

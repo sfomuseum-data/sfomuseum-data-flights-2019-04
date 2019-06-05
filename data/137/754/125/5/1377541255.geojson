@@ -38,6 +38,7 @@
         "BEL8949"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -78,7 +79,7 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1556294691,
+    "wof:lastmodified":1559683208,
     "wof:name":"SN8949 (SFO-SMF)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

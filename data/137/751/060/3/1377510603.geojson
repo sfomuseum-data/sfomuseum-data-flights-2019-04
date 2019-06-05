@@ -33,6 +33,7 @@
         "UAL2423"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -72,7 +73,7 @@
         1159285413,
         1159157767
     ],
-    "wof:lastmodified":1556035406,
+    "wof:lastmodified":1559685070,
     "wof:name":"UA2423 (YVR-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-LGA-UA-1013",
     "sfomuseum:flight_number":"UA1013",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -69,7 +70,7 @@
         1159285413,
         1159157665
     ],
-    "wof:lastmodified":1554825808,
+    "wof:lastmodified":1559683612,
     "wof:name":"UA1013 (SFO-LGA)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

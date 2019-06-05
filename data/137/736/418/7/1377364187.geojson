@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-BUR-SFO-AC-4397",
     "sfomuseum:flight_number":"AC4397",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -71,7 +72,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1554825748,
+    "wof:lastmodified":1559683709,
     "wof:name":"AC4397 (BUR-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-SLC-DL-2494",
     "sfomuseum:flight_number":"DL2494",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -69,7 +70,7 @@
         1159284261,
         1159157803
     ],
-    "wof:lastmodified":1554825790,
+    "wof:lastmodified":1559683687,
     "wof:name":"DL2494 (SFO-SLC)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-LAX-SFO-NH-7353",
     "sfomuseum:flight_number":"NH7353",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -71,7 +72,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1554739374,
+    "wof:lastmodified":1559685233,
     "wof:name":"NH7353 (LAX-SFO)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

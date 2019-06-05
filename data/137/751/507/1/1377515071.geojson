@@ -38,6 +38,7 @@
         "DLH9398"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -78,7 +79,7 @@
         1159157669,
         1159285413
     ],
-    "wof:lastmodified":1556035455,
+    "wof:lastmodified":1559685042,
     "wof:name":"LH9398 (SFO-TUS)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

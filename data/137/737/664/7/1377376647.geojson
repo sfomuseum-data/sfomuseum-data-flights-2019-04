@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-ATL-AF-8943",
     "sfomuseum:flight_number":"AF8943",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -73,7 +74,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1554912201,
+    "wof:lastmodified":1559682963,
     "wof:name":"AF8943 (SFO-ATL)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

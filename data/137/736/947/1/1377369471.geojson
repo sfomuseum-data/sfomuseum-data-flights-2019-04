@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-FLL-B6-278",
     "sfomuseum:flight_number":"B6278",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -69,7 +70,7 @@
         1360700745,
         1159157605
     ],
-    "wof:lastmodified":1554825801,
+    "wof:lastmodified":1559683610,
     "wof:name":"B6278 (SFO-FLL)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

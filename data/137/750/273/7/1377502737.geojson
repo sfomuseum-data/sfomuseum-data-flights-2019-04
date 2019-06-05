@@ -36,6 +36,7 @@
         "AAL6974"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -76,7 +77,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1555949005,
+    "wof:lastmodified":1559685322,
     "wof:name":"AA6974 (PDX-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

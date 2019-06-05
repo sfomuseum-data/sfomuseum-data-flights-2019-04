@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-YYC-SFO-UA-5576",
     "sfomuseum:flight_number":"UA5576",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -67,7 +68,7 @@
         1159285413,
         1159157725
     ],
-    "wof:lastmodified":1554652951,
+    "wof:lastmodified":1559685295,
     "wof:name":"UA5576 (YYC-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

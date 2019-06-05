@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SYD-UA-863",
     "sfomuseum:flight_number":"UA863",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -69,7 +70,7 @@
         1159285413,
         1159157683
     ],
-    "wof:lastmodified":1554566632,
+    "wof:lastmodified":1559684666,
     "wof:name":"UA863 (SFO-SYD)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

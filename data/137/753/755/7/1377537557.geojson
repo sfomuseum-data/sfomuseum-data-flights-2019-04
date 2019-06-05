@@ -33,6 +33,7 @@
         "ACA737"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -72,7 +73,7 @@
         1159283597,
         1159157683
     ],
-    "wof:lastmodified":1556294629,
+    "wof:lastmodified":1559683233,
     "wof:name":"AC737 (YYZ-SFO)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

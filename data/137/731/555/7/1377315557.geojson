@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-PSP-QF-3793",
     "sfomuseum:flight_number":"QF3793",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554220998,
+    "wof:lastmodified":1559683831,
     "wof:name":"QF3793 (SFO-PSP)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

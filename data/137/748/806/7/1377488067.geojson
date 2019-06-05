@@ -33,6 +33,7 @@
         "UAL560"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -72,7 +73,7 @@
         1159285413,
         1159157771
     ],
-    "wof:lastmodified":1555776203,
+    "wof:lastmodified":1559684131,
     "wof:name":"UA560 (IAD-SFO)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

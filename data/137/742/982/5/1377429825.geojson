@@ -35,6 +35,7 @@
         "ACA567"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283597
     ],
-    "wof:lastmodified":1555171427,
+    "wof:lastmodified":1559685875,
     "wof:name":"AC567 (SFO-YVR)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

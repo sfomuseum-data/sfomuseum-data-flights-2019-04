@@ -36,6 +36,7 @@
         "SIA1417"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -76,7 +77,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1555171379,
+    "wof:lastmodified":1559685926,
     "wof:name":"SQ1417 (JFK-SFO)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

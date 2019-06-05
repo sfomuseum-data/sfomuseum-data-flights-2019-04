@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SEA-AS-305",
     "sfomuseum:flight_number":"AS305",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -69,7 +70,7 @@
         1159283813,
         1159157793
     ],
-    "wof:lastmodified":1554393783,
+    "wof:lastmodified":1559684743,
     "wof:name":"AS305 (SFO-SEA)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

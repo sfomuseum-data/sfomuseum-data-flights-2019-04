@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-PVG-DL-6557",
     "sfomuseum:flight_number":"DL6557",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -73,7 +74,7 @@
         1159157631,
         1159284157
     ],
-    "wof:lastmodified":1554912202,
+    "wof:lastmodified":1559682956,
     "wof:name":"DL6557 (SFO-PVG)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

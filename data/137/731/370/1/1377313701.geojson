@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-MEX-SFO-UA-820",
     "sfomuseum:flight_number":"UA820",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -67,7 +68,7 @@
         1159285413,
         1159157779
     ],
-    "wof:lastmodified":1554220968,
+    "wof:lastmodified":1559683818,
     "wof:name":"UA820 (MEX-SFO)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-TUS-NH-7008",
     "sfomuseum:flight_number":"NH7008",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -73,7 +74,7 @@
         1159157855,
         1159285413
     ],
-    "wof:lastmodified":1554480190,
+    "wof:lastmodified":1559684729,
     "wof:name":"NH7008 (SFO-TUS)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

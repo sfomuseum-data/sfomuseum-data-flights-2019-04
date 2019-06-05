@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-SAN-SFO-AS-1959",
     "sfomuseum:flight_number":"AS1959",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -67,7 +68,7 @@
         1159283813,
         1159157829
     ],
-    "wof:lastmodified":1554393754,
+    "wof:lastmodified":1559685123,
     "wof:name":"AS1959 (SAN-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "HAL2479"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -77,7 +78,7 @@
         1159284489,
         1360700745
     ],
-    "wof:lastmodified":1555949008,
+    "wof:lastmodified":1559685359,
     "wof:name":"HA2479 (BOS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

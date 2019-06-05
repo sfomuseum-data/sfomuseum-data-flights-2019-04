@@ -38,6 +38,7 @@
         "JAL5458"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -78,7 +79,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1556726671,
+    "wof:lastmodified":1559685519,
     "wof:name":"JL5458 (SFO-SNA)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

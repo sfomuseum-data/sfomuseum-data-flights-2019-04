@@ -38,6 +38,7 @@
         "AVA2163"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -78,7 +79,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1555171396,
+    "wof:lastmodified":1559685865,
     "wof:name":"AV2163 (SFO-IAD)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

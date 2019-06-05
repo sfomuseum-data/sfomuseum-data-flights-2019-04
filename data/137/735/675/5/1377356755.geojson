@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-EWR-SFO-AS-375",
     "sfomuseum:flight_number":"AS375",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -67,7 +68,7 @@
         1159283813,
         1159157649
     ],
-    "wof:lastmodified":1554739373,
+    "wof:lastmodified":1559685216,
     "wof:name":"AS375 (EWR-SFO)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

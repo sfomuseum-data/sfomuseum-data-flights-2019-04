@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LAX-KL-7809",
     "sfomuseum:flight_number":"KL7809",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -73,7 +74,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1554220985,
+    "wof:lastmodified":1559683797,
     "wof:name":"KL7809 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

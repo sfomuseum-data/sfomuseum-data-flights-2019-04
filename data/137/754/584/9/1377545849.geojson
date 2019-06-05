@@ -38,6 +38,7 @@
         "FIN2501"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -78,7 +79,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1556381036,
+    "wof:lastmodified":1559683210,
     "wof:name":"AY2501 (SFO-SEA)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "ANZ9098"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -76,7 +77,7 @@
         1159157725,
         1159285413
     ],
-    "wof:lastmodified":1556121806,
+    "wof:lastmodified":1559685035,
     "wof:name":"NZ9098 (ABQ-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

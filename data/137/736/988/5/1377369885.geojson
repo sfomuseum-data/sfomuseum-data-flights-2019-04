@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ICN-UA-805",
     "sfomuseum:flight_number":"UA805",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -69,7 +70,7 @@
         1159285413,
         1159157687
     ],
-    "wof:lastmodified":1554825809,
+    "wof:lastmodified":1559683772,
     "wof:name":"UA805 (SFO-ICN)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

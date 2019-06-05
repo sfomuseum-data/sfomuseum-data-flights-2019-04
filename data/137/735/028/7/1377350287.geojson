@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-LAS-SFO-UA-260",
     "sfomuseum:flight_number":"UA260",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -67,7 +68,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1554652946,
+    "wof:lastmodified":1559685275,
     "wof:name":"UA260 (LAS-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

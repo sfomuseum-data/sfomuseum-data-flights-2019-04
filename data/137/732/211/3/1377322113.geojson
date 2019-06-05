@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-MRY-UA-5201",
     "sfomuseum:flight_number":"UA5201",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -69,7 +70,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554307371,
+    "wof:lastmodified":1559685100,
     "wof:name":"UA5201 (SFO-MRY)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

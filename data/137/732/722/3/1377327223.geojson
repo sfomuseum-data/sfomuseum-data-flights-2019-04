@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-SAN-SFO-NZ-9598",
     "sfomuseum:flight_number":"NZ9598",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -71,7 +72,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1554393751,
+    "wof:lastmodified":1559685127,
     "wof:name":"NZ9598 (SAN-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

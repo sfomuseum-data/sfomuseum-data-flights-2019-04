@@ -36,6 +36,7 @@
         "FIN2530"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -76,7 +77,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1556726627,
+    "wof:lastmodified":1559685458,
     "wof:name":"AY2530 (LAS-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

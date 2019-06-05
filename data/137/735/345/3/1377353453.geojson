@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-PIT-UA-2229",
     "sfomuseum:flight_number":"UA2229",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -69,7 +70,7 @@
         1159285413,
         1159157721
     ],
-    "wof:lastmodified":1554652977,
+    "wof:lastmodified":1559685296,
     "wof:name":"UA2229 (SFO-PIT)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

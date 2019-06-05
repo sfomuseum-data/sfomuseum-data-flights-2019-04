@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-ORD-OZ-6303",
     "sfomuseum:flight_number":"OZ6303",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554393819,
+    "wof:lastmodified":1559684830,
     "wof:name":"OZ6303 (SFO-ORD)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

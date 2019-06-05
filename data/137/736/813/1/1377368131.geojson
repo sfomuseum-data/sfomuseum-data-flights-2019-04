@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ORD-LO-4410",
     "sfomuseum:flight_number":"LO4410",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -73,7 +74,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1554825777,
+    "wof:lastmodified":1559683714,
     "wof:name":"LO4410 (SFO-ORD)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

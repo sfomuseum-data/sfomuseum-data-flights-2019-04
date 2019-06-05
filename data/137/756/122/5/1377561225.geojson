@@ -38,6 +38,7 @@
         "ANZ9627"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -78,7 +79,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1556553841,
+    "wof:lastmodified":1559684976,
     "wof:name":"NZ9627 (SFO-SLC)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

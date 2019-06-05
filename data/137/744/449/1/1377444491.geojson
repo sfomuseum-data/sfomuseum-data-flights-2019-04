@@ -35,6 +35,7 @@
         "ASA3404"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1555344238,
+    "wof:lastmodified":1559685559,
     "wof:name":"AS3404 (SFO-DAL)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

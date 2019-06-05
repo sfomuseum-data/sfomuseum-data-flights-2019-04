@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-LAX-AV-2163",
     "sfomuseum:flight_number":"AV2163",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -73,7 +74,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554307378,
+    "wof:lastmodified":1559685114,
     "wof:name":"AV2163 (SFO-LAX)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

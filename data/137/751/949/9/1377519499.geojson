@@ -36,6 +36,7 @@
         "CES4374"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -76,7 +77,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1556121806,
+    "wof:lastmodified":1559685029,
     "wof:name":"MU4374 (SEA-SFO)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

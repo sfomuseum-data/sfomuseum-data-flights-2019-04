@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-PSP-NZ-9549",
     "sfomuseum:flight_number":"NZ9549",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -73,7 +74,7 @@
         1159157739,
         1159285413
     ],
-    "wof:lastmodified":1554307423,
+    "wof:lastmodified":1559685096,
     "wof:name":"NZ9549 (SFO-PSP)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

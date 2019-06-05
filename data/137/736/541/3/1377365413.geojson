@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-LIH-SFO-LH-7859",
     "sfomuseum:flight_number":"LH7859",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -71,7 +72,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554825752,
+    "wof:lastmodified":1559683763,
     "wof:name":"LH7859 (LIH-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

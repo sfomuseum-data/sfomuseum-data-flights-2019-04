@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LAX-WS-6981",
     "sfomuseum:flight_number":"WS6981",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -73,7 +74,7 @@
         1159157663,
         1159284261
     ],
-    "wof:lastmodified":1554480181,
+    "wof:lastmodified":1559684776,
     "wof:name":"WS6981 (SFO-LAX)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

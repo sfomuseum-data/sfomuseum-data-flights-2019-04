@@ -38,6 +38,7 @@
         "DLH8944"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -78,7 +79,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1556640287,
+    "wof:lastmodified":1559685473,
     "wof:name":"LH8944 (SFO-SLC)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

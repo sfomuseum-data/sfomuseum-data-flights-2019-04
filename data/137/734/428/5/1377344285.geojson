@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-DFW-SFO-AC-4207",
     "sfomuseum:flight_number":"AC4207",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -71,7 +72,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1554566566,
+    "wof:lastmodified":1559684669,
     "wof:name":"AC4207 (DFW-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-AKL-NZ-7",
     "sfomuseum:flight_number":"NZ7",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -69,7 +70,7 @@
         1159283697,
         1159157827
     ],
-    "wof:lastmodified":1554739435,
+    "wof:lastmodified":1559683512,
     "wof:name":"NZ7 (SFO-AKL)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

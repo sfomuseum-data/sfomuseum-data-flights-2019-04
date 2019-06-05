@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-PVR-SFO-QF-3728",
     "sfomuseum:flight_number":"QF3728",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -71,7 +72,7 @@
         1159157631,
         1159283813
     ],
-    "wof:lastmodified":1554220962,
+    "wof:lastmodified":1559683843,
     "wof:name":"QF3728 (PVR-SFO)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

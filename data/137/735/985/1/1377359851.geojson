@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAX-VS-4122",
     "sfomuseum:flight_number":"VS4122",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157753,
@@ -73,7 +74,7 @@
         1159157753,
         1159284261
     ],
-    "wof:lastmodified":1554739392,
+    "wof:lastmodified":1559685248,
     "wof:name":"VS4122 (SFO-LAX)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",

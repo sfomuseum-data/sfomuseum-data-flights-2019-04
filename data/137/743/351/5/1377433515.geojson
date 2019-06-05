@@ -36,6 +36,7 @@
         "THA6330"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -76,7 +77,7 @@
         1159157687,
         1159284349
     ],
-    "wof:lastmodified":1555257772,
+    "wof:lastmodified":1559685784,
     "wof:name":"TG6330 (TPE-SFO)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

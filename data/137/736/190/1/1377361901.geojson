@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-DFW-UA-5682",
     "sfomuseum:flight_number":"UA5682",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -69,7 +70,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554739428,
+    "wof:lastmodified":1559683664,
     "wof:name":"UA5682 (SFO-DFW)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-GEG-SFO-NZ-9456",
     "sfomuseum:flight_number":"NZ9456",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -71,7 +72,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1555017559,
+    "wof:lastmodified":1559683890,
     "wof:name":"NZ9456 (GEG-SFO)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

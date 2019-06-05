@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-PDX-AY-2505",
     "sfomuseum:flight_number":"AY2505",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -73,7 +74,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1555017619,
+    "wof:lastmodified":1559684449,
     "wof:name":"AY2505 (SFO-PDX)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

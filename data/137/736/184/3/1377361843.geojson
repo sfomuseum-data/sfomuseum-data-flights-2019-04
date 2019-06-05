@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-GEG-UA-5243",
     "sfomuseum:flight_number":"UA5243",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -69,7 +70,7 @@
         1159285413,
         1159157689
     ],
-    "wof:lastmodified":1554739427,
+    "wof:lastmodified":1559683755,
     "wof:name":"UA5243 (SFO-GEG)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-PEK-UA-888",
     "sfomuseum:flight_number":"UA888",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -69,7 +70,7 @@
         1159285413,
         1159157677
     ],
-    "wof:lastmodified":1554652989,
+    "wof:lastmodified":1559685267,
     "wof:name":"UA888 (SFO-PEK)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

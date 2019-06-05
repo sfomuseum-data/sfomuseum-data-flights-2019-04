@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-LAX-SFO-MU-8826",
     "sfomuseum:flight_number":"MU8826",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -71,7 +72,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1555017563,
+    "wof:lastmodified":1559683884,
     "wof:name":"MU8826 (LAX-SFO)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-BOS-WN-1667",
     "sfomuseum:flight_number":"WN1667",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157813,
@@ -69,7 +70,7 @@
         1159285591,
         1159157813
     ],
-    "wof:lastmodified":1555017580,
+    "wof:lastmodified":1559684558,
     "wof:name":"WN1667 (SFO-BOS)",
     "wof:parent_id":1159157813,
     "wof:placetype":"event",

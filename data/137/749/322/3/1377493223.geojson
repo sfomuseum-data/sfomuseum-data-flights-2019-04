@@ -38,6 +38,7 @@
         "DLH9322"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -78,7 +79,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1555776262,
+    "wof:lastmodified":1559683990,
     "wof:name":"LH9322 (SFO-LIH)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

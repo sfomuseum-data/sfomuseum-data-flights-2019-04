@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-MFR-SFO-CM-2423",
     "sfomuseum:flight_number":"CM2423",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -71,7 +72,7 @@
         1159157669,
         1159285413
     ],
-    "wof:lastmodified":1554652946,
+    "wof:lastmodified":1559685278,
     "wof:name":"CM2423 (MFR-SFO)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-IAD-QF-3759",
     "sfomuseum:flight_number":"QF3759",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -73,7 +74,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1554825775,
+    "wof:lastmodified":1559683743,
     "wof:name":"QF3759 (SFO-IAD)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

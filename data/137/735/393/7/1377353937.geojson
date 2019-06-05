@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-CLT-FJ-5056",
     "sfomuseum:flight_number":"FJ5056",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -73,7 +74,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554652986,
+    "wof:lastmodified":1559685261,
     "wof:name":"FJ5056 (SFO-CLT)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

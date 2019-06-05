@@ -36,6 +36,7 @@
         "DLH7995"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -76,7 +77,7 @@
         1159157677,
         1159285413
     ],
-    "wof:lastmodified":1555776208,
+    "wof:lastmodified":1559684056,
     "wof:name":"LH7995 (MUC-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-BWI-SFO-NZ-9035",
     "sfomuseum:flight_number":"NZ9035",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -71,7 +72,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1554566559,
+    "wof:lastmodified":1559684675,
     "wof:name":"NZ9035 (BWI-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

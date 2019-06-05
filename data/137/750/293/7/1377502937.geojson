@@ -33,6 +33,7 @@
         "SWA2457"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -72,7 +73,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1555949006,
+    "wof:lastmodified":1559685340,
     "wof:name":"WN2457 (AUS-SFO)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

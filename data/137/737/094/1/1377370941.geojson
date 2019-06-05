@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-LAS-SFO-SQ-1411",
     "sfomuseum:flight_number":"SQ1411",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -71,7 +72,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1554912152,
+    "wof:lastmodified":1559682979,
     "wof:name":"SQ1411 (LAS-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

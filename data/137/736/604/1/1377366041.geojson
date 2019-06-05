@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-NRT-SFO-UA-838",
     "sfomuseum:flight_number":"UA838",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -67,7 +68,7 @@
         1159285413,
         1159157621
     ],
-    "wof:lastmodified":1554825754,
+    "wof:lastmodified":1559683569,
     "wof:name":"UA838 (NRT-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

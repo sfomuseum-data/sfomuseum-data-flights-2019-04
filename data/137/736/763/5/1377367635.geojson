@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-SEA-WS-7461",
     "sfomuseum:flight_number":"WS7461",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157753,
@@ -73,7 +74,7 @@
         1159157753,
         1159284261
     ],
-    "wof:lastmodified":1554825769,
+    "wof:lastmodified":1559683469,
     "wof:name":"WS7461 (SFO-SEA)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",

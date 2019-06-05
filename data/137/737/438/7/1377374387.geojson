@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-EWR-SFO-UA-1584",
     "sfomuseum:flight_number":"UA1584",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -67,7 +68,7 @@
         1159285413,
         1159157789
     ],
-    "wof:lastmodified":1554912163,
+    "wof:lastmodified":1559682902,
     "wof:name":"UA1584 (EWR-SFO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

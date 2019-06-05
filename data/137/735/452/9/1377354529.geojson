@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-ONT-UA-5249",
     "sfomuseum:flight_number":"UA5249",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -69,7 +70,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554652996,
+    "wof:lastmodified":1559685232,
     "wof:name":"UA5249 (SFO-ONT)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

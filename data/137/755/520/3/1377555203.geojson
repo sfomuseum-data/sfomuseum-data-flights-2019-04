@@ -35,6 +35,7 @@
         "CSN660"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -74,7 +75,7 @@
         1159284165,
         1159157631
     ],
-    "wof:lastmodified":1556467576,
+    "wof:lastmodified":1559682806,
     "wof:name":"CZ660 (SFO-CAN)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

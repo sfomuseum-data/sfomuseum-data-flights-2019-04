@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-MEX-SFO-NZ-9822",
     "sfomuseum:flight_number":"NZ9822",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -71,7 +72,7 @@
         1159157623,
         1159285413
     ],
-    "wof:lastmodified":1554912153,
+    "wof:lastmodified":1559682993,
     "wof:name":"NZ9822 (MEX-SFO)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

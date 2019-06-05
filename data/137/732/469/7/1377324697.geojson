@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SMF-UA-5473",
     "sfomuseum:flight_number":"UA5473",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -69,7 +70,7 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1554307417,
+    "wof:lastmodified":1559685174,
     "wof:name":"UA5473 (SFO-SMF)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

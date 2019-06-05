@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PDX-EK-3047",
     "sfomuseum:flight_number":"EK3047",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -73,7 +74,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1554739400,
+    "wof:lastmodified":1559683727,
     "wof:name":"EK3047 (SFO-PDX)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

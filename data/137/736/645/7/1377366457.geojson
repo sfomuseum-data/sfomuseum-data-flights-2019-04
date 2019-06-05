@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-JFK-SFO-LY-8733",
     "sfomuseum:flight_number":"LY8733",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157823,
@@ -71,7 +72,7 @@
         1159157823,
         1360700745
     ],
-    "wof:lastmodified":1554825755,
+    "wof:lastmodified":1559683537,
     "wof:name":"LY8733 (JFK-SFO)",
     "wof:parent_id":1159157823,
     "wof:placetype":"event",

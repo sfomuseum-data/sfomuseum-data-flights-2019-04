@@ -36,6 +36,7 @@
         "UAE6125"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -76,7 +77,7 @@
         1159157683,
         1360700745
     ],
-    "wof:lastmodified":1556294629,
+    "wof:lastmodified":1559683326,
     "wof:name":"EK6125 (JFK-SFO)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

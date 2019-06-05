@@ -38,6 +38,7 @@
         "ACA4322"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -78,7 +79,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1556208249,
+    "wof:lastmodified":1559683437,
     "wof:name":"AC4322 (SFO-ONT)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

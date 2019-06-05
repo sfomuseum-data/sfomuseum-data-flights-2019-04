@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-BUR-AC-4396",
     "sfomuseum:flight_number":"AC4396",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157769,
@@ -73,7 +74,7 @@
         1159157769,
         1159285413
     ],
-    "wof:lastmodified":1554825761,
+    "wof:lastmodified":1559683775,
     "wof:name":"AC4396 (SFO-BUR)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",

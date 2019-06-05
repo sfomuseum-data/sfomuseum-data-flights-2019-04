@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-SAN-JL-5460",
     "sfomuseum:flight_number":"JL5460",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157753,
@@ -73,7 +74,7 @@
         1159157753,
         1159283813
     ],
-    "wof:lastmodified":1554825806,
+    "wof:lastmodified":1559683759,
     "wof:name":"JL5460 (SFO-SAN)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",

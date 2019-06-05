@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-YYZ-SFO-UA-565",
     "sfomuseum:flight_number":"UA565",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -67,7 +68,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1554480156,
+    "wof:lastmodified":1559684735,
     "wof:name":"UA565 (YYZ-SFO)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

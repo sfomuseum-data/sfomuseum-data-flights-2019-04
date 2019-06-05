@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-ICT-WN-1364",
     "sfomuseum:flight_number":"WN1364",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -69,7 +70,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554480178,
+    "wof:lastmodified":1559684793,
     "wof:name":"WN1364 (SFO-ICT)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-RNO-SFO-AC-4415",
     "sfomuseum:flight_number":"AC4415",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -71,7 +72,7 @@
         1159157837,
         1159285413
     ],
-    "wof:lastmodified":1554220962,
+    "wof:lastmodified":1559683799,
     "wof:name":"AC4415 (RNO-SFO)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

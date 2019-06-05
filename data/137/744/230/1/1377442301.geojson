@@ -36,6 +36,7 @@
         "QFA3733"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -77,7 +78,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1555344199,
+    "wof:lastmodified":1559685669,
     "wof:name":"QF3733 (RDU-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

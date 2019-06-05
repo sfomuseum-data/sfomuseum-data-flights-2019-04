@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-SBA-SFO-UA-5601",
     "sfomuseum:flight_number":"UA5601",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -67,7 +68,7 @@
         1159285413,
         1159157689
     ],
-    "wof:lastmodified":1554307354,
+    "wof:lastmodified":1559685119,
     "wof:name":"UA5601 (SBA-SFO)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

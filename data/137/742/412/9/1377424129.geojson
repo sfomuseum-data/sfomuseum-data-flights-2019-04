@@ -33,6 +33,7 @@
         "UAL761"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -72,7 +73,7 @@
         1159285413,
         1159157665
     ],
-    "wof:lastmodified":1555171374,
+    "wof:lastmodified":1559685851,
     "wof:name":"UA761 (LGA-SFO)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "SIA5711"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -78,7 +79,7 @@
         1159157621,
         1159283917
     ],
-    "wof:lastmodified":1555257794,
+    "wof:lastmodified":1559685824,
     "wof:name":"SQ5711 (SFO-ICN)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAS-AC-5340",
     "sfomuseum:flight_number":"AC5340",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -73,7 +74,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1555017572,
+    "wof:lastmodified":1559684427,
     "wof:name":"AC5340 (SFO-LAS)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

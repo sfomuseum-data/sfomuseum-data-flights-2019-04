@@ -38,6 +38,7 @@
         "DLH8665"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -78,7 +79,7 @@
         1159157687,
         1159285413
     ],
-    "wof:lastmodified":1555344206,
+    "wof:lastmodified":1559685573,
     "wof:name":"LH8665 (SFO-CDG)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SAN-QF-3748",
     "sfomuseum:flight_number":"QF3748",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -73,7 +74,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1554307374,
+    "wof:lastmodified":1559685101,
     "wof:name":"QF3748 (SFO-SAN)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

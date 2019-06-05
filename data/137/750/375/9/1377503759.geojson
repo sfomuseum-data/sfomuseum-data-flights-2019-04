@@ -36,6 +36,7 @@
         "CMP1486"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -76,7 +77,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1555949008,
+    "wof:lastmodified":1559685406,
     "wof:name":"CM1486 (SMF-SFO)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

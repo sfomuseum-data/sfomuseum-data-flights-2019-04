@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-KOA-SFO-CM-2387",
     "sfomuseum:flight_number":"CM2387",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -71,7 +72,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1555017569,
+    "wof:lastmodified":1559684569,
     "wof:name":"CM2387 (KOA-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

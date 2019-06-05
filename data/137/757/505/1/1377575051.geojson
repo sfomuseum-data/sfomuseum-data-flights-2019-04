@@ -36,6 +36,7 @@
         "FJI5861"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -76,7 +77,7 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1556726631,
+    "wof:lastmodified":1559685416,
     "wof:name":"FJ5861 (BOS-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

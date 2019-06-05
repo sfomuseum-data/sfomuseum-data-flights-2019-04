@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-YYZ-AC-756",
     "sfomuseum:flight_number":"AC756",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -69,7 +70,7 @@
         1159283597,
         1159157827
     ],
-    "wof:lastmodified":1554652965,
+    "wof:lastmodified":1559685273,
     "wof:name":"AC756 (SFO-YYZ)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

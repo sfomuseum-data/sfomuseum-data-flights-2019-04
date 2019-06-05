@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-YVR-SFO-UA-618",
     "sfomuseum:flight_number":"UA618",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -67,7 +68,7 @@
         1159285413,
         1159157789
     ],
-    "wof:lastmodified":1554480163,
+    "wof:lastmodified":1559684822,
     "wof:name":"UA618 (YVR-SFO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

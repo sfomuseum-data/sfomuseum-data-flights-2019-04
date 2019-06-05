@@ -38,6 +38,7 @@
         "ANA7356"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -78,7 +79,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1556208229,
+    "wof:lastmodified":1559683283,
     "wof:name":"NH7356 (SFO-LAX)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

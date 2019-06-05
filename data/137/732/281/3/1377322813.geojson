@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-ATL-AM-4433",
     "sfomuseum:flight_number":"AM4433",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1554307384,
+    "wof:lastmodified":1559685113,
     "wof:name":"AM4433 (SFO-ATL)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

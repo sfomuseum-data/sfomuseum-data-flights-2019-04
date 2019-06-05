@@ -33,6 +33,7 @@
         "ASA647"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -72,7 +73,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1556121800,
+    "wof:lastmodified":1559684985,
     "wof:name":"AS647 (JFK-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

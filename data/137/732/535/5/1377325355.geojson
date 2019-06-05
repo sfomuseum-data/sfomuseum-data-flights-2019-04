@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-PDX-SFO-LH-9125",
     "sfomuseum:flight_number":"LH9125",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157757,
@@ -71,7 +72,7 @@
         1159157757,
         1159285413
     ],
-    "wof:lastmodified":1554393745,
+    "wof:lastmodified":1559685098,
     "wof:name":"LH9125 (PDX-SFO)",
     "wof:parent_id":1159157757,
     "wof:placetype":"event",

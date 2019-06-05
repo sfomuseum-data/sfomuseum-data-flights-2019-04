@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAX-LA-5136",
     "sfomuseum:flight_number":"LA5136",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285641,
         1159283813
     ],
-    "wof:lastmodified":1554739405,
+    "wof:lastmodified":1559683747,
     "wof:name":"LA5136 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

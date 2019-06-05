@@ -38,6 +38,7 @@
         "SIA1336"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157833,
@@ -78,7 +79,7 @@
         1159157833,
         1159283813
     ],
-    "wof:lastmodified":1556035443,
+    "wof:lastmodified":1559685015,
     "wof:name":"SQ1336 (SFO-LAX)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",

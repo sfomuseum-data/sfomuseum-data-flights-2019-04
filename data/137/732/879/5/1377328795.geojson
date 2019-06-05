@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-LAX-SFO-NZ-9280",
     "sfomuseum:flight_number":"NZ9280",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -71,7 +72,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1554393756,
+    "wof:lastmodified":1559685159,
     "wof:name":"NZ9280 (LAX-SFO)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

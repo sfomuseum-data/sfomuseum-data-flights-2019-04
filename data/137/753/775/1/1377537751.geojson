@@ -36,6 +36,7 @@
         "SWR4645"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -76,7 +77,7 @@
         1159157657,
         1159283597
     ],
-    "wof:lastmodified":1556294629,
+    "wof:lastmodified":1559683435,
     "wof:name":"LX4645 (YVR-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

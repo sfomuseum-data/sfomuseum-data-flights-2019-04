@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-AMA-SFO-WN-675",
     "sfomuseum:flight_number":"WN675",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157813,
@@ -67,7 +68,7 @@
         1159285591,
         1159157813
     ],
-    "wof:lastmodified":1554220964,
+    "wof:lastmodified":1559683848,
     "wof:name":"WN675 (AMA-SFO)",
     "wof:parent_id":1159157813,
     "wof:placetype":"event",

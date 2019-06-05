@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-SNA-SFO-UA-5763",
     "sfomuseum:flight_number":"UA5763",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -67,7 +68,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554652950,
+    "wof:lastmodified":1559685263,
     "wof:name":"UA5763 (SNA-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

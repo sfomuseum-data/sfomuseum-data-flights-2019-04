@@ -36,6 +36,7 @@
         "DLH9223"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -76,7 +77,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1556208221,
+    "wof:lastmodified":1559682714,
     "wof:name":"LH9223 (SAN-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

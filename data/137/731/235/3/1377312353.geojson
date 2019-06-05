@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-SNA-SFO-AS-2080",
     "sfomuseum:flight_number":"AS2080",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -67,7 +68,7 @@
         1159283813,
         1159157705
     ],
-    "wof:lastmodified":1554220963,
+    "wof:lastmodified":1559683806,
     "wof:name":"AS2080 (SNA-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

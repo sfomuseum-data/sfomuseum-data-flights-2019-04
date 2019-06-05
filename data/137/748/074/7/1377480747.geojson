@@ -33,6 +33,7 @@
         "UAL587"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157757,
@@ -72,7 +73,7 @@
         1159285413,
         1159157757
     ],
-    "wof:lastmodified":1555689798,
+    "wof:lastmodified":1559684116,
     "wof:name":"UA587 (SEA-SFO)",
     "wof:parent_id":1159157757,
     "wof:placetype":"event",

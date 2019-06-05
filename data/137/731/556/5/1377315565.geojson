@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-JFK-QR-3908",
     "sfomuseum:flight_number":"QR3908",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -73,7 +74,7 @@
         1159157605,
         1360700745
     ],
-    "wof:lastmodified":1554220998,
+    "wof:lastmodified":1559683779,
     "wof:name":"QR3908 (SFO-JFK)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

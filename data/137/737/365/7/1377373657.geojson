@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-SJD-SFO-AC-5098",
     "sfomuseum:flight_number":"AC5098",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -71,7 +72,7 @@
         1159157657,
         1159285413
     ],
-    "wof:lastmodified":1554912161,
+    "wof:lastmodified":1559682872,
     "wof:name":"AC5098 (SJD-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ANZ9749"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -78,7 +79,7 @@
         1159157689,
         1159285413
     ],
-    "wof:lastmodified":1555257820,
+    "wof:lastmodified":1559685722,
     "wof:name":"NZ9749 (SFO-TUS)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

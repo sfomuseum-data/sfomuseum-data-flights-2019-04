@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-AKL-SFO-UA-6754",
     "sfomuseum:flight_number":"UA6754",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -71,7 +72,7 @@
         1159157677,
         1159283697
     ],
-    "wof:lastmodified":1554307348,
+    "wof:lastmodified":1559683804,
     "wof:name":"UA6754 (AKL-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-DEN-NZ-9057",
     "sfomuseum:flight_number":"NZ9057",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -73,7 +74,7 @@
         1159157723,
         1159285413
     ],
-    "wof:lastmodified":1554221006,
+    "wof:lastmodified":1559683861,
     "wof:name":"NZ9057 (SFO-DEN)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

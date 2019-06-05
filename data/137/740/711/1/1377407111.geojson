@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-CLE-SFO-UA-2143",
     "sfomuseum:flight_number":"UA2143",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -67,7 +68,7 @@
         1159285413,
         1159157671
     ],
-    "wof:lastmodified":1555017559,
+    "wof:lastmodified":1559683899,
     "wof:name":"UA2143 (CLE-SFO)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

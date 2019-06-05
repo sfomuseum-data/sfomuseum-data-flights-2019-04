@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-BWI-QF-3668",
     "sfomuseum:flight_number":"QF3668",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554912202,
+    "wof:lastmodified":1559682896,
     "wof:name":"QF3668 (SFO-BWI)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

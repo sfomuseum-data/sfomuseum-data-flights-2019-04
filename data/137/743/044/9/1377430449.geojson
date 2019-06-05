@@ -38,6 +38,7 @@
         "BAW5157"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -78,7 +79,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1555171438,
+    "wof:lastmodified":1559685798,
     "wof:name":"BA5157 (SFO-DFW)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

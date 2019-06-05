@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-DEN-NH-7308",
     "sfomuseum:flight_number":"NH7308",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -73,7 +74,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554393763,
+    "wof:lastmodified":1559685135,
     "wof:name":"NH7308 (SFO-DEN)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

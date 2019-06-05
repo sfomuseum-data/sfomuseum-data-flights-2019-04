@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-YYZ-SFO-AC-737",
     "sfomuseum:flight_number":"AC737",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -67,7 +68,7 @@
         1159283597,
         1159157621
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682987,
     "wof:name":"AC737 (YYZ-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-IAH-SFO-UA-1998",
     "sfomuseum:flight_number":"UA1998",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -67,7 +68,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554912160,
+    "wof:lastmodified":1559682986,
     "wof:name":"UA1998 (IAH-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

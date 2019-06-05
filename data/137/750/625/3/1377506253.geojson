@@ -38,6 +38,7 @@
         "HAL2224"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159284489,
         1360700745
     ],
-    "wof:lastmodified":1555949031,
+    "wof:lastmodified":1559685372,
     "wof:name":"HA2224 (SFO-BOS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

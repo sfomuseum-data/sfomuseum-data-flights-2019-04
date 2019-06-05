@@ -35,6 +35,7 @@
         "UAL616"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -74,7 +75,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1555171385,
+    "wof:lastmodified":1559685839,
     "wof:name":"UA616 (SFO-DCA)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

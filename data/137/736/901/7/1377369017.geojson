@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-OMA-UA-5216",
     "sfomuseum:flight_number":"UA5216",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -69,7 +70,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554825793,
+    "wof:lastmodified":1559683484,
     "wof:name":"UA5216 (SFO-OMA)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

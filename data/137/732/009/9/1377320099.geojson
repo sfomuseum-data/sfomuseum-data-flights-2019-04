@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-LHR-SFO-AY-5525",
     "sfomuseum:flight_number":"AY5525",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157641,
@@ -71,7 +72,7 @@
         1159157641,
         1159284021
     ],
-    "wof:lastmodified":1554307353,
+    "wof:lastmodified":1559685119,
     "wof:name":"AY5525 (LHR-SFO)",
     "wof:parent_id":1159157641,
     "wof:placetype":"event",

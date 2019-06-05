@@ -36,6 +36,7 @@
         "CMP2351"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -76,7 +77,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1555776209,
+    "wof:lastmodified":1559684056,
     "wof:name":"CM2351 (BOI-SFO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

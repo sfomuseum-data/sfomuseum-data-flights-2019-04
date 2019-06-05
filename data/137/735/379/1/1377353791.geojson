@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-ATL-AM-5203",
     "sfomuseum:flight_number":"AM5203",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -73,7 +74,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1554652983,
+    "wof:lastmodified":1559685240,
     "wof:name":"AM5203 (SFO-ATL)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

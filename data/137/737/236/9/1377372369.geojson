@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-SEA-SFO-UA-659",
     "sfomuseum:flight_number":"UA659",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -67,7 +68,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1554912157,
+    "wof:lastmodified":1559682961,
     "wof:name":"UA659 (SEA-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

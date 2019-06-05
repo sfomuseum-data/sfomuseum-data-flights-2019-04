@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-NRT-SFO-TG-6094",
     "sfomuseum:flight_number":"TG6094",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -71,7 +72,7 @@
         1159157777,
         1159283875
     ],
-    "wof:lastmodified":1554307356,
+    "wof:lastmodified":1559685166,
     "wof:name":"TG6094 (NRT-SFO)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

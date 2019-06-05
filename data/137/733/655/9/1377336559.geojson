@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-HND-SFO-AA-8401",
     "sfomuseum:flight_number":"AA8401",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -71,7 +72,7 @@
         1159157631,
         1159284563
     ],
-    "wof:lastmodified":1554480165,
+    "wof:lastmodified":1559684816,
     "wof:name":"AA8401 (HND-SFO)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

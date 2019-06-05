@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-ZRH-UA-9725",
     "sfomuseum:flight_number":"UA9725",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -73,7 +74,7 @@
         1159157685,
         1159286475
     ],
-    "wof:lastmodified":1555017624,
+    "wof:lastmodified":1559684497,
     "wof:name":"UA9725 (SFO-ZRH)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

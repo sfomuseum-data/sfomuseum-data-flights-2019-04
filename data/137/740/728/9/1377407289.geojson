@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-SMF-SFO-AV-2067",
     "sfomuseum:flight_number":"AV2067",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -71,7 +72,7 @@
         1159157739,
         1159285413
     ],
-    "wof:lastmodified":1555017559,
+    "wof:lastmodified":1559683898,
     "wof:name":"AV2067 (SMF-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

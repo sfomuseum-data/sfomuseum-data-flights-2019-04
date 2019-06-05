@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-JFK-SFO-AS-647",
     "sfomuseum:flight_number":"AS647",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -68,7 +69,7 @@
         102534365,
         1159283813
     ],
-    "wof:lastmodified":1554480158,
+    "wof:lastmodified":1559684737,
     "wof:name":"AS647 (JFK-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

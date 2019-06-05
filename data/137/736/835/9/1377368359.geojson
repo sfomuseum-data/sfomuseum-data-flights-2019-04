@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PSP-SY-613",
     "sfomuseum:flight_number":"SY613",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157641,
@@ -69,7 +70,7 @@
         1159285227,
         1159157641
     ],
-    "wof:lastmodified":1554825782,
+    "wof:lastmodified":1559683566,
     "wof:name":"SY613 (SFO-PSP)",
     "wof:parent_id":1159157641,
     "wof:placetype":"event",

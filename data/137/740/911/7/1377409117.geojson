@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-PSP-SFO-AS-3439",
     "sfomuseum:flight_number":"AS3439",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -68,7 +69,7 @@
         102533591,
         1159283813
     ],
-    "wof:lastmodified":1555017565,
+    "wof:lastmodified":1559683897,
     "wof:name":"AS3439 (PSP-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

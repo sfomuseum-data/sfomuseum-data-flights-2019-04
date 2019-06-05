@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SEA-KE-3084",
     "sfomuseum:flight_number":"KE3084",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -73,7 +74,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1554393818,
+    "wof:lastmodified":1559684809,
     "wof:name":"KE3084 (SFO-SEA)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

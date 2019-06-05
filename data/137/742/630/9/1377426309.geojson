@@ -36,6 +36,7 @@
         "DLH7575"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -76,7 +77,7 @@
         1159157739,
         1159285413
     ],
-    "wof:lastmodified":1555171381,
+    "wof:lastmodified":1559685908,
     "wof:name":"LH7575 (SBP-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

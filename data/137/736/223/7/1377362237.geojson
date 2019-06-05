@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-KIX-NH-7071",
     "sfomuseum:flight_number":"NH7071",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -73,7 +74,7 @@
         1159157777,
         1159285413
     ],
-    "wof:lastmodified":1554739434,
+    "wof:lastmodified":1559683697,
     "wof:name":"NH7071 (SFO-KIX)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

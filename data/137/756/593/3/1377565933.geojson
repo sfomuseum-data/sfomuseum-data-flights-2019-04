@@ -36,6 +36,7 @@
         "ACA5110"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -76,7 +77,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1556640222,
+    "wof:lastmodified":1559684850,
     "wof:name":"AC5110 (YVR-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

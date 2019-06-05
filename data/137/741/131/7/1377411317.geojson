@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-SAN-EK-3069",
     "sfomuseum:flight_number":"EK3069",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157651,
@@ -73,7 +74,7 @@
         1159157651,
         1159283813
     ],
-    "wof:lastmodified":1555017592,
+    "wof:lastmodified":1559684508,
     "wof:name":"EK3069 (SFO-SAN)",
     "wof:parent_id":1159157651,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-HNL-LH-9138",
     "sfomuseum:flight_number":"LH9138",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554393798,
+    "wof:lastmodified":1559684797,
     "wof:name":"LH9138 (SFO-HNL)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

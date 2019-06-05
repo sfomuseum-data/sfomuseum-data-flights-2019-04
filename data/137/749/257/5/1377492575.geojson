@@ -38,6 +38,7 @@
         "LAN5064"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159285641,
         1159283813
     ],
-    "wof:lastmodified":1555776250,
+    "wof:lastmodified":1559683963,
     "wof:name":"LA5064 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

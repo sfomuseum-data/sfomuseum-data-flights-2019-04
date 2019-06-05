@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-MFR-SFO-UA-5279",
     "sfomuseum:flight_number":"UA5279",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -67,7 +68,7 @@
         1159285413,
         1159157689
     ],
-    "wof:lastmodified":1554825749,
+    "wof:lastmodified":1559683740,
     "wof:name":"UA5279 (MFR-SFO)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-FRA-SFO-LH-454",
     "sfomuseum:flight_number":"LH454",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -67,7 +68,7 @@
         1159284711,
         1159157827
     ],
-    "wof:lastmodified":1554566554,
+    "wof:lastmodified":1559684657,
     "wof:name":"LH454 (FRA-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

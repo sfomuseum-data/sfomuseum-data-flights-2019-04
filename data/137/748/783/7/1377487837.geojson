@@ -33,6 +33,7 @@
         "EVA28"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -72,7 +73,7 @@
         1159284349,
         1159157621
     ],
-    "wof:lastmodified":1555776202,
+    "wof:lastmodified":1559684098,
     "wof:name":"BR28 (TPE-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

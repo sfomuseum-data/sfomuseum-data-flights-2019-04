@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LAX-QF-3285",
     "sfomuseum:flight_number":"QF3285",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157707,
@@ -73,7 +74,7 @@
         1159157707,
         1159283849
     ],
-    "wof:lastmodified":1554220994,
+    "wof:lastmodified":1559683782,
     "wof:name":"QF3285 (SFO-LAX)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",

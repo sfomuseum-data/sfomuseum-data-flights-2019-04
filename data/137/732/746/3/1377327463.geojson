@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-SAN-SFO-EK-3092",
     "sfomuseum:flight_number":"EK3092",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284333,
         1159283813
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685140,
     "wof:name":"EK3092 (SAN-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

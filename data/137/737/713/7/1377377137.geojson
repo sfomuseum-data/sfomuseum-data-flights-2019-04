@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-CVG-UA-2311",
     "sfomuseum:flight_number":"UA2311",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -69,7 +70,7 @@
         1159285413,
         1159157789
     ],
-    "wof:lastmodified":1554912210,
+    "wof:lastmodified":1559682908,
     "wof:name":"UA2311 (SFO-CVG)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

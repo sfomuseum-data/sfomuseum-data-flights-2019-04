@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-PHX-UA-2339",
     "sfomuseum:flight_number":"UA2339",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -69,7 +70,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1554221023,
+    "wof:lastmodified":1559683798,
     "wof:name":"UA2339 (SFO-PHX)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

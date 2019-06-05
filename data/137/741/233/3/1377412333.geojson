@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LGA-AC-5904",
     "sfomuseum:flight_number":"AC5904",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -73,7 +74,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1555017610,
+    "wof:lastmodified":1559684474,
     "wof:name":"AC5904 (SFO-LGA)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

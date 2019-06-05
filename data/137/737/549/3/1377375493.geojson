@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-RNO-UA-5754",
     "sfomuseum:flight_number":"UA5754",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157849,
@@ -69,7 +70,7 @@
         1159285413,
         1159157849
     ],
-    "wof:lastmodified":1554912181,
+    "wof:lastmodified":1559682980,
     "wof:name":"UA5754 (SFO-RNO)",
     "wof:parent_id":1159157849,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "ASA1210"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1556381050,
+    "wof:lastmodified":1559683178,
     "wof:name":"AS1210 (SFO-PVR)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-JFK-SQ-1410",
     "sfomuseum:flight_number":"SQ1410",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -73,7 +74,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1554307422,
+    "wof:lastmodified":1559685126,
     "wof:name":"SQ1410 (SFO-JFK)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-SEA-AV-2036",
     "sfomuseum:flight_number":"AV2036",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -73,7 +74,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1555017589,
+    "wof:lastmodified":1559684501,
     "wof:name":"AV2036 (SFO-SEA)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

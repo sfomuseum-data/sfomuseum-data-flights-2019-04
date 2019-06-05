@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LAS-LH-7844",
     "sfomuseum:flight_number":"LH7844",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554653002,
+    "wof:lastmodified":1559685222,
     "wof:name":"LH7844 (SFO-LAS)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

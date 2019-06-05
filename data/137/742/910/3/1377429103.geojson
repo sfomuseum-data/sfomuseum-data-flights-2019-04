@@ -38,6 +38,7 @@
         "HAL2120"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -78,7 +79,7 @@
         1159157605,
         1360700745
     ],
-    "wof:lastmodified":1555171415,
+    "wof:lastmodified":1559685927,
     "wof:name":"HA2120 (SFO-FLL)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

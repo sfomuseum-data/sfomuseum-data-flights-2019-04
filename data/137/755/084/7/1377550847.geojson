@@ -36,6 +36,7 @@
         "CMP1063"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -76,7 +77,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1556467531,
+    "wof:lastmodified":1559682777,
     "wof:name":"CM1063 (LAX-SFO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

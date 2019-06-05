@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PDX-NZ-9343",
     "sfomuseum:flight_number":"NZ9343",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -73,7 +74,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554393759,
+    "wof:lastmodified":1559685189,
     "wof:name":"NZ9343 (SFO-PDX)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

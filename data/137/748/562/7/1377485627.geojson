@@ -38,6 +38,7 @@
         "QFA3192"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157795,
@@ -78,7 +79,7 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1555689860,
+    "wof:lastmodified":1559684110,
     "wof:name":"QF3192 (SFO-LAX)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",

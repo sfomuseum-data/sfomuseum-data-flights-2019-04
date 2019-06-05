@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-LAX-DL-2700",
     "sfomuseum:flight_number":"DL2700",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -69,7 +70,7 @@
         1159284261,
         1159157661
     ],
-    "wof:lastmodified":1554307379,
+    "wof:lastmodified":1559685113,
     "wof:name":"DL2700 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

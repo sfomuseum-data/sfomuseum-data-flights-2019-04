@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-CZ-1200",
     "sfomuseum:flight_number":"CZ1200",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1555017571,
+    "wof:lastmodified":1559684545,
     "wof:name":"CZ1200 (SFO-LAX)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "DLH9055"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -77,7 +78,7 @@
         1159284711,
         1159285413
     ],
-    "wof:lastmodified":1556294624,
+    "wof:lastmodified":1559683280,
     "wof:name":"LH9055 (SBA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-FAT-LH-8886",
     "sfomuseum:flight_number":"LH8886",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -73,7 +74,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1554912226,
+    "wof:lastmodified":1559682897,
     "wof:name":"LH8886 (SFO-FAT)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

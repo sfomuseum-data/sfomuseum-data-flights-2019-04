@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-HNL-NZ-9145",
     "sfomuseum:flight_number":"NZ9145",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554307402,
+    "wof:lastmodified":1559685134,
     "wof:name":"NZ9145 (SFO-HNL)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

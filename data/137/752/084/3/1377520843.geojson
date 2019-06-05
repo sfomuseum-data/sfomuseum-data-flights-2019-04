@@ -38,6 +38,7 @@
         "AUA7884"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -78,7 +79,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1556121822,
+    "wof:lastmodified":1559682682,
     "wof:name":"OS7884 (SFO-SMF)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

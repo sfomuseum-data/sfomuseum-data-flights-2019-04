@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-PSP-SFO-AS-3319",
     "sfomuseum:flight_number":"AS3319",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -67,7 +68,7 @@
         1159283813,
         1159157701
     ],
-    "wof:lastmodified":1554825750,
+    "wof:lastmodified":1559683697,
     "wof:name":"AS3319 (PSP-SFO)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

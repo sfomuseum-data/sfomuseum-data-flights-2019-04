@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-BNA-SFO-AS-1101",
     "sfomuseum:flight_number":"AS1101",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -67,7 +68,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1554912158,
+    "wof:lastmodified":1559682889,
     "wof:name":"AS1101 (BNA-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

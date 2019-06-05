@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-HOU-WN-4505",
     "sfomuseum:flight_number":"WN4505",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157859,
@@ -69,7 +70,7 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1554739409,
+    "wof:lastmodified":1559683533,
     "wof:name":"WN4505 (SFO-HOU)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",

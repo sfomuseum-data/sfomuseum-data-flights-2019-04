@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-AUS-UA-701",
     "sfomuseum:flight_number":"UA701",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -69,7 +70,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1555017576,
+    "wof:lastmodified":1559684434,
     "wof:name":"UA701 (SFO-AUS)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

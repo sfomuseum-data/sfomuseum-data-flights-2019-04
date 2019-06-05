@@ -36,6 +36,7 @@
         "CPA7919"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -76,7 +77,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1555776207,
+    "wof:lastmodified":1559684091,
     "wof:name":"CX7919 (IAD-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

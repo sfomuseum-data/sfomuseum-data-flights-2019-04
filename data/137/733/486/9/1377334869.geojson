@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-SYD-SFO-LH-9328",
     "sfomuseum:flight_number":"LH9328",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157815,
@@ -71,7 +72,7 @@
         1159157815,
         1159285413
     ],
-    "wof:lastmodified":1554480160,
+    "wof:lastmodified":1559684808,
     "wof:name":"LH9328 (SYD-SFO)",
     "wof:parent_id":1159157815,
     "wof:placetype":"event",

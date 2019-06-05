@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-JFK-B6-916",
     "sfomuseum:flight_number":"B6916",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -69,7 +70,7 @@
         1360700745,
         1159157605
     ],
-    "wof:lastmodified":1554480226,
+    "wof:lastmodified":1559684735,
     "wof:name":"B6916 (SFO-JFK)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

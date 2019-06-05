@@ -38,6 +38,7 @@
         "AAL7532"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159283849,
         1159283813
     ],
-    "wof:lastmodified":1556035413,
+    "wof:lastmodified":1559685064,
     "wof:name":"AA7532 (SFO-PDX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

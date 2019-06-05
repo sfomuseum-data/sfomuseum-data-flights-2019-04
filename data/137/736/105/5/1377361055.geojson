@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAS-CX-7932",
     "sfomuseum:flight_number":"CX7932",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -73,7 +74,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1554739413,
+    "wof:lastmodified":1559683485,
     "wof:name":"CX7932 (SFO-LAS)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

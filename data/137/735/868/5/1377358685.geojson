@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-PDX-SFO-UA-802",
     "sfomuseum:flight_number":"UA802",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -67,7 +68,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1554739380,
+    "wof:lastmodified":1559685229,
     "wof:name":"UA802 (PDX-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

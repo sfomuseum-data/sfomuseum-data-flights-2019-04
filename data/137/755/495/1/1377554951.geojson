@@ -38,6 +38,7 @@
         "QFA3673"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1556467572,
+    "wof:lastmodified":1559682849,
     "wof:name":"QF3673 (SFO-DCA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

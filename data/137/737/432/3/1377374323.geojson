@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-TLV-SFO-UA-955",
     "sfomuseum:flight_number":"UA955",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -67,7 +68,7 @@
         1159285413,
         1159157677
     ],
-    "wof:lastmodified":1554912163,
+    "wof:lastmodified":1559682976,
     "wof:name":"UA955 (TLV-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

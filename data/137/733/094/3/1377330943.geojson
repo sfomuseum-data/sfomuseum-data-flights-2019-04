@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-ATL-CA-7245",
     "sfomuseum:flight_number":"CA7245",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -73,7 +74,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1554393791,
+    "wof:lastmodified":1559684830,
     "wof:name":"CA7245 (SFO-ATL)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ANZ9343"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -78,7 +79,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1555776235,
+    "wof:lastmodified":1559683945,
     "wof:name":"NZ9343 (SFO-PDX)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

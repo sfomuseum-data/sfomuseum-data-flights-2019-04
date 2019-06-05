@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-MUC-SFO-LH-458",
     "sfomuseum:flight_number":"LH458",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -67,7 +68,7 @@
         1159284711,
         1159157827
     ],
-    "wof:lastmodified":1554912160,
+    "wof:lastmodified":1559682877,
     "wof:name":"LH458 (MUC-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

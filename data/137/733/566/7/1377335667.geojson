@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-MIA-SFO-QF-3337",
     "sfomuseum:flight_number":"QF3337",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285043,
         1159283849
     ],
-    "wof:lastmodified":1554480162,
+    "wof:lastmodified":1559684727,
     "wof:name":"QF3337 (MIA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

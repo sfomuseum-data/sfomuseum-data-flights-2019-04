@@ -38,6 +38,7 @@
         "ANA7394"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -78,7 +79,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1555949060,
+    "wof:lastmodified":1559685404,
     "wof:name":"NH7394 (SFO-YVR)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

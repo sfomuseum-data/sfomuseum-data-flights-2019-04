@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SAN-NZ-9599",
     "sfomuseum:flight_number":"NZ9599",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -73,7 +74,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554652993,
+    "wof:lastmodified":1559685288,
     "wof:name":"NZ9599 (SFO-SAN)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

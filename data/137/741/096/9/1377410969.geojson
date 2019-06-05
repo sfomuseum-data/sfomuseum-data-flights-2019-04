@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-NRT-TG-6095",
     "sfomuseum:flight_number":"TG6095",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -73,7 +74,7 @@
         1159157827,
         1159283875
     ],
-    "wof:lastmodified":1555017585,
+    "wof:lastmodified":1559684454,
     "wof:name":"TG6095 (SFO-NRT)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

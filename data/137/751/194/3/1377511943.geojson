@@ -36,6 +36,7 @@
         "ANZ9021"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -76,7 +77,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1556035411,
+    "wof:lastmodified":1559684994,
     "wof:name":"NZ9021 (BOS-SFO)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

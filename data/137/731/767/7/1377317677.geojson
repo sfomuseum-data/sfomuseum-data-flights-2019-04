@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-BZN-SFO-UA-5779",
     "sfomuseum:flight_number":"UA5779",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -67,7 +68,7 @@
         1159285413,
         1159157721
     ],
-    "wof:lastmodified":1554307345,
+    "wof:lastmodified":1559683831,
     "wof:name":"UA5779 (BZN-SFO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

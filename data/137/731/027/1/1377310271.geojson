@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-BUR-SFO-WN-1482",
     "sfomuseum:flight_number":"WN1482",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -67,7 +68,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554220956,
+    "wof:lastmodified":1559683843,
     "wof:name":"WN1482 (BUR-SFO)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

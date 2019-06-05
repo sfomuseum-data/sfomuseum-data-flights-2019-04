@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-CDG-AC-5940",
     "sfomuseum:flight_number":"AC5940",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -73,7 +74,7 @@
         1159157657,
         1159285413
     ],
-    "wof:lastmodified":1554652957,
+    "wof:lastmodified":1559685216,
     "wof:name":"AC5940 (SFO-CDG)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

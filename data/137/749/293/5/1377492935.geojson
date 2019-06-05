@@ -38,6 +38,7 @@
         "JAL7540"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -78,7 +79,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1555776257,
+    "wof:lastmodified":1559683971,
     "wof:name":"JL7540 (SFO-PHX)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

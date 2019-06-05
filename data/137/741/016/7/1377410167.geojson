@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-TLV-UA-954",
     "sfomuseum:flight_number":"UA954",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -69,7 +70,7 @@
         1159285413,
         1159157657
     ],
-    "wof:lastmodified":1555017571,
+    "wof:lastmodified":1559684537,
     "wof:name":"UA954 (SFO-TLV)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

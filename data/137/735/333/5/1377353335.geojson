@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SNA-QF-3694",
     "sfomuseum:flight_number":"QF3694",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157833,
@@ -73,7 +74,7 @@
         1159157833,
         1159283813
     ],
-    "wof:lastmodified":1554652975,
+    "wof:lastmodified":1559685263,
     "wof:name":"QF3694 (SFO-SNA)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",

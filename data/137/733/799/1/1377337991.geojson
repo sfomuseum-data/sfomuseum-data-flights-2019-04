@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-DEN-UA-431",
     "sfomuseum:flight_number":"UA431",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554480190,
+    "wof:lastmodified":1559684721,
     "wof:name":"UA431 (SFO-DEN)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

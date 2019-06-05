@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-SAT-SFO-UA-5309",
     "sfomuseum:flight_number":"UA5309",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -67,7 +68,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554652944,
+    "wof:lastmodified":1559684655,
     "wof:name":"UA5309 (SAT-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-BNA-SQ-1445",
     "sfomuseum:flight_number":"SQ1445",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -73,7 +74,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1554652963,
+    "wof:lastmodified":1559685234,
     "wof:name":"SQ1445 (SFO-BNA)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

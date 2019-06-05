@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-CUN-UA-1145",
     "sfomuseum:flight_number":"UA1145",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -69,7 +70,7 @@
         1159285413,
         1159157659
     ],
-    "wof:lastmodified":1554652997,
+    "wof:lastmodified":1559685287,
     "wof:name":"UA1145 (SFO-CUN)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

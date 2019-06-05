@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-BUR-SFO-UA-239",
     "sfomuseum:flight_number":"UA239",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -67,7 +68,7 @@
         1159285413,
         1159157741
     ],
-    "wof:lastmodified":1554307350,
+    "wof:lastmodified":1559683787,
     "wof:name":"UA239 (BUR-SFO)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-IAD-SFO-UA-1893",
     "sfomuseum:flight_number":"UA1893",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -67,7 +68,7 @@
         1159285413,
         1159157785
     ],
-    "wof:lastmodified":1554825750,
+    "wof:lastmodified":1559683639,
     "wof:name":"UA1893 (IAD-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

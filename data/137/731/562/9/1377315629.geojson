@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-MUC-LH-7996",
     "sfomuseum:flight_number":"LH7996",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -73,7 +74,7 @@
         1159157677,
         1159285413
     ],
-    "wof:lastmodified":1554221000,
+    "wof:lastmodified":1559683836,
     "wof:name":"LH7996 (SFO-MUC)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-DFW-CZ-1713",
     "sfomuseum:flight_number":"CZ1713",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157707,
@@ -73,7 +74,7 @@
         1159157707,
         1159283849
     ],
-    "wof:lastmodified":1554221009,
+    "wof:lastmodified":1559683839,
     "wof:name":"CZ1713 (SFO-DFW)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",

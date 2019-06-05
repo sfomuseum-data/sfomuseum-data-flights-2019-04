@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-JFK-AM-3186",
     "sfomuseum:flight_number":"AM3186",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157747,
@@ -73,7 +74,7 @@
         1159157747,
         1159284261
     ],
-    "wof:lastmodified":1554825807,
+    "wof:lastmodified":1559683609,
     "wof:name":"AM3186 (SFO-JFK)",
     "wof:parent_id":1159157747,
     "wof:placetype":"event",

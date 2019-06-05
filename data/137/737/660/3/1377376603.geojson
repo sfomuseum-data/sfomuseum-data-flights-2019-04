@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-SBP-LH-9388",
     "sfomuseum:flight_number":"LH9388",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -73,7 +74,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1554912201,
+    "wof:lastmodified":1559682898,
     "wof:name":"LH9388 (SFO-SBP)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

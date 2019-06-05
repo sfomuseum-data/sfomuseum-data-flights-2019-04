@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-ICN-UA-7290",
     "sfomuseum:flight_number":"UA7290",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -73,7 +74,7 @@
         1159157777,
         1159283917
     ],
-    "wof:lastmodified":1554652979,
+    "wof:lastmodified":1559685208,
     "wof:name":"UA7290 (SFO-ICN)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

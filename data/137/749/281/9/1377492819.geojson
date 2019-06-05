@@ -38,6 +38,7 @@
         "AUA7990"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -78,7 +79,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1555776255,
+    "wof:lastmodified":1559683963,
     "wof:name":"OS7990 (SFO-EWR)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

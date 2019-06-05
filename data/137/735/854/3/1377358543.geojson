@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-LAX-SFO-LA-5067",
     "sfomuseum:flight_number":"LA5067",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285641,
         1159283813
     ],
-    "wof:lastmodified":1554739379,
+    "wof:lastmodified":1559685284,
     "wof:name":"LA5067 (LAX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

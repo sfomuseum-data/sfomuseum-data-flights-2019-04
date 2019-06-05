@@ -38,6 +38,7 @@
         "SIA1294"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -78,7 +79,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1555949058,
+    "wof:lastmodified":1559685399,
     "wof:name":"SQ1294 (SFO-SNA)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

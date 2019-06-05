@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-MCO-WN-2516",
     "sfomuseum:flight_number":"WN2516",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -69,7 +70,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1554307417,
+    "wof:lastmodified":1559685174,
     "wof:name":"WN2516 (SFO-MCO)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

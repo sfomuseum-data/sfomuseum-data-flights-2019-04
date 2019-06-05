@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-JFK-QF-3211",
     "sfomuseum:flight_number":"QF3211",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -73,7 +74,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554739429,
+    "wof:lastmodified":1559683636,
     "wof:name":"QF3211 (SFO-JFK)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

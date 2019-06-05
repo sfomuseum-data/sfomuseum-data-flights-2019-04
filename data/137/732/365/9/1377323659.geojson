@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-PSP-AS-3390",
     "sfomuseum:flight_number":"AS3390",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554307399,
+    "wof:lastmodified":1559685087,
     "wof:name":"AS3390 (SFO-PSP)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

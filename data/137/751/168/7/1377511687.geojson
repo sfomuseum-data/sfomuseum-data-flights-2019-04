@@ -33,6 +33,7 @@
         "UAL1900"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -72,7 +73,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1556035410,
+    "wof:lastmodified":1559684987,
     "wof:name":"UA1900 (ATL-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

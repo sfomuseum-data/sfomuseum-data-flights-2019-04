@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-PHX-SFO-CZ-1706",
     "sfomuseum:flight_number":"CZ1706",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -71,7 +72,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685094,
     "wof:name":"CZ1706 (PHX-SFO)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

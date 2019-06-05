@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-GDL-DL-8080",
     "sfomuseum:flight_number":"DL8080",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157607,
@@ -73,7 +74,7 @@
         1159157607,
         1159283539
     ],
-    "wof:lastmodified":1555017579,
+    "wof:lastmodified":1559684557,
     "wof:name":"DL8080 (SFO-GDL)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",

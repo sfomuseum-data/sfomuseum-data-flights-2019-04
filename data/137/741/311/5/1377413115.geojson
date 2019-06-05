@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-JFK-DL-1443",
     "sfomuseum:flight_number":"DL1443",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -69,7 +70,7 @@
         1159284261,
         1159157663
     ],
-    "wof:lastmodified":1555017624,
+    "wof:lastmodified":1559684580,
     "wof:name":"DL1443 (SFO-JFK)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

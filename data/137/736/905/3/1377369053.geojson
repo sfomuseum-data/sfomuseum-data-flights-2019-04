@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PDX-EK-3059",
     "sfomuseum:flight_number":"EK3059",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157833,
@@ -73,7 +74,7 @@
         1159157833,
         1159283813
     ],
-    "wof:lastmodified":1554825794,
+    "wof:lastmodified":1559683674,
     "wof:name":"EK3059 (SFO-PDX)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",

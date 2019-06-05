@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-ICN-SFO-KE-25",
     "sfomuseum:flight_number":"KE25",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157627,
@@ -67,7 +68,7 @@
         1159284625,
         1159157627
     ],
-    "wof:lastmodified":1554566565,
+    "wof:lastmodified":1559684718,
     "wof:name":"KE25 (ICN-SFO)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",

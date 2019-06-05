@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-SNA-SFO-UA-2150",
     "sfomuseum:flight_number":"UA2150",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -67,7 +68,7 @@
         1159285413,
         1159157783
     ],
-    "wof:lastmodified":1554825750,
+    "wof:lastmodified":1559683712,
     "wof:name":"UA2150 (SNA-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-DEL-AI-174",
     "sfomuseum:flight_number":"AI174",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -69,7 +70,7 @@
         1159283649,
         1159157621
     ],
-    "wof:lastmodified":1554221017,
+    "wof:lastmodified":1559683808,
     "wof:name":"AI174 (SFO-DEL)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

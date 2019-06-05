@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-BNA-SFO-UA-1835",
     "sfomuseum:flight_number":"UA1835",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -67,7 +68,7 @@
         1159285413,
         1159157783
     ],
-    "wof:lastmodified":1554825756,
+    "wof:lastmodified":1559683579,
     "wof:name":"UA1835 (BNA-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-YVR-AV-6982",
     "sfomuseum:flight_number":"AV6982",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -73,7 +74,7 @@
         1159157623,
         1159283597
     ],
-    "wof:lastmodified":1554739387,
+    "wof:lastmodified":1559685253,
     "wof:name":"AV6982 (SFO-YVR)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "JAL7553"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157707,
@@ -78,7 +79,7 @@
         1159157707,
         1159283849
     ],
-    "wof:lastmodified":1555862612,
+    "wof:lastmodified":1559683958,
     "wof:name":"JL7553 (SFO-LAX)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",

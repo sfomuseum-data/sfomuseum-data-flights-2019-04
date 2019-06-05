@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-LAS-SFO-EK-3066",
     "sfomuseum:flight_number":"EK3066",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284333,
         1159283813
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685198,
     "wof:name":"EK3066 (LAS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

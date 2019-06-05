@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-IAH-SFO-UA-1844",
     "sfomuseum:flight_number":"UA1844",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -67,7 +68,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554307352,
+    "wof:lastmodified":1559683830,
     "wof:name":"UA1844 (IAH-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

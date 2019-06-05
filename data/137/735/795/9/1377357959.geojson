@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-LAS-SFO-UA-2360",
     "sfomuseum:flight_number":"UA2360",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -67,7 +68,7 @@
         1159285413,
         1159157789
     ],
-    "wof:lastmodified":1554739377,
+    "wof:lastmodified":1559685264,
     "wof:name":"UA2360 (LAS-SFO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

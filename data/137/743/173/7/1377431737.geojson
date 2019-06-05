@@ -36,6 +36,7 @@
         "AVA2270"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -76,7 +77,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1555257766,
+    "wof:lastmodified":1559685765,
     "wof:name":"AV2270 (EUG-SFO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

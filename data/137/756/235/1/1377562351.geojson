@@ -38,6 +38,7 @@
         "ANZ9030"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -78,7 +79,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1556553861,
+    "wof:lastmodified":1559684887,
     "wof:name":"NZ9030 (SFO-BWI)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

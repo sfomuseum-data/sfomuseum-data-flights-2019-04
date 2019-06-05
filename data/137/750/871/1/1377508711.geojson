@@ -35,6 +35,7 @@
         "UAL1676"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -74,7 +75,7 @@
         1159285413,
         1159157675
     ],
-    "wof:lastmodified":1555949074,
+    "wof:lastmodified":1559685377,
     "wof:name":"UA1676 (SFO-EWR)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

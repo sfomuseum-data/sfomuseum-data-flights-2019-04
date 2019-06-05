@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-PIT-SFO-UA-2228",
     "sfomuseum:flight_number":"UA2228",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157775,
@@ -67,7 +68,7 @@
         1159285413,
         1159157775
     ],
-    "wof:lastmodified":1554825753,
+    "wof:lastmodified":1559683595,
     "wof:name":"UA2228 (PIT-SFO)",
     "wof:parent_id":1159157775,
     "wof:placetype":"event",

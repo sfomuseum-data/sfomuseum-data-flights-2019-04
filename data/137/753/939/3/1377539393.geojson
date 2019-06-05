@@ -38,6 +38,7 @@
         "SWR3270"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -78,7 +79,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1556294658,
+    "wof:lastmodified":1559683242,
     "wof:name":"LX3270 (SFO-PHX)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-BUR-SFO-CM-1082",
     "sfomuseum:flight_number":"CM1082",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -71,7 +72,7 @@
         1159157739,
         1159285413
     ],
-    "wof:lastmodified":1554825751,
+    "wof:lastmodified":1559683612,
     "wof:name":"CM1082 (BUR-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

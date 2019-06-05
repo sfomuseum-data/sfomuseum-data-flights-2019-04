@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-DFW-BA-5157",
     "sfomuseum:flight_number":"BA5157",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -73,7 +74,7 @@
         1159157755,
         1159283849
     ],
-    "wof:lastmodified":1554220974,
+    "wof:lastmodified":1559683795,
     "wof:name":"BA5157 (SFO-DFW)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

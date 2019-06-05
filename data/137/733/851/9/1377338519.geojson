@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LAX-EK-3105",
     "sfomuseum:flight_number":"EK3105",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -73,7 +74,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1554480199,
+    "wof:lastmodified":1559684763,
     "wof:name":"EK3105 (SFO-LAX)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

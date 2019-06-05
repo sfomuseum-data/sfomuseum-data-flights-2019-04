@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-EWR-SN-8942",
     "sfomuseum:flight_number":"SN8942",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554912175,
+    "wof:lastmodified":1559682915,
     "wof:name":"SN8942 (SFO-EWR)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

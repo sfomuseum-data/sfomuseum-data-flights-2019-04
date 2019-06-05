@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-LHR-SFO-AA-6190",
     "sfomuseum:flight_number":"AA6190",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -71,7 +72,7 @@
         1159157633,
         1159284021
     ],
-    "wof:lastmodified":1554307351,
+    "wof:lastmodified":1559683823,
     "wof:name":"AA6190 (LHR-SFO)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-BNA-UA-1061",
     "sfomuseum:flight_number":"UA1061",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554566601,
+    "wof:lastmodified":1559684676,
     "wof:name":"UA1061 (SFO-BNA)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

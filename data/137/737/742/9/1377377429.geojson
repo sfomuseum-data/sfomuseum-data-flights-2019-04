@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-ORD-SK-8800",
     "sfomuseum:flight_number":"SK8800",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554912215,
+    "wof:lastmodified":1559682993,
     "wof:name":"SK8800 (SFO-ORD)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

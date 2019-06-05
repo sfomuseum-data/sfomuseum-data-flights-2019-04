@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-RDM-SFO-UA-5465",
     "sfomuseum:flight_number":"UA5465",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -67,7 +68,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554652941,
+    "wof:lastmodified":1559684629,
     "wof:name":"UA5465 (RDM-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-SYD-SFO-UA-870",
     "sfomuseum:flight_number":"UA870",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -67,7 +68,7 @@
         1159285413,
         1159157779
     ],
-    "wof:lastmodified":1554652942,
+    "wof:lastmodified":1559684676,
     "wof:name":"UA870 (SYD-SFO)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

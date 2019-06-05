@@ -33,6 +33,7 @@
         "ASA3311"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102533591,
         1159283813
     ],
-    "wof:lastmodified":1556467537,
+    "wof:lastmodified":1559682784,
     "wof:name":"AS3311 (PSP-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

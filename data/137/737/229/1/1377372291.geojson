@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-BOS-SFO-B6-333",
     "sfomuseum:flight_number":"B6333",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -67,7 +68,7 @@
         1360700745,
         1159157633
     ],
-    "wof:lastmodified":1554912156,
+    "wof:lastmodified":1559682880,
     "wof:name":"B6333 (BOS-SFO)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

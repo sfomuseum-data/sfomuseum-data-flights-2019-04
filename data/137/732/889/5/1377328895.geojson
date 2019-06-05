@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-LAX-SFO-CI-9084",
     "sfomuseum:flight_number":"CI9084",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -71,7 +72,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1554393756,
+    "wof:lastmodified":1559685104,
     "wof:name":"CI9084 (LAX-SFO)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

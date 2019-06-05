@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-AKL-SFO-AC-6103",
     "sfomuseum:flight_number":"AC6103",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -71,7 +72,7 @@
         1159157677,
         1159283697
     ],
-    "wof:lastmodified":1555017564,
+    "wof:lastmodified":1559683884,
     "wof:name":"AC6103 (AKL-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

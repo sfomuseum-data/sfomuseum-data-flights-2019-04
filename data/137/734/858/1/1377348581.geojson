@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-TPE-SFO-BR-28",
     "sfomuseum:flight_number":"BR28",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -67,7 +68,7 @@
         1159284349,
         1159157677
     ],
-    "wof:lastmodified":1554652941,
+    "wof:lastmodified":1559684635,
     "wof:name":"BR28 (TPE-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-TPE-BR-27",
     "sfomuseum:flight_number":"BR27",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -69,7 +70,7 @@
         1159284349,
         1159157685
     ],
-    "wof:lastmodified":1554393777,
+    "wof:lastmodified":1559684815,
     "wof:name":"BR27 (SFO-TPE)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

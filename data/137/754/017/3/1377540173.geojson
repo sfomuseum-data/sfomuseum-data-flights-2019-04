@@ -38,6 +38,7 @@
         "THA6748"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -78,7 +79,7 @@
         1159157683,
         1159283917
     ],
-    "wof:lastmodified":1556294672,
+    "wof:lastmodified":1559683157,
     "wof:name":"TG6748 (SFO-ICN)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

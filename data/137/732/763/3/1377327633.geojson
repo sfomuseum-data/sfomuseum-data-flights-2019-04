@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-LGA-SFO-UA-741",
     "sfomuseum:flight_number":"UA741",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -67,7 +68,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685084,
     "wof:name":"UA741 (LGA-SFO)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-BOS-UA-444",
     "sfomuseum:flight_number":"UA444",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -69,7 +70,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1554825806,
+    "wof:lastmodified":1559683612,
     "wof:name":"UA444 (SFO-BOS)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

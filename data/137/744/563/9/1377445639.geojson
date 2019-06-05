@@ -35,6 +35,7 @@
         "SWA4871"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157859,
@@ -74,7 +75,7 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1555344259,
+    "wof:lastmodified":1559685624,
     "wof:name":"WN4871 (SFO-BHM)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",

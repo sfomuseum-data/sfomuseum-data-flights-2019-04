@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SEA-NZ-9402",
     "sfomuseum:flight_number":"NZ9402",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -73,7 +74,7 @@
         1159157669,
         1159285413
     ],
-    "wof:lastmodified":1554480177,
+    "wof:lastmodified":1559684725,
     "wof:name":"NZ9402 (SFO-SEA)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

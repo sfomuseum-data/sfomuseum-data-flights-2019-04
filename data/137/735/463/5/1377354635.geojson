@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-IAD-CA-7321",
     "sfomuseum:flight_number":"CA7321",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -73,7 +74,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554652998,
+    "wof:lastmodified":1559685231,
     "wof:name":"CA7321 (SFO-IAD)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

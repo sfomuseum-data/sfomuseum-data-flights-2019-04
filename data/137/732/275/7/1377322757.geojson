@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-IAD-CA-7312",
     "sfomuseum:flight_number":"CA7312",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -73,7 +74,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554307383,
+    "wof:lastmodified":1559685113,
     "wof:name":"CA7312 (SFO-IAD)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

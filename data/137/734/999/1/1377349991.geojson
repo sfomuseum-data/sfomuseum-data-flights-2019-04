@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-LAX-SFO-EK-3064",
     "sfomuseum:flight_number":"EK3064",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -71,7 +72,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1554652946,
+    "wof:lastmodified":1559684612,
     "wof:name":"EK3064 (LAX-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

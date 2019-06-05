@@ -36,6 +36,7 @@
         "QFA4136"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157801,
@@ -76,7 +77,7 @@
         1159157801,
         1159283849
     ],
-    "wof:lastmodified":1555776209,
+    "wof:lastmodified":1559684056,
     "wof:name":"QF4136 (PHL-SFO)",
     "wof:parent_id":1159157801,
     "wof:placetype":"event",

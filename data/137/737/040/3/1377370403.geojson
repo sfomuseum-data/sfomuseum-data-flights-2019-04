@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-EWR-AC-5502",
     "sfomuseum:flight_number":"AC5502",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -73,7 +74,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1554825818,
+    "wof:lastmodified":1559682890,
     "wof:name":"AC5502 (SFO-EWR)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-LHR-SFO-NZ-9831",
     "sfomuseum:flight_number":"NZ9831",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -71,7 +72,7 @@
         1159157657,
         1159285413
     ],
-    "wof:lastmodified":1554912163,
+    "wof:lastmodified":1559682940,
     "wof:name":"NZ9831 (LHR-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

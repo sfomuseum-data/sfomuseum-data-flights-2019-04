@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-YUL-SFO-SN-9591",
     "sfomuseum:flight_number":"SN9591",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -71,7 +72,7 @@
         1159157683,
         1159283597
     ],
-    "wof:lastmodified":1554912158,
+    "wof:lastmodified":1559682890,
     "wof:name":"SN9591 (YUL-SFO)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

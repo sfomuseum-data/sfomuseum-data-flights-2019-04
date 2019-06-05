@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-IST-TK-80",
     "sfomuseum:flight_number":"TK80",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -69,7 +70,7 @@
         1159285391,
         1159157687
     ],
-    "wof:lastmodified":1554221006,
+    "wof:lastmodified":1559683785,
     "wof:name":"TK80 (SFO-IST)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

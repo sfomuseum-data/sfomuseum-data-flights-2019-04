@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-BNA-AS-1100",
     "sfomuseum:flight_number":"AS1100",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -69,7 +70,7 @@
         1159283813,
         1159157829
     ],
-    "wof:lastmodified":1554480167,
+    "wof:lastmodified":1559684749,
     "wof:name":"AS1100 (SFO-BNA)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

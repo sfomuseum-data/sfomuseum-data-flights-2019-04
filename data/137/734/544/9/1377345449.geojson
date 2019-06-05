@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-EWR-UA-535",
     "sfomuseum:flight_number":"UA535",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -69,7 +70,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554566586,
+    "wof:lastmodified":1559684645,
     "wof:name":"UA535 (SFO-EWR)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

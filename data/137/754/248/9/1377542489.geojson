@@ -33,6 +33,7 @@
         "ASA625"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -72,7 +73,7 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1556381020,
+    "wof:lastmodified":1559683134,
     "wof:name":"AS625 (JFK-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

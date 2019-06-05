@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-PDX-SFO-SQ-1284",
     "sfomuseum:flight_number":"SQ1284",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -71,7 +72,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1554307348,
+    "wof:lastmodified":1559683847,
     "wof:name":"SQ1284 (PDX-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

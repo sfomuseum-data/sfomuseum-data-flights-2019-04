@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SEA-AA-6865",
     "sfomuseum:flight_number":"AA6865",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159283849,
         1159283813
     ],
-    "wof:lastmodified":1554566605,
+    "wof:lastmodified":1559684681,
     "wof:name":"AA6865 (SFO-SEA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

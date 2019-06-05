@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-EWR-NH-7338",
     "sfomuseum:flight_number":"NH7338",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -73,7 +74,7 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1554480224,
+    "wof:lastmodified":1559684846,
     "wof:name":"NH7338 (SFO-EWR)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-SEA-SFO-CX-7911",
     "sfomuseum:flight_number":"CX7911",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1555017563,
+    "wof:lastmodified":1559683884,
     "wof:name":"CX7911 (SEA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

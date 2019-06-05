@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-YYZ-SQ-1018",
     "sfomuseum:flight_number":"SQ1018",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -73,7 +74,7 @@
         1159157685,
         1159283597
     ],
-    "wof:lastmodified":1554220983,
+    "wof:lastmodified":1559683849,
     "wof:name":"SQ1018 (SFO-YYZ)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ZRH-LX-39",
     "sfomuseum:flight_number":"LX39",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -69,7 +70,7 @@
         1159286475,
         1159157685
     ],
-    "wof:lastmodified":1554825786,
+    "wof:lastmodified":1559683574,
     "wof:name":"LX39 (SFO-ZRH)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

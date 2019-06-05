@@ -36,6 +36,7 @@
         "AVA2267"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -76,7 +77,7 @@
         1159157689,
         1159285413
     ],
-    "wof:lastmodified":1556467534,
+    "wof:lastmodified":1559682768,
     "wof:name":"AV2267 (MFR-SFO)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

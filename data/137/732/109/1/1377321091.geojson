@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-ABQ-SFO-NZ-9233",
     "sfomuseum:flight_number":"NZ9233",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157769,
@@ -71,7 +72,7 @@
         1159157769,
         1159285413
     ],
-    "wof:lastmodified":1554307357,
+    "wof:lastmodified":1559685147,
     "wof:name":"NZ9233 (ABQ-SFO)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",

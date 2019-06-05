@@ -38,6 +38,7 @@
         "UAE3069"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -78,7 +79,7 @@
         1159157743,
         1159283813
     ],
-    "wof:lastmodified":1556640275,
+    "wof:lastmodified":1559685441,
     "wof:name":"EK3069 (SFO-SAN)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

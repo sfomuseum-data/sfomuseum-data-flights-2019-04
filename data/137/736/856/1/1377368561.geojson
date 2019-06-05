@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ORD-AC-5677",
     "sfomuseum:flight_number":"AC5677",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -73,7 +74,7 @@
         1159157665,
         1159285413
     ],
-    "wof:lastmodified":1554825785,
+    "wof:lastmodified":1559683571,
     "wof:name":"AC5677 (SFO-ORD)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-PDX-SFO-BA-7540",
     "sfomuseum:flight_number":"BA7540",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284021,
         1159283813
     ],
-    "wof:lastmodified":1554480160,
+    "wof:lastmodified":1559684806,
     "wof:name":"BA7540 (PDX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

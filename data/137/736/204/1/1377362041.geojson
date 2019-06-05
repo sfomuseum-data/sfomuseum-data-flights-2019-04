@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-EWR-UA-701",
     "sfomuseum:flight_number":"UA701",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -69,7 +70,7 @@
         1159285413,
         1159157721
     ],
-    "wof:lastmodified":1554739431,
+    "wof:lastmodified":1559683567,
     "wof:name":"UA701 (SFO-EWR)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

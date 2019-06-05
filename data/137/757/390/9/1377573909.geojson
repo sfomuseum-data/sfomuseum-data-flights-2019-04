@@ -36,6 +36,7 @@
         "ANA7393"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -76,7 +77,7 @@
         1159157855,
         1159285413
     ],
-    "wof:lastmodified":1556726627,
+    "wof:lastmodified":1559685423,
     "wof:name":"NH7393 (TUS-SFO)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

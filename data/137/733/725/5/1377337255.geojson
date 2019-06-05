@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-BWI-UA-2063",
     "sfomuseum:flight_number":"UA2063",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -69,7 +70,7 @@
         1159285413,
         1159157659
     ],
-    "wof:lastmodified":1554480177,
+    "wof:lastmodified":1559684771,
     "wof:name":"UA2063 (SFO-BWI)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

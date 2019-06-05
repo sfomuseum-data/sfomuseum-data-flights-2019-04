@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-PHX-SFO-AA-494",
     "sfomuseum:flight_number":"AA494",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -67,7 +68,7 @@
         1159283849,
         1159157791
     ],
-    "wof:lastmodified":1554220956,
+    "wof:lastmodified":1559683851,
     "wof:name":"AA494 (PHX-SFO)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

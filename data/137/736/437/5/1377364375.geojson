@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-HNL-SFO-FJ-5807",
     "sfomuseum:flight_number":"FJ5807",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159283717,
         1159283813
     ],
-    "wof:lastmodified":1554825748,
+    "wof:lastmodified":1559683561,
     "wof:name":"FJ5807 (HNL-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

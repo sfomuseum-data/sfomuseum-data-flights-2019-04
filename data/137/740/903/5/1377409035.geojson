@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-HKG-SFO-CX-872",
     "sfomuseum:flight_number":"CX872",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -67,7 +68,7 @@
         1159284127,
         1159157635
     ],
-    "wof:lastmodified":1555017565,
+    "wof:lastmodified":1559683889,
     "wof:name":"CX872 (HKG-SFO)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

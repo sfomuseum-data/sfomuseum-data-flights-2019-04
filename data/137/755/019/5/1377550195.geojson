@@ -36,6 +36,7 @@
         "ACA5033"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -76,7 +77,7 @@
         1159157621,
         1159285413
     ],
-    "wof:lastmodified":1556467528,
+    "wof:lastmodified":1559682839,
     "wof:name":"AC5033 (MEX-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

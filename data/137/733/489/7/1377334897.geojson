@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-MEX-SFO-AM-668",
     "sfomuseum:flight_number":"AM668",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157667,
@@ -67,7 +68,7 @@
         1159283539,
         1159157667
     ],
-    "wof:lastmodified":1554480160,
+    "wof:lastmodified":1559684815,
     "wof:name":"AM668 (MEX-SFO)",
     "wof:parent_id":1159157667,
     "wof:placetype":"event",

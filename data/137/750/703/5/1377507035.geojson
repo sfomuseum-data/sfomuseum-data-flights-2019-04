@@ -35,6 +35,7 @@
         "UAL2317"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -74,7 +75,7 @@
         1159285413,
         1159157653
     ],
-    "wof:lastmodified":1555949045,
+    "wof:lastmodified":1559685365,
     "wof:name":"UA2317 (SFO-EUG)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

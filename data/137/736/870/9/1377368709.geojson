@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ATL-AM-5175",
     "sfomuseum:flight_number":"AM5175",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -73,7 +74,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1554825788,
+    "wof:lastmodified":1559683688,
     "wof:name":"AM5175 (SFO-ATL)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

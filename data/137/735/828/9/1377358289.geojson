@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-TPE-SFO-DL-7725",
     "sfomuseum:flight_number":"DL7725",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157627,
@@ -71,7 +72,7 @@
         1159157627,
         1159284153
     ],
-    "wof:lastmodified":1554739378,
+    "wof:lastmodified":1559685222,
     "wof:name":"DL7725 (TPE-SFO)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",

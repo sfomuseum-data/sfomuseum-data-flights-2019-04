@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-SBA-SFO-LH-9055",
     "sfomuseum:flight_number":"LH9055",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -71,7 +72,7 @@
         1159157723,
         1159285413
     ],
-    "wof:lastmodified":1555017562,
+    "wof:lastmodified":1559683880,
     "wof:name":"LH9055 (SBA-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

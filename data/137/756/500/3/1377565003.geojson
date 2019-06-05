@@ -33,6 +33,7 @@
         "UAL5267"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -72,7 +73,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1556640219,
+    "wof:lastmodified":1559684925,
     "wof:name":"UA5267 (RNO-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-HKG-SFO-CX-870",
     "sfomuseum:flight_number":"CX870",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -67,7 +68,7 @@
         1159284127,
         1159157633
     ],
-    "wof:lastmodified":1554912163,
+    "wof:lastmodified":1559682892,
     "wof:name":"CX870 (HKG-SFO)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

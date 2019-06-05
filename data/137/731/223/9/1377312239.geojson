@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-PDX-SFO-AA-6920",
     "sfomuseum:flight_number":"AA6920",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -71,7 +72,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554220963,
+    "wof:lastmodified":1559683844,
     "wof:name":"AA6920 (PDX-SFO)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

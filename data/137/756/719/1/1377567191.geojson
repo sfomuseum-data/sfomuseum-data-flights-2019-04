@@ -33,6 +33,7 @@
         "DAL5742"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -72,7 +73,7 @@
         1159284261,
         1159157803
     ],
-    "wof:lastmodified":1556640226,
+    "wof:lastmodified":1559684971,
     "wof:name":"DL5742 (SEA-SFO)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-LAS-SFO-AS-1903",
     "sfomuseum:flight_number":"AS1903",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157651,
@@ -67,7 +68,7 @@
         1159283813,
         1159157651
     ],
-    "wof:lastmodified":1554739382,
+    "wof:lastmodified":1559685245,
     "wof:name":"AS1903 (LAS-SFO)",
     "wof:parent_id":1159157651,
     "wof:placetype":"event",

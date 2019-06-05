@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-LAS-JL-5452",
     "sfomuseum:flight_number":"JL5452",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284563,
         1159283813
     ],
-    "wof:lastmodified":1554566609,
+    "wof:lastmodified":1559684683,
     "wof:name":"JL5452 (SFO-LAS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-RNO-SFO-UA-5442",
     "sfomuseum:flight_number":"UA5442",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -67,7 +68,7 @@
         1159285413,
         1159157693
     ],
-    "wof:lastmodified":1554825752,
+    "wof:lastmodified":1559683655,
     "wof:name":"UA5442 (RNO-SFO)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

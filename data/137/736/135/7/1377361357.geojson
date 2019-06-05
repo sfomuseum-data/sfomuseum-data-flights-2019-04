@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SBP-LH-9384",
     "sfomuseum:flight_number":"LH9384",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -73,7 +74,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1554739418,
+    "wof:lastmodified":1559683468,
     "wof:name":"LH9384 (SFO-SBP)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

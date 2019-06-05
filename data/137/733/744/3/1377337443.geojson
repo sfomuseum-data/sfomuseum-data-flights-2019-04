@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-ORD-BA-1686",
     "sfomuseum:flight_number":"BA1686",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -73,7 +74,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554480180,
+    "wof:lastmodified":1559684831,
     "wof:name":"BA1686 (SFO-ORD)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

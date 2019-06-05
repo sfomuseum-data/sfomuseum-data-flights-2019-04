@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-PDX-SFO-JL-5416",
     "sfomuseum:flight_number":"JL5416",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284563,
         1159283813
     ],
-    "wof:lastmodified":1554566557,
+    "wof:lastmodified":1559684640,
     "wof:name":"JL5416 (PDX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

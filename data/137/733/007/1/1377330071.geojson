@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-DEN-Y4-2422",
     "sfomuseum:flight_number":"Y42422",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157625,
@@ -73,7 +74,7 @@
         1159157625,
         1159284401
     ],
-    "wof:lastmodified":1554393775,
+    "wof:lastmodified":1559684760,
     "wof:name":"Y42422 (SFO-DEN)",
     "wof:parent_id":1159157625,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-SEA-CA-7337",
     "sfomuseum:flight_number":"CA7337",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -73,7 +74,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1554825779,
+    "wof:lastmodified":1559683515,
     "wof:name":"CA7337 (SFO-SEA)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

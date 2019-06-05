@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-BOS-SFO-JL-5449",
     "sfomuseum:flight_number":"JL5449",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284563,
         1159283813
     ],
-    "wof:lastmodified":1554220960,
+    "wof:lastmodified":1559683831,
     "wof:name":"JL5449 (BOS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

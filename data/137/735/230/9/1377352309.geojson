@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LGB-HA-2365",
     "sfomuseum:flight_number":"HA2365",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157667,
@@ -73,7 +74,7 @@
         1159157667,
         1360700745
     ],
-    "wof:lastmodified":1554652957,
+    "wof:lastmodified":1559685287,
     "wof:name":"HA2365 (SFO-LGB)",
     "wof:parent_id":1159157667,
     "wof:placetype":"event",

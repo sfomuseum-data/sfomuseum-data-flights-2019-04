@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-SAN-SFO-AS-1953",
     "sfomuseum:flight_number":"AS1953",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -67,7 +68,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1554393747,
+    "wof:lastmodified":1559685186,
     "wof:name":"AS1953 (SAN-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

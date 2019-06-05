@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-LAS-NZ-9225",
     "sfomuseum:flight_number":"NZ9225",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -73,7 +74,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1554825807,
+    "wof:lastmodified":1559683609,
     "wof:name":"NZ9225 (SFO-LAS)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

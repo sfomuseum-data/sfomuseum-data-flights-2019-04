@@ -38,6 +38,7 @@
         "JAL5890"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -78,7 +79,7 @@
         1159157717,
         1360700745
     ],
-    "wof:lastmodified":1555862656,
+    "wof:lastmodified":1559685400,
     "wof:name":"JL5890 (SFO-FLL)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

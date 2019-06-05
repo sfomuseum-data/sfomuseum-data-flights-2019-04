@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-SLC-SFO-DL-4553",
     "sfomuseum:flight_number":"DL4553",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -67,7 +68,7 @@
         1159284261,
         1159157661
     ],
-    "wof:lastmodified":1554566562,
+    "wof:lastmodified":1559684643,
     "wof:name":"DL4553 (SLC-SFO)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

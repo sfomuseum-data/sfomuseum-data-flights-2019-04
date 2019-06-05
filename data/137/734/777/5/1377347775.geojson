@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-HKG-UA-869",
     "sfomuseum:flight_number":"UA869",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -69,7 +70,7 @@
         1159285413,
         1159157683
     ],
-    "wof:lastmodified":1554566629,
+    "wof:lastmodified":1559684649,
     "wof:name":"UA869 (SFO-HKG)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-RNO-SFO-UA-5332",
     "sfomuseum:flight_number":"UA5332",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -67,7 +68,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554220957,
+    "wof:lastmodified":1559683810,
     "wof:name":"UA5332 (RNO-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

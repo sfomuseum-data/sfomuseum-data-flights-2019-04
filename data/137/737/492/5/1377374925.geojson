@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-SEA-FJ-5812",
     "sfomuseum:flight_number":"FJ5812",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -73,7 +74,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1554912170,
+    "wof:lastmodified":1559682975,
     "wof:name":"FJ5812 (SFO-SEA)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "CCA986"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157815,
@@ -74,7 +75,7 @@
         1159283605,
         1159157815
     ],
-    "wof:lastmodified":1556121822,
+    "wof:lastmodified":1559682686,
     "wof:name":"CA986 (SFO-PEK)",
     "wof:parent_id":1159157815,
     "wof:placetype":"event",

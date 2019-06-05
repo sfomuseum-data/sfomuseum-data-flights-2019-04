@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-MCO-NH-7346",
     "sfomuseum:flight_number":"NH7346",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554307423,
+    "wof:lastmodified":1559685149,
     "wof:name":"NH7346 (SFO-MCO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

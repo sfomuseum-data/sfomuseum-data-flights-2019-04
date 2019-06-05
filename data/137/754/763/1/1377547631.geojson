@@ -38,6 +38,7 @@
         "KLM7942"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -78,7 +79,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1556381068,
+    "wof:lastmodified":1559683001,
     "wof:name":"KL7942 (SFO-SLC)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

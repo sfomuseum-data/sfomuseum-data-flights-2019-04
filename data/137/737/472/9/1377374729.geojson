@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-MCI-OZ-6317",
     "sfomuseum:flight_number":"OZ6317",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -73,7 +74,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1554912166,
+    "wof:lastmodified":1559682947,
     "wof:name":"OZ6317 (SFO-MCI)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

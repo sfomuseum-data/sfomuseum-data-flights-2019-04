@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-DTW-DL-1329",
     "sfomuseum:flight_number":"DL1329",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -69,7 +70,7 @@
         1159284261,
         1159157663
     ],
-    "wof:lastmodified":1554393774,
+    "wof:lastmodified":1559684827,
     "wof:name":"DL1329 (SFO-DTW)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

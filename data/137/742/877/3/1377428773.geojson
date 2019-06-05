@@ -38,6 +38,7 @@
         "DLH9384"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -78,7 +79,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1555171409,
+    "wof:lastmodified":1559685894,
     "wof:name":"LH9384 (SFO-SBP)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

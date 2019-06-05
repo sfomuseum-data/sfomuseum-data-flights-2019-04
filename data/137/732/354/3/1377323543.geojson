@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-DEN-AC-5853",
     "sfomuseum:flight_number":"AC5853",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -73,7 +74,7 @@
         1159157765,
         1159285413
     ],
-    "wof:lastmodified":1554307397,
+    "wof:lastmodified":1559685090,
     "wof:name":"AC5853 (SFO-DEN)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

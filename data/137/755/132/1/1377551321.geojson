@@ -33,6 +33,7 @@
         "ASA1903"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102527209,
         1159283813
     ],
-    "wof:lastmodified":1556467532,
+    "wof:lastmodified":1559682757,
     "wof:name":"AS1903 (LAS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

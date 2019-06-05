@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-DEN-SFO-UA-737",
     "sfomuseum:flight_number":"UA737",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -67,7 +68,7 @@
         1159285413,
         1159157675
     ],
-    "wof:lastmodified":1554739372,
+    "wof:lastmodified":1559685224,
     "wof:name":"UA737 (DEN-SFO)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

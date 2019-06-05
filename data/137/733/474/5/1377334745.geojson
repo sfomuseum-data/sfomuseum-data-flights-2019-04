@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-SEA-SFO-AS-368",
     "sfomuseum:flight_number":"AS368",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -67,7 +68,7 @@
         1159283813,
         1159157793
     ],
-    "wof:lastmodified":1554480159,
+    "wof:lastmodified":1559684813,
     "wof:name":"AS368 (SEA-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-FRA-SFO-NZ-9801",
     "sfomuseum:flight_number":"NZ9801",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -71,7 +72,7 @@
         1159157621,
         1159285413
     ],
-    "wof:lastmodified":1554825752,
+    "wof:lastmodified":1559683768,
     "wof:name":"NZ9801 (FRA-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

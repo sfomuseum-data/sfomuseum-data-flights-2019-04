@@ -33,6 +33,7 @@
         "UAL2395"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -72,7 +73,7 @@
         1159285413,
         1159157659
     ],
-    "wof:lastmodified":1556035408,
+    "wof:lastmodified":1559685044,
     "wof:name":"UA2395 (LAS-SFO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

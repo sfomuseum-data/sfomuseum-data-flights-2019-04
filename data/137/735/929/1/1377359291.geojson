@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-SBP-SFO-UA-5966",
     "sfomuseum:flight_number":"UA5966",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -67,7 +68,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1554739382,
+    "wof:lastmodified":1559685292,
     "wof:name":"UA5966 (SBP-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

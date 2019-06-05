@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SLC-KL-7738",
     "sfomuseum:flight_number":"KL7738",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1554393793,
+    "wof:lastmodified":1559684798,
     "wof:name":"KL7738 (SFO-SLC)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

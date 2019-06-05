@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-JFK-SFO-AS-653",
     "sfomuseum:flight_number":"AS653",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -67,7 +68,7 @@
         1159283813,
         1159157793
     ],
-    "wof:lastmodified":1554652951,
+    "wof:lastmodified":1559685240,
     "wof:name":"AS653 (JFK-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

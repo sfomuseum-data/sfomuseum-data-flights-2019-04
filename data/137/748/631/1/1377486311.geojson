@@ -38,6 +38,7 @@
         "IBE4843"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157801,
@@ -78,7 +79,7 @@
         1159157801,
         1159283849
     ],
-    "wof:lastmodified":1555689873,
+    "wof:lastmodified":1559684135,
     "wof:name":"IB4843 (SFO-JFK)",
     "wof:parent_id":1159157801,
     "wof:placetype":"event",

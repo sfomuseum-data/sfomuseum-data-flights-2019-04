@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-DXB-B6-5016",
     "sfomuseum:flight_number":"B65016",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -73,7 +74,7 @@
         1159157633,
         1159284333
     ],
-    "wof:lastmodified":1554825812,
+    "wof:lastmodified":1559682973,
     "wof:name":"B65016 (SFO-DXB)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

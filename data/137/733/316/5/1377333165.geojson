@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-HNL-SFO-NZ-9153",
     "sfomuseum:flight_number":"NZ9153",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -71,7 +72,7 @@
         1159157665,
         1159285413
     ],
-    "wof:lastmodified":1554480154,
+    "wof:lastmodified":1559684834,
     "wof:name":"NZ9153 (HNL-SFO)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

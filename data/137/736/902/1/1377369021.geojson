@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-EWR-UA-753",
     "sfomuseum:flight_number":"UA753",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -69,7 +70,7 @@
         1159285413,
         1159157665
     ],
-    "wof:lastmodified":1554825793,
+    "wof:lastmodified":1559683676,
     "wof:name":"UA753 (SFO-EWR)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

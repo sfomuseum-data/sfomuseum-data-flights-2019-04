@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-FAT-SFO-AC-4345",
     "sfomuseum:flight_number":"AC4345",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -71,7 +72,7 @@
         1159157689,
         1159285413
     ],
-    "wof:lastmodified":1554393753,
+    "wof:lastmodified":1559685084,
     "wof:name":"AC4345 (FAT-SFO)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

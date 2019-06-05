@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-PSP-LH-7850",
     "sfomuseum:flight_number":"LH7850",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -73,7 +74,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1555017585,
+    "wof:lastmodified":1559684556,
     "wof:name":"LH7850 (SFO-PSP)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

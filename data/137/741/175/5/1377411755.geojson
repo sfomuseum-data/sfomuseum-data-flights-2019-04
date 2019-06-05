@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-HNL-NZ-9144",
     "sfomuseum:flight_number":"NZ9144",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -73,7 +74,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1555017599,
+    "wof:lastmodified":1559684493,
     "wof:name":"NZ9144 (SFO-HNL)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

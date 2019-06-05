@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LAX-AM-3086",
     "sfomuseum:flight_number":"AM3086",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -73,7 +74,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1554652989,
+    "wof:lastmodified":1559685271,
     "wof:name":"AM3086 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

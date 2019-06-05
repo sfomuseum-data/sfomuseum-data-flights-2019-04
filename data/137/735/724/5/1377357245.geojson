@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-IAH-SFO-CA-7242",
     "sfomuseum:flight_number":"CA7242",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -71,7 +72,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1554739375,
+    "wof:lastmodified":1559685248,
     "wof:name":"CA7242 (IAH-SFO)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

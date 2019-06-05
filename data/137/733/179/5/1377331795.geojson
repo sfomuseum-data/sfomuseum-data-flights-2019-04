@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-KOA-LH-8594",
     "sfomuseum:flight_number":"LH8594",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -73,7 +74,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554393806,
+    "wof:lastmodified":1559684838,
     "wof:name":"LH8594 (SFO-KOA)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

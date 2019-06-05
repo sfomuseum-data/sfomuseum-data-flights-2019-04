@@ -38,6 +38,7 @@
         "JAL5429"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159284563,
         1159283813
     ],
-    "wof:lastmodified":1555689828,
+    "wof:lastmodified":1559684089,
     "wof:name":"JL5429 (SFO-SEA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-PAE-SFO-AS-2828",
     "sfomuseum:flight_number":"AS2828",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -67,7 +68,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1555017564,
+    "wof:lastmodified":1559683893,
     "wof:name":"AS2828 (PAE-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

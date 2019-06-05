@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-PTY-SFO-CM-208",
     "sfomuseum:flight_number":"CM208",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -67,7 +68,7 @@
         1159284211,
         1159157687
     ],
-    "wof:lastmodified":1554652947,
+    "wof:lastmodified":1559685282,
     "wof:name":"CM208 (PTY-SFO)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

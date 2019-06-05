@@ -38,6 +38,7 @@
         "QFA3796"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1556035448,
+    "wof:lastmodified":1559685013,
     "wof:name":"QF3796 (SFO-MCO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

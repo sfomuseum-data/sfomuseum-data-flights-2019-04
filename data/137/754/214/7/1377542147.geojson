@@ -36,6 +36,7 @@
         "UAL8255"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -76,7 +77,7 @@
         1159157623,
         1159283597
     ],
-    "wof:lastmodified":1556381019,
+    "wof:lastmodified":1559683159,
     "wof:name":"UA8255 (YVR-SFO)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

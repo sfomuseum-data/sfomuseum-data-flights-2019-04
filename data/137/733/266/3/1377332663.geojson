@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SLC-DL-4197",
     "sfomuseum:flight_number":"DL4197",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -69,7 +70,7 @@
         1159284261,
         1159157857
     ],
-    "wof:lastmodified":1554393821,
+    "wof:lastmodified":1559684758,
     "wof:name":"DL4197 (SFO-SLC)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

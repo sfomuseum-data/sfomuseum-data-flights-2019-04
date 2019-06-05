@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-CAN-DL-6340",
     "sfomuseum:flight_number":"DL6340",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157805,
@@ -73,7 +74,7 @@
         1159157805,
         1159284165
     ],
-    "wof:lastmodified":1555017614,
+    "wof:lastmodified":1559684452,
     "wof:name":"DL6340 (SFO-CAN)",
     "wof:parent_id":1159157805,
     "wof:placetype":"event",

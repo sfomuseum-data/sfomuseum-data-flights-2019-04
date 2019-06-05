@@ -33,6 +33,7 @@
         "ASA3497"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -72,7 +73,7 @@
         1159283813,
         1159157829
     ],
-    "wof:lastmodified":1556294621,
+    "wof:lastmodified":1559683464,
     "wof:name":"AS3497 (DAL-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

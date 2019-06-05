@@ -33,6 +33,7 @@
         "UAL5316"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -72,7 +73,7 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1556035410,
+    "wof:lastmodified":1559684994,
     "wof:name":"UA5316 (MRY-SFO)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "UAL968"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -74,7 +75,7 @@
         1159285413,
         1159157623
     ],
-    "wof:lastmodified":1555689848,
+    "wof:lastmodified":1559684125,
     "wof:name":"UA968 (SFO-AMS)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

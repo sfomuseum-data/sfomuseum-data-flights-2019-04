@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-ORD-SFO-NZ-9321",
     "sfomuseum:flight_number":"NZ9321",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -71,7 +72,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554307348,
+    "wof:lastmodified":1559683848,
     "wof:name":"NZ9321 (ORD-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

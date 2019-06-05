@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SJC-WN-8500",
     "sfomuseum:flight_number":"WN8500",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -69,7 +70,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1554307373,
+    "wof:lastmodified":1559685169,
     "wof:name":"WN8500 (SFO-SJC)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

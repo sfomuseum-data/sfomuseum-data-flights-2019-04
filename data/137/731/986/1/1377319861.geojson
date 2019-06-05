@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-PAE-SFO-UA-5893",
     "sfomuseum:flight_number":"UA5893",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -67,7 +68,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554307353,
+    "wof:lastmodified":1559683876,
     "wof:name":"UA5893 (PAE-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

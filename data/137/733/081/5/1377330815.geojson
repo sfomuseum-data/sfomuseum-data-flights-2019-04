@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-XNA-UA-5289",
     "sfomuseum:flight_number":"UA5289",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -69,7 +70,7 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1554393788,
+    "wof:lastmodified":1559684808,
     "wof:name":"UA5289 (SFO-XNA)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

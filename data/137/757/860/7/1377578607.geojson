@@ -38,6 +38,7 @@
         "ELY8730"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157681,
@@ -78,7 +79,7 @@
         1159157681,
         1360700745
     ],
-    "wof:lastmodified":1556726686,
+    "wof:lastmodified":1559685451,
     "wof:name":"LY8730 (SFO-JFK)",
     "wof:parent_id":1159157681,
     "wof:placetype":"event",

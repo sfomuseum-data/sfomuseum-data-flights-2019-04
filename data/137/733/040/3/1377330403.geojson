@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SEA-AS-1371",
     "sfomuseum:flight_number":"AS1371",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554393781,
+    "wof:lastmodified":1559684754,
     "wof:name":"AS1371 (SFO-SEA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

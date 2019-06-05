@@ -36,6 +36,7 @@
         "SIA1335"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -76,7 +77,7 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1556294619,
+    "wof:lastmodified":1559683340,
     "wof:name":"SQ1335 (LAS-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

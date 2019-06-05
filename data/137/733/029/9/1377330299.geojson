@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-MCO-CA-7324",
     "sfomuseum:flight_number":"CA7324",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -73,7 +74,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1554393779,
+    "wof:lastmodified":1559684808,
     "wof:name":"CA7324 (SFO-MCO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

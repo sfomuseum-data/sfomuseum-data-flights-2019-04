@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LAX-UA-1294",
     "sfomuseum:flight_number":"UA1294",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554480208,
+    "wof:lastmodified":1559684797,
     "wof:name":"UA1294 (SFO-LAX)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

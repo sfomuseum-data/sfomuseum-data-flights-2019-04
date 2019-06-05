@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PSP-UA-5574",
     "sfomuseum:flight_number":"UA5574",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157669,
@@ -69,7 +70,7 @@
         1159285413,
         1159157669
     ],
-    "wof:lastmodified":1554825821,
+    "wof:lastmodified":1559682967,
     "wof:name":"UA5574 (SFO-PSP)",
     "wof:parent_id":1159157669,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SEA-JL-6339",
     "sfomuseum:flight_number":"JL6339",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -73,7 +74,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1554566569,
+    "wof:lastmodified":1559684632,
     "wof:name":"JL6339 (SFO-SEA)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

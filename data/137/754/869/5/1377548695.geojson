@@ -38,6 +38,7 @@
         "AAR6315"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -78,7 +79,7 @@
         1159157647,
         1159285413
     ],
-    "wof:lastmodified":1556381087,
+    "wof:lastmodified":1559683064,
     "wof:name":"OZ6315 (SFO-IAD)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

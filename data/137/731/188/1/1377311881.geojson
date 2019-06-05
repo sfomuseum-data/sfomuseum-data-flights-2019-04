@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-PAE-SFO-UA-5739",
     "sfomuseum:flight_number":"UA5739",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -67,7 +68,7 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1554220961,
+    "wof:lastmodified":1559683823,
     "wof:name":"UA5739 (PAE-SFO)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

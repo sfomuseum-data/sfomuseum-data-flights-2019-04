@@ -36,6 +36,7 @@
         "JBU5812"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -76,7 +77,7 @@
         1159157827,
         1159284489
     ],
-    "wof:lastmodified":1556208213,
+    "wof:lastmodified":1559682691,
     "wof:name":"B65812 (HNL-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

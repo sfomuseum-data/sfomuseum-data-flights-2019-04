@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-SBP-SFO-UA-5756",
     "sfomuseum:flight_number":"UA5756",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -67,7 +68,7 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1554566563,
+    "wof:lastmodified":1559684663,
     "wof:name":"UA5756 (SBP-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SAN-SQ-1345",
     "sfomuseum:flight_number":"SQ1345",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -73,7 +74,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1554652992,
+    "wof:lastmodified":1559685266,
     "wof:name":"SQ1345 (SFO-SAN)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

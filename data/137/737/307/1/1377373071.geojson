@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-PDX-SFO-CA-7297",
     "sfomuseum:flight_number":"CA7297",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -71,7 +72,7 @@
         1159157765,
         1159285413
     ],
-    "wof:lastmodified":1554912159,
+    "wof:lastmodified":1559682869,
     "wof:name":"CA7297 (PDX-SFO)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

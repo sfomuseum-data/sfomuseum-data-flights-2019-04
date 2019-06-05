@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-HND-UA-875",
     "sfomuseum:flight_number":"UA875",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -69,7 +70,7 @@
         1159285413,
         1159157677
     ],
-    "wof:lastmodified":1554393813,
+    "wof:lastmodified":1559684813,
     "wof:name":"UA875 (SFO-HND)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

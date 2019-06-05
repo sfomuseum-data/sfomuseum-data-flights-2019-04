@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-FLL-SFO-JL-5891",
     "sfomuseum:flight_number":"JL5891",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157629,
@@ -71,7 +72,7 @@
         1159157629,
         1360700745
     ],
-    "wof:lastmodified":1554307345,
+    "wof:lastmodified":1559683870,
     "wof:name":"JL5891 (FLL-SFO)",
     "wof:parent_id":1159157629,
     "wof:placetype":"event",

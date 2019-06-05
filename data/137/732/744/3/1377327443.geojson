@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-PDX-SFO-UA-392",
     "sfomuseum:flight_number":"UA392",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -67,7 +68,7 @@
         1159285413,
         1159157765
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685188,
     "wof:name":"UA392 (PDX-SFO)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

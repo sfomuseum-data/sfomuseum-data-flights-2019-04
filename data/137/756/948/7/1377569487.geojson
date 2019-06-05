@@ -38,6 +38,7 @@
         "AVA2157"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -78,7 +79,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1556640254,
+    "wof:lastmodified":1559684898,
     "wof:name":"AV2157 (SFO-LAX)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-SAN-SFO-CA-7304",
     "sfomuseum:flight_number":"CA7304",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -71,7 +72,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554912159,
+    "wof:lastmodified":1559682911,
     "wof:name":"CA7304 (SAN-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

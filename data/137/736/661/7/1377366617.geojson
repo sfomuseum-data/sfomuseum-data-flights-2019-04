@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-NRT-SFO-NH-8",
     "sfomuseum:flight_number":"NH8",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -67,7 +68,7 @@
         1159283875,
         1159157677
     ],
-    "wof:lastmodified":1554825756,
+    "wof:lastmodified":1559683578,
     "wof:name":"NH8 (NRT-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-TPE-SFO-SQ-5818",
     "sfomuseum:flight_number":"SQ5818",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -71,7 +72,7 @@
         1159157827,
         1159284349
     ],
-    "wof:lastmodified":1554652945,
+    "wof:lastmodified":1559684648,
     "wof:name":"SQ5818 (TPE-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

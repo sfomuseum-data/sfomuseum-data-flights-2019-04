@@ -38,6 +38,7 @@
         "ACA5669"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -78,7 +79,7 @@
         1159157647,
         1159285413
     ],
-    "wof:lastmodified":1555689822,
+    "wof:lastmodified":1559684091,
     "wof:name":"AC5669 (SFO-DEN)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

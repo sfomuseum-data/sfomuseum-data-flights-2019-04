@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SBP-UA-5714",
     "sfomuseum:flight_number":"UA5714",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -69,7 +70,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1554221000,
+    "wof:lastmodified":1559683833,
     "wof:name":"UA5714 (SFO-SBP)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

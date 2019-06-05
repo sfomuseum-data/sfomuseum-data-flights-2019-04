@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-LAX-SFO-JL-7556",
     "sfomuseum:flight_number":"JL7556",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157707,
@@ -71,7 +72,7 @@
         1159157707,
         1159283849
     ],
-    "wof:lastmodified":1554220959,
+    "wof:lastmodified":1559683827,
     "wof:name":"JL7556 (LAX-SFO)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",

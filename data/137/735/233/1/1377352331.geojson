@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SNA-JL-5458",
     "sfomuseum:flight_number":"JL5458",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284563,
         1159283813
     ],
-    "wof:lastmodified":1554652958,
+    "wof:lastmodified":1559685238,
     "wof:name":"JL5458 (SFO-SNA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

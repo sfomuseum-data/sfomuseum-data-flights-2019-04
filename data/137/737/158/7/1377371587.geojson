@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-SLC-SFO-UA-5729",
     "sfomuseum:flight_number":"UA5729",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -67,7 +68,7 @@
         1159285413,
         1159157725
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682878,
     "wof:name":"UA5729 (SLC-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

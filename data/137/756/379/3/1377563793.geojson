@@ -38,6 +38,7 @@
         "FIN2511"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -78,7 +79,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1556553887,
+    "wof:lastmodified":1559684899,
     "wof:name":"AY2511 (SFO-LAX)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

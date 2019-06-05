@@ -38,6 +38,7 @@
         "FJI5836"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157833,
@@ -78,7 +79,7 @@
         1159157833,
         1159283813
     ],
-    "wof:lastmodified":1555862614,
+    "wof:lastmodified":1559683960,
     "wof:name":"FJ5836 (SFO-SAN)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",

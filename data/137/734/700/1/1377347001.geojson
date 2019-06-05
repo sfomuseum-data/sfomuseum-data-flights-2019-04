@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-LHR-AA-6189",
     "sfomuseum:flight_number":"AA6189",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -73,7 +74,7 @@
         1159157633,
         1159284021
     ],
-    "wof:lastmodified":1554566615,
+    "wof:lastmodified":1559684613,
     "wof:name":"AA6189 (SFO-LHR)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

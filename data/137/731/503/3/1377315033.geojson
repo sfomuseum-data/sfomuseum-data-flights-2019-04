@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-DFW-AA-2248",
     "sfomuseum:flight_number":"AA2248",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157801,
@@ -69,7 +70,7 @@
         1159283849,
         1159157801
     ],
-    "wof:lastmodified":1554220989,
+    "wof:lastmodified":1559683789,
     "wof:name":"AA2248 (SFO-DFW)",
     "wof:parent_id":1159157801,
     "wof:placetype":"event",

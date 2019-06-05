@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-ORD-SFO-UA-1742",
     "sfomuseum:flight_number":"UA1742",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -67,7 +68,7 @@
         1159285413,
         1159157671
     ],
-    "wof:lastmodified":1554652947,
+    "wof:lastmodified":1559685279,
     "wof:name":"UA1742 (ORD-SFO)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

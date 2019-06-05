@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-PHX-SFO-NZ-9385",
     "sfomuseum:flight_number":"NZ9385",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -71,7 +72,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685133,
     "wof:name":"NZ9385 (PHX-SFO)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

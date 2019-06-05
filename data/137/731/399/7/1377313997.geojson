@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LHR-AM-7673",
     "sfomuseum:flight_number":"AM7673",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157627,
@@ -73,7 +74,7 @@
         1159157627,
         1159285483
     ],
-    "wof:lastmodified":1554220969,
+    "wof:lastmodified":1559683788,
     "wof:name":"AM7673 (SFO-LHR)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",

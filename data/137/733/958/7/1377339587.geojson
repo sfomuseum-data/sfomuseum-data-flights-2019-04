@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-EWR-NZ-9100",
     "sfomuseum:flight_number":"NZ9100",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -73,7 +74,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1554480219,
+    "wof:lastmodified":1559684792,
     "wof:name":"NZ9100 (SFO-EWR)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

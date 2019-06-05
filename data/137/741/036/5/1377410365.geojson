@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-BOS-FJ-5862",
     "sfomuseum:flight_number":"FJ5862",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -73,7 +74,7 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1555017575,
+    "wof:lastmodified":1559684463,
     "wof:name":"FJ5862 (SFO-BOS)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

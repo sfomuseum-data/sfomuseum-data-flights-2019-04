@@ -38,6 +38,7 @@
         "LAN5137"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -78,7 +79,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1555689863,
+    "wof:lastmodified":1559684138,
     "wof:name":"LA5137 (SFO-LAX)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

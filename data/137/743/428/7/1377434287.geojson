@@ -36,6 +36,7 @@
         "BEL7252"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -76,7 +77,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1555257775,
+    "wof:lastmodified":1559685791,
     "wof:name":"SN7252 (MUC-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-PDX-SQ-1376",
     "sfomuseum:flight_number":"SQ1376",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554739430,
+    "wof:lastmodified":1559683568,
     "wof:name":"SQ1376 (SFO-PDX)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

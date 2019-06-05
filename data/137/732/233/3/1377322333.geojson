@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-IAH-OZ-9521",
     "sfomuseum:flight_number":"OZ9521",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -73,7 +74,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1554307375,
+    "wof:lastmodified":1559685125,
     "wof:name":"OZ9521 (SFO-IAH)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

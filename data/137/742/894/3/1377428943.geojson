@@ -38,6 +38,7 @@
         "UAL7949"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157815,
@@ -78,7 +79,7 @@
         1159157815,
         1159283875
     ],
-    "wof:lastmodified":1555171412,
+    "wof:lastmodified":1559685862,
     "wof:name":"UA7949 (SFO-NRT)",
     "wof:parent_id":1159157815,
     "wof:placetype":"event",

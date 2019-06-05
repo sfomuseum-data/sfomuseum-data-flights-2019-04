@@ -38,6 +38,7 @@
         "ACA4394"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -78,7 +79,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1555776220,
+    "wof:lastmodified":1559684017,
     "wof:name":"AC4394 (SFO-BUR)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

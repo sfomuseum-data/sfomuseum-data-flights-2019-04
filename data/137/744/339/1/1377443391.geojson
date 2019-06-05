@@ -38,6 +38,7 @@
         "SIA1318"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -78,7 +79,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1555344219,
+    "wof:lastmodified":1559685547,
     "wof:name":"SQ1318 (SFO-FLL)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

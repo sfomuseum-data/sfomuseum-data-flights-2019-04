@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-IAH-UA-1615",
     "sfomuseum:flight_number":"UA1615",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -69,7 +70,7 @@
         1159285413,
         1159157785
     ],
-    "wof:lastmodified":1554393757,
+    "wof:lastmodified":1559685198,
     "wof:name":"UA1615 (SFO-IAH)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

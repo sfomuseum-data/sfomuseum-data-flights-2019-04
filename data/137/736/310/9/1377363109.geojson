@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-RDM-UA-5541",
     "sfomuseum:flight_number":"UA5541",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -69,7 +70,7 @@
         1159285413,
         1159157693
     ],
-    "wof:lastmodified":1554739450,
+    "wof:lastmodified":1559683765,
     "wof:name":"UA5541 (SFO-RDM)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-EWR-OS-7990",
     "sfomuseum:flight_number":"OS7990",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -73,7 +74,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554652997,
+    "wof:lastmodified":1559685238,
     "wof:name":"OS7990 (SFO-EWR)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

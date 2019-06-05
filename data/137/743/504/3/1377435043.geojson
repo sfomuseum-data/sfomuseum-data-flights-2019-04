@@ -38,6 +38,7 @@
         "ANZ9596"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -78,7 +79,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1555257779,
+    "wof:lastmodified":1559685729,
     "wof:name":"NZ9596 (SFO-RNO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SNA-UA-5950",
     "sfomuseum:flight_number":"UA5950",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -69,7 +70,7 @@
         1159285413,
         1159157725
     ],
-    "wof:lastmodified":1554653002,
+    "wof:lastmodified":1559685217,
     "wof:name":"UA5950 (SFO-SNA)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

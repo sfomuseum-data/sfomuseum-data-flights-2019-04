@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-JFK-SFO-QF-3074",
     "sfomuseum:flight_number":"QF3074",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -71,7 +72,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554825748,
+    "wof:lastmodified":1559683683,
     "wof:name":"QF3074 (JFK-SFO)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-PHX-SFO-NH-7307",
     "sfomuseum:flight_number":"NH7307",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -71,7 +72,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554739376,
+    "wof:lastmodified":1559685245,
     "wof:name":"NH7307 (PHX-SFO)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

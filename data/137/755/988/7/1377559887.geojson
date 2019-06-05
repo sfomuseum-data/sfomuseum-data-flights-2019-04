@@ -36,6 +36,7 @@
         "ANA7021"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -76,7 +77,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1556553826,
+    "wof:lastmodified":1559682866,
     "wof:name":"NH7021 (PHL-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

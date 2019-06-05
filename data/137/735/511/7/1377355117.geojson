@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SAN-FJ-5836",
     "sfomuseum:flight_number":"FJ5836",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -73,7 +74,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1554653007,
+    "wof:lastmodified":1559685249,
     "wof:name":"FJ5836 (SFO-SAN)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-TPE-AV-4504",
     "sfomuseum:flight_number":"AV4504",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -73,7 +74,7 @@
         1159157621,
         1159284349
     ],
-    "wof:lastmodified":1554739404,
+    "wof:lastmodified":1559683744,
     "wof:name":"AV4504 (SFO-TPE)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

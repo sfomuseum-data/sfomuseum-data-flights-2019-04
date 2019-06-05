@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-ORD-SFO-BA-4369",
     "sfomuseum:flight_number":"BA4369",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -71,7 +72,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554739372,
+    "wof:lastmodified":1559685225,
     "wof:name":"BA4369 (ORD-SFO)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

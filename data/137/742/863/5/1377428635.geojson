@@ -38,6 +38,7 @@
         "SIA1404"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -78,7 +79,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1555171407,
+    "wof:lastmodified":1559685917,
     "wof:name":"SQ1404 (SFO-LAS)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

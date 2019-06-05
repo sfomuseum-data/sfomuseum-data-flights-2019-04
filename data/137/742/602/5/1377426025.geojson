@@ -36,6 +36,7 @@
         "SAS3923"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -76,7 +77,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1555171380,
+    "wof:lastmodified":1559685856,
     "wof:name":"SK3923 (EWR-SFO)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-BUR-SFO-WN-274",
     "sfomuseum:flight_number":"WN274",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157713,
@@ -67,7 +68,7 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1555017558,
+    "wof:lastmodified":1559683877,
     "wof:name":"WN274 (BUR-SFO)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",

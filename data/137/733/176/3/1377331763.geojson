@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-LHR-DL-4363",
     "sfomuseum:flight_number":"DL4363",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -73,7 +74,7 @@
         1159157631,
         1159285483
     ],
-    "wof:lastmodified":1554393805,
+    "wof:lastmodified":1559684844,
     "wof:name":"DL4363 (SFO-LHR)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

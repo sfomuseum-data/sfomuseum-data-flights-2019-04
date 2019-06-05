@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-DAL-SFO-AS-3497",
     "sfomuseum:flight_number":"AS3497",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -68,7 +69,7 @@
         102525799,
         1159283813
     ],
-    "wof:lastmodified":1554220960,
+    "wof:lastmodified":1559683868,
     "wof:name":"AS3497 (DAL-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

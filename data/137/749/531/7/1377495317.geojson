@@ -33,6 +33,7 @@
         "ASA315"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102532251,
         1159283813
     ],
-    "wof:lastmodified":1555862590,
+    "wof:lastmodified":1559684001,
     "wof:name":"AS315 (PDX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

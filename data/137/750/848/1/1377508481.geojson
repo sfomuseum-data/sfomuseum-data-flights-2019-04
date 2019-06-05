@@ -35,6 +35,7 @@
         "SWA5253"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -74,7 +75,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1555949070,
+    "wof:lastmodified":1559685372,
     "wof:name":"WN5253 (SFO-PHX)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

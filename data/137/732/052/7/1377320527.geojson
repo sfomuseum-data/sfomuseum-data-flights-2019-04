@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-ICN-SFO-UA-7289",
     "sfomuseum:flight_number":"UA7289",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -71,7 +72,7 @@
         1159157657,
         1159283917
     ],
-    "wof:lastmodified":1554307355,
+    "wof:lastmodified":1559685120,
     "wof:name":"UA7289 (ICN-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

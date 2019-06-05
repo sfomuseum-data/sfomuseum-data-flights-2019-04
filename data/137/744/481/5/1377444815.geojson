@@ -38,6 +38,7 @@
         "SAA7405"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -78,7 +79,7 @@
         1159157665,
         1159285413
     ],
-    "wof:lastmodified":1555344244,
+    "wof:lastmodified":1559685642,
     "wof:name":"SA7405 (SFO-IAD)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

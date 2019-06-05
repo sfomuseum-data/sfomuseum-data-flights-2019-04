@@ -38,6 +38,7 @@
         "SAS8880"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -78,7 +79,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1556035435,
+    "wof:lastmodified":1559685035,
     "wof:name":"SK8880 (SFO-DCA)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

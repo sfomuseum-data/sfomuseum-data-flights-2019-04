@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-LAS-SFO-UA-2395",
     "sfomuseum:flight_number":"UA2395",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -67,7 +68,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554912153,
+    "wof:lastmodified":1559682991,
     "wof:name":"UA2395 (LAS-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

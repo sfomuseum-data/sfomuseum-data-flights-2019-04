@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-DEN-AC-5438",
     "sfomuseum:flight_number":"AC5438",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554652974,
+    "wof:lastmodified":1559685292,
     "wof:name":"AC5438 (SFO-DEN)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-PDX-NZ-9340",
     "sfomuseum:flight_number":"NZ9340",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554652991,
+    "wof:lastmodified":1559685227,
     "wof:name":"NZ9340 (SFO-PDX)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-TPE-SFO-CM-8013",
     "sfomuseum:flight_number":"CM8013",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -71,7 +72,7 @@
         1159157677,
         1159284349
     ],
-    "wof:lastmodified":1555017567,
+    "wof:lastmodified":1559683888,
     "wof:name":"CM8013 (TPE-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

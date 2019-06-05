@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-FLL-SFO-B6-277",
     "sfomuseum:flight_number":"B6277",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -67,7 +68,7 @@
         1360700745,
         1159157605
     ],
-    "wof:lastmodified":1554652946,
+    "wof:lastmodified":1559685275,
     "wof:name":"B6277 (FLL-SFO)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

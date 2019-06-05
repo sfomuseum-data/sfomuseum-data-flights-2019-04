@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-PVG-SFO-UA-858",
     "sfomuseum:flight_number":"UA858",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -67,7 +68,7 @@
         1159285413,
         1159157677
     ],
-    "wof:lastmodified":1554566566,
+    "wof:lastmodified":1559684619,
     "wof:name":"UA858 (PVG-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

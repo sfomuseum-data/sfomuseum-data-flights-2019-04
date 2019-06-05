@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LAX-SQ-1347",
     "sfomuseum:flight_number":"SQ1347",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -73,7 +74,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1554480223,
+    "wof:lastmodified":1559684779,
     "wof:name":"SQ1347 (SFO-LAX)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

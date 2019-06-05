@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-PSP-SFO-UA-5546",
     "sfomuseum:flight_number":"UA5546",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -67,7 +68,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554393748,
+    "wof:lastmodified":1559685165,
     "wof:name":"UA5546 (PSP-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

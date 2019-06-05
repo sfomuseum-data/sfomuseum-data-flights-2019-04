@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-LAX-AM-5651",
     "sfomuseum:flight_number":"AM5651",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1554393785,
+    "wof:lastmodified":1559684830,
     "wof:name":"AM5651 (SFO-LAX)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

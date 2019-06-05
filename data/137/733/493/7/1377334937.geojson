@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-ORD-SFO-CA-7295",
     "sfomuseum:flight_number":"CA7295",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -71,7 +72,7 @@
         1159157665,
         1159285413
     ],
-    "wof:lastmodified":1554480160,
+    "wof:lastmodified":1559684816,
     "wof:name":"CA7295 (ORD-SFO)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-PSP-SFO-QF-3792",
     "sfomuseum:flight_number":"QF3792",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1555017556,
+    "wof:lastmodified":1559683896,
     "wof:name":"QF3792 (PSP-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

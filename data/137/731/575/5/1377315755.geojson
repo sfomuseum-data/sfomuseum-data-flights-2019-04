@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SNA-AC-4332",
     "sfomuseum:flight_number":"AC4332",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554221002,
+    "wof:lastmodified":1559683820,
     "wof:name":"AC4332 (SFO-SNA)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

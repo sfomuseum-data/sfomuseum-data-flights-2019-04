@@ -35,6 +35,7 @@
         "ASA1005"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1556035442,
+    "wof:lastmodified":1559685011,
     "wof:name":"AS1005 (SFO-JFK)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

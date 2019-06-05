@@ -33,6 +33,7 @@
         "ASA1929"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102533795,
         1159283813
     ],
-    "wof:lastmodified":1555862596,
+    "wof:lastmodified":1559683934,
     "wof:name":"AS1929 (LAX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

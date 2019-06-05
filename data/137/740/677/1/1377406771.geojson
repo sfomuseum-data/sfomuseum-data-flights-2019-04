@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-AUS-SFO-NH-7333",
     "sfomuseum:flight_number":"NH7333",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -71,7 +72,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1555017557,
+    "wof:lastmodified":1559683894,
     "wof:name":"NH7333 (AUS-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

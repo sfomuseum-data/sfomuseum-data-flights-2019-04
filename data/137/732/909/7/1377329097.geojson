@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-HNL-CA-7311",
     "sfomuseum:flight_number":"CA7311",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554393757,
+    "wof:lastmodified":1559685084,
     "wof:name":"CA7311 (SFO-HNL)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

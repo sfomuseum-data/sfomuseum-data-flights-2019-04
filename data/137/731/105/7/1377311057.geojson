@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-BWI-SFO-UA-2059",
     "sfomuseum:flight_number":"UA2059",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -67,7 +68,7 @@
         1159285413,
         1159157785
     ],
-    "wof:lastmodified":1554220959,
+    "wof:lastmodified":1559683785,
     "wof:name":"UA2059 (BWI-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

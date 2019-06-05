@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-ORD-CA-7327",
     "sfomuseum:flight_number":"CA7327",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -73,7 +74,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1554566594,
+    "wof:lastmodified":1559684704,
     "wof:name":"CA7327 (SFO-ORD)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

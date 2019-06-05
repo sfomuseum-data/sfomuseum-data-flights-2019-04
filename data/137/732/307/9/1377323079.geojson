@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-JFK-RJ-7078",
     "sfomuseum:flight_number":"RJ7078",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157651,
@@ -73,7 +74,7 @@
         1159157651,
         1159283849
     ],
-    "wof:lastmodified":1554307388,
+    "wof:lastmodified":1559685084,
     "wof:name":"RJ7078 (SFO-JFK)",
     "wof:parent_id":1159157651,
     "wof:placetype":"event",

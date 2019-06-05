@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-PDX-SFO-NZ-9350",
     "sfomuseum:flight_number":"NZ9350",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -71,7 +72,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1554825750,
+    "wof:lastmodified":1559683639,
     "wof:name":"NZ9350 (PDX-SFO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

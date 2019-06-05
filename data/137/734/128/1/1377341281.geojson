@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-SNA-SFO-AS-2084",
     "sfomuseum:flight_number":"AS2084",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -67,7 +68,7 @@
         1159283813,
         1159157701
     ],
-    "wof:lastmodified":1554566555,
+    "wof:lastmodified":1559684651,
     "wof:name":"AS2084 (SNA-SFO)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

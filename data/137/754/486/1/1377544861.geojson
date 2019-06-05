@@ -36,6 +36,7 @@
         "DLH8741"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -76,7 +77,7 @@
         1159157683,
         1159285413
     ],
-    "wof:lastmodified":1556381028,
+    "wof:lastmodified":1559683147,
     "wof:name":"LH8741 (AMS-SFO)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

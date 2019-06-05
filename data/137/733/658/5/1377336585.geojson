@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-JFK-SFO-AZ-3290",
     "sfomuseum:flight_number":"AZ3290",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -71,7 +72,7 @@
         1159157663,
         1159284261
     ],
-    "wof:lastmodified":1554480165,
+    "wof:lastmodified":1559684762,
     "wof:name":"AZ3290 (JFK-SFO)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-FAT-SFO-UA-5723",
     "sfomuseum:flight_number":"UA5723",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -67,7 +68,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1554566559,
+    "wof:lastmodified":1559684625,
     "wof:name":"UA5723 (FAT-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

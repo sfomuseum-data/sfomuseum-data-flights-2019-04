@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-EWR-UA-2160",
     "sfomuseum:flight_number":"UA2160",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -69,7 +70,7 @@
         1159285413,
         1159157665
     ],
-    "wof:lastmodified":1554912194,
+    "wof:lastmodified":1559682941,
     "wof:name":"UA2160 (SFO-EWR)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

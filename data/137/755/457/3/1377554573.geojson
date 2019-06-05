@@ -35,6 +35,7 @@
         "FFT664"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157625,
@@ -74,7 +75,7 @@
         1159284401,
         1159157625
     ],
-    "wof:lastmodified":1556467565,
+    "wof:lastmodified":1559682849,
     "wof:name":"F9664 (SFO-DEN)",
     "wof:parent_id":1159157625,
     "wof:placetype":"event",

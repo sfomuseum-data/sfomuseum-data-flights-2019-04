@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-LHR-SN-9102",
     "sfomuseum:flight_number":"SN9102",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -73,7 +74,7 @@
         1159157779,
         1159285413
     ],
-    "wof:lastmodified":1554912188,
+    "wof:lastmodified":1559682875,
     "wof:name":"SN9102 (SFO-LHR)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

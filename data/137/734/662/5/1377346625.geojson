@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SBA-UA-5878",
     "sfomuseum:flight_number":"UA5878",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -69,7 +70,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554566608,
+    "wof:lastmodified":1559684694,
     "wof:name":"UA5878 (SFO-SBA)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

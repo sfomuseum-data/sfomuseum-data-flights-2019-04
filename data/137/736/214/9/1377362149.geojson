@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SNA-UA-997",
     "sfomuseum:flight_number":"UA997",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -69,7 +70,7 @@
         1159285413,
         1159157771
     ],
-    "wof:lastmodified":1554739432,
+    "wof:lastmodified":1559683715,
     "wof:name":"UA997 (SFO-SNA)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-AUS-SFO-UA-2123",
     "sfomuseum:flight_number":"UA2123",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -67,7 +68,7 @@
         1159285413,
         1159157675
     ],
-    "wof:lastmodified":1554825748,
+    "wof:lastmodified":1559683702,
     "wof:name":"UA2123 (AUS-SFO)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

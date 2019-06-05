@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-TPE-SFO-BR-8",
     "sfomuseum:flight_number":"BR8",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -67,7 +68,7 @@
         1159284349,
         1159157777
     ],
-    "wof:lastmodified":1555017556,
+    "wof:lastmodified":1559683880,
     "wof:name":"BR8 (TPE-SFO)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

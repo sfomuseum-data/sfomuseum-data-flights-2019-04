@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-AKL-SFO-NZ-8",
     "sfomuseum:flight_number":"NZ8",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -67,7 +68,7 @@
         1159283697,
         1159157621
     ],
-    "wof:lastmodified":1554566560,
+    "wof:lastmodified":1559684691,
     "wof:name":"NZ8 (AKL-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

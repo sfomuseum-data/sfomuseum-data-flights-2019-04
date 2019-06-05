@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-JFK-AS-1005",
     "sfomuseum:flight_number":"AS1005",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1555017617,
+    "wof:lastmodified":1559684543,
     "wof:name":"AS1005 (SFO-JFK)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

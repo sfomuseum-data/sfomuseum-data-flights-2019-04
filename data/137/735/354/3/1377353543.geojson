@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-DEN-WN-5195",
     "sfomuseum:flight_number":"WN5195",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -69,7 +70,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1554652979,
+    "wof:lastmodified":1559685207,
     "wof:name":"WN5195 (SFO-DEN)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

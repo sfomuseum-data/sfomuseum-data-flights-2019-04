@@ -38,6 +38,7 @@
         "QTR3910"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157823,
@@ -78,7 +79,7 @@
         1159157823,
         1360700745
     ],
-    "wof:lastmodified":1555171396,
+    "wof:lastmodified":1559685913,
     "wof:name":"QR3910 (SFO-JFK)",
     "wof:parent_id":1159157823,
     "wof:placetype":"event",

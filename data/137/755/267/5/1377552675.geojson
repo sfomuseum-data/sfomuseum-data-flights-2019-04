@@ -36,6 +36,7 @@
         "ANZ9526"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -76,7 +77,7 @@
         1159157675,
         1159285413
     ],
-    "wof:lastmodified":1556467537,
+    "wof:lastmodified":1559682792,
     "wof:name":"NZ9526 (MFR-SFO)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

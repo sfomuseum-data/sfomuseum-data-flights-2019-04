@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PDX-UA-1623",
     "sfomuseum:flight_number":"UA1623",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -69,7 +70,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554566628,
+    "wof:lastmodified":1559684705,
     "wof:name":"UA1623 (SFO-PDX)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

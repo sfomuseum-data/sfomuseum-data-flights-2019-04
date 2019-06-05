@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAS-AS-1902",
     "sfomuseum:flight_number":"AS1902",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554739386,
+    "wof:lastmodified":1559685214,
     "wof:name":"AS1902 (SFO-LAS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

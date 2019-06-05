@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ORD-LO-4408",
     "sfomuseum:flight_number":"LO4408",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -73,7 +74,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1554825761,
+    "wof:lastmodified":1559683582,
     "wof:name":"LO4408 (SFO-ORD)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

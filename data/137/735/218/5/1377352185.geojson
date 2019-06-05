@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-MEL-QF-50",
     "sfomuseum:flight_number":"QF50",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157639,
@@ -69,7 +70,7 @@
         1159285043,
         1159157639
     ],
-    "wof:lastmodified":1554652955,
+    "wof:lastmodified":1559685217,
     "wof:name":"QF50 (SFO-MEL)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",

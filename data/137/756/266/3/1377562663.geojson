@@ -38,6 +38,7 @@
         "ACA5289"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -78,7 +79,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1556553867,
+    "wof:lastmodified":1559684884,
     "wof:name":"AC5289 (SFO-AUS)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

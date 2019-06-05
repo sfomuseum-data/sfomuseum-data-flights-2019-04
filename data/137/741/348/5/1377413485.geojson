@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-SMF-AC-4532",
     "sfomuseum:flight_number":"AC4532",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -73,7 +74,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1555017630,
+    "wof:lastmodified":1559684481,
     "wof:name":"AC4532 (SFO-SMF)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

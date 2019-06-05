@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-MEX-SFO-AC-5403",
     "sfomuseum:flight_number":"AC5403",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -71,7 +72,7 @@
         1159157779,
         1159285413
     ],
-    "wof:lastmodified":1554480161,
+    "wof:lastmodified":1559684776,
     "wof:name":"AC5403 (MEX-SFO)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-TPE-TG-6331",
     "sfomuseum:flight_number":"TG6331",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -73,7 +74,7 @@
         1159157677,
         1159284349
     ],
-    "wof:lastmodified":1554480209,
+    "wof:lastmodified":1559684791,
     "wof:name":"TG6331 (SFO-TPE)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

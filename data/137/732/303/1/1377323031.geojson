@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SMF-AV-2066",
     "sfomuseum:flight_number":"AV2066",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -73,7 +74,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1554307388,
+    "wof:lastmodified":1559685146,
     "wof:name":"AV2066 (SFO-SMF)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

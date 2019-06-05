@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PIT-NZ-9391",
     "sfomuseum:flight_number":"NZ9391",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -73,7 +74,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1554393815,
+    "wof:lastmodified":1559684768,
     "wof:name":"NZ9391 (SFO-PIT)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

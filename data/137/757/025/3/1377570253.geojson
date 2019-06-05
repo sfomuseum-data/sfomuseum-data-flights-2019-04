@@ -38,6 +38,7 @@
         "SIA1441"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -78,7 +79,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1556640268,
+    "wof:lastmodified":1559685434,
     "wof:name":"SQ1441 (SFO-OGG)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

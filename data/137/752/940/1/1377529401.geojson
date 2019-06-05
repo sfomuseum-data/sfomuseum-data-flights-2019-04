@@ -33,6 +33,7 @@
         "AIC173"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157815,
@@ -72,7 +73,7 @@
         1159283649,
         1159157815
     ],
-    "wof:lastmodified":1556208222,
+    "wof:lastmodified":1559682705,
     "wof:name":"AI173 (DEL-SFO)",
     "wof:parent_id":1159157815,
     "wof:placetype":"event",

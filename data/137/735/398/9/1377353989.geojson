@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SMF-SK-3933",
     "sfomuseum:flight_number":"SK3933",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -73,7 +74,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1554652987,
+    "wof:lastmodified":1559685208,
     "wof:name":"SK3933 (SFO-SMF)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

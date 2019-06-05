@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-SLC-SFO-UA-5967",
     "sfomuseum:flight_number":"UA5967",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -67,7 +68,7 @@
         1159285413,
         1159157721
     ],
-    "wof:lastmodified":1554825754,
+    "wof:lastmodified":1559683529,
     "wof:name":"UA5967 (SLC-SFO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

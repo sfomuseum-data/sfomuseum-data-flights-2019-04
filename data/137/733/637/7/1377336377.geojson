@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-CAN-SFO-CZ-659",
     "sfomuseum:flight_number":"CZ659",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -67,7 +68,7 @@
         1159284165,
         1159157717
     ],
-    "wof:lastmodified":1554480165,
+    "wof:lastmodified":1559684820,
     "wof:name":"CZ659 (CAN-SFO)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

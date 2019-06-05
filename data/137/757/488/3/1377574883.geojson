@@ -36,6 +36,7 @@
         "QFA3855"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -76,7 +77,7 @@
         1159157657,
         1159283717
     ],
-    "wof:lastmodified":1556726630,
+    "wof:lastmodified":1559685489,
     "wof:name":"QF3855 (NAN-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

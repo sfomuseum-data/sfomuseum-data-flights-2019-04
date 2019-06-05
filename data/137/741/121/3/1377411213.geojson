@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LHR-IB-7442",
     "sfomuseum:flight_number":"IB7442",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157639,
@@ -73,7 +74,7 @@
         1159157639,
         1159284021
     ],
-    "wof:lastmodified":1555017590,
+    "wof:lastmodified":1559684495,
     "wof:name":"IB7442 (SFO-LHR)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",

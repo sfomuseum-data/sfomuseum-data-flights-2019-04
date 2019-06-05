@@ -38,6 +38,7 @@
         "UAE3021"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -78,7 +79,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1556467569,
+    "wof:lastmodified":1559682780,
     "wof:name":"EK3021 (SFO-LAS)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

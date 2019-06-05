@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-IND-SFO-NZ-2728",
     "sfomuseum:flight_number":"NZ2728",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -71,7 +72,7 @@
         1159157647,
         1159285413
     ],
-    "wof:lastmodified":1554912153,
+    "wof:lastmodified":1559682985,
     "wof:name":"NZ2728 (IND-SFO)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

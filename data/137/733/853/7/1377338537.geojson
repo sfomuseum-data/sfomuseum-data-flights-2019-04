@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-MEX-AC-5025",
     "sfomuseum:flight_number":"AC5025",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -73,7 +74,7 @@
         1159157623,
         1159285413
     ],
-    "wof:lastmodified":1554480200,
+    "wof:lastmodified":1559684822,
     "wof:name":"AC5025 (SFO-MEX)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

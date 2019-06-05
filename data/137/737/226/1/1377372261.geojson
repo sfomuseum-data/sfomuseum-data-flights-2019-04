@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-PDX-SFO-AA-7478",
     "sfomuseum:flight_number":"AA7478",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159283849,
         1159283813
     ],
-    "wof:lastmodified":1554912156,
+    "wof:lastmodified":1559682886,
     "wof:name":"AA7478 (PDX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

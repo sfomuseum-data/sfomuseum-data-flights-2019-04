@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-ABQ-SFO-UA-5348",
     "sfomuseum:flight_number":"UA5348",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -67,7 +68,7 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1554652942,
+    "wof:lastmodified":1559684678,
     "wof:name":"UA5348 (ABQ-SFO)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

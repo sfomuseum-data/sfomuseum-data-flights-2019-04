@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-AY-2513",
     "sfomuseum:flight_number":"AY2513",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -73,7 +74,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1555017593,
+    "wof:lastmodified":1559684586,
     "wof:name":"AY2513 (SFO-LAX)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-BWI-FJ-5802",
     "sfomuseum:flight_number":"FJ5802",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554480213,
+    "wof:lastmodified":1559684832,
     "wof:name":"FJ5802 (SFO-BWI)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

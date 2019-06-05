@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-ONT-UA-2419",
     "sfomuseum:flight_number":"UA2419",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554393773,
+    "wof:lastmodified":1559685094,
     "wof:name":"UA2419 (SFO-ONT)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

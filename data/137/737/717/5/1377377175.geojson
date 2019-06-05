@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-SLC-MU-8877",
     "sfomuseum:flight_number":"MU8877",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1554912211,
+    "wof:lastmodified":1559682987,
     "wof:name":"MU8877 (SFO-SLC)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

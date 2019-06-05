@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-SMF-SFO-AC-4533",
     "sfomuseum:flight_number":"AC4533",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -71,7 +72,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1554220965,
+    "wof:lastmodified":1559683845,
     "wof:name":"AC4533 (SMF-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

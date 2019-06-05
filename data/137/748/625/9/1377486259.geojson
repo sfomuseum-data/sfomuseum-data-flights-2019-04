@@ -38,6 +38,7 @@
         "UAL7290"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -78,7 +79,7 @@
         1159157685,
         1159283917
     ],
-    "wof:lastmodified":1555689872,
+    "wof:lastmodified":1559684115,
     "wof:name":"UA7290 (SFO-ICN)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

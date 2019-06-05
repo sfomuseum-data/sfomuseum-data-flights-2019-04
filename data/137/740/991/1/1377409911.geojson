@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-MDW-SFO-WN-1428",
     "sfomuseum:flight_number":"WN1428",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -67,7 +68,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1555017568,
+    "wof:lastmodified":1559683877,
     "wof:name":"WN1428 (MDW-SFO)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

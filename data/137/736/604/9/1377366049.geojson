@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-PDX-SFO-CX-7963",
     "sfomuseum:flight_number":"CX7963",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -71,7 +72,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1554825754,
+    "wof:lastmodified":1559683569,
     "wof:name":"CX7963 (PDX-SFO)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

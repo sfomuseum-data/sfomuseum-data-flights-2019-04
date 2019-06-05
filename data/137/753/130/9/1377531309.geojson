@@ -38,6 +38,7 @@
         "VIR4102"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -78,7 +79,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1556208250,
+    "wof:lastmodified":1559683329,
     "wof:name":"VS4102 (SFO-LAX)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

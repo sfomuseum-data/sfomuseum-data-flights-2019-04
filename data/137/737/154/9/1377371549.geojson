@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-LAX-SFO-LA-6683",
     "sfomuseum:flight_number":"LA6683",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -71,7 +72,7 @@
         1159157755,
         1159283849
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682922,
     "wof:name":"LA6683 (LAX-SFO)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

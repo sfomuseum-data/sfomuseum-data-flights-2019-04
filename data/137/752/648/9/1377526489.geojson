@@ -36,6 +36,7 @@
         "AMX3170"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -76,7 +77,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1556208213,
+    "wof:lastmodified":1559682732,
     "wof:name":"AM3170 (LAX-SFO)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-LAS-QF-3696",
     "sfomuseum:flight_number":"QF3696",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554307388,
+    "wof:lastmodified":1559685156,
     "wof:name":"QF3696 (SFO-LAS)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

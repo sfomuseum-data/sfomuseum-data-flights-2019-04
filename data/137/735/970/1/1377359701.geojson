@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-IAD-UA-653",
     "sfomuseum:flight_number":"UA653",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -69,7 +70,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1554739389,
+    "wof:lastmodified":1559685241,
     "wof:name":"UA653 (SFO-IAD)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

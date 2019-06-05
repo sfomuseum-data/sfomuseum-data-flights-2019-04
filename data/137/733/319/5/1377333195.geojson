@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-TPE-SFO-TG-6332",
     "sfomuseum:flight_number":"TG6332",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -71,7 +72,7 @@
         1159157827,
         1159284349
     ],
-    "wof:lastmodified":1554480154,
+    "wof:lastmodified":1559684841,
     "wof:name":"TG6332 (TPE-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

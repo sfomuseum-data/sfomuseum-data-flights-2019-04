@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-SAN-SFO-JL-5461",
     "sfomuseum:flight_number":"JL5461",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284563,
         1159283813
     ],
-    "wof:lastmodified":1555017565,
+    "wof:lastmodified":1559683897,
     "wof:name":"JL5461 (SAN-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

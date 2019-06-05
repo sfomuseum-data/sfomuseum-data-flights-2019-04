@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-BUR-SFO-UA-5788",
     "sfomuseum:flight_number":"UA5788",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157769,
@@ -67,7 +68,7 @@
         1159285413,
         1159157769
     ],
-    "wof:lastmodified":1554652952,
+    "wof:lastmodified":1559685260,
     "wof:name":"UA5788 (BUR-SFO)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",

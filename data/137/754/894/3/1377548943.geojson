@@ -38,6 +38,7 @@
         "ACA4334"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -78,7 +79,7 @@
         1159157855,
         1159285413
     ],
-    "wof:lastmodified":1556381091,
+    "wof:lastmodified":1559683067,
     "wof:name":"AC4334 (SFO-FAT)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

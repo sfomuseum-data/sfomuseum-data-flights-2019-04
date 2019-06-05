@@ -38,6 +38,7 @@
         "THY9133"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157779,
@@ -78,7 +79,7 @@
         1159157779,
         1159283597
     ],
-    "wof:lastmodified":1556121864,
+    "wof:lastmodified":1559682707,
     "wof:name":"TK9133 (SFO-YUL)",
     "wof:parent_id":1159157779,
     "wof:placetype":"event",

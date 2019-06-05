@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-PHX-AC-4542",
     "sfomuseum:flight_number":"AC4542",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554307388,
+    "wof:lastmodified":1559685093,
     "wof:name":"AC4542 (SFO-PHX)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

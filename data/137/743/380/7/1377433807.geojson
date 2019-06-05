@@ -33,6 +33,7 @@
         "AIJ830"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157667,
@@ -72,7 +73,7 @@
         1159286485,
         1159157667
     ],
-    "wof:lastmodified":1555257773,
+    "wof:lastmodified":1559685821,
     "wof:name":"4O830 (CUN-SFO)",
     "wof:parent_id":1159157667,
     "wof:placetype":"event",

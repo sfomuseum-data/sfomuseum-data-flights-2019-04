@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-EWR-CA-7322",
     "sfomuseum:flight_number":"CA7322",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -73,7 +74,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1555017633,
+    "wof:lastmodified":1559684504,
     "wof:name":"CA7322 (SFO-EWR)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

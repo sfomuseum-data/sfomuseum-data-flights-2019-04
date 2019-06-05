@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-MCI-UA-5695",
     "sfomuseum:flight_number":"UA5695",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -69,7 +70,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554393793,
+    "wof:lastmodified":1559684790,
     "wof:name":"UA5695 (SFO-MCI)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

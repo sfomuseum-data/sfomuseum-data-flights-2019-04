@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-MUC-UA-194",
     "sfomuseum:flight_number":"UA194",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -69,7 +70,7 @@
         1159285413,
         1159157677
     ],
-    "wof:lastmodified":1554220971,
+    "wof:lastmodified":1559683855,
     "wof:name":"UA194 (SFO-MUC)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

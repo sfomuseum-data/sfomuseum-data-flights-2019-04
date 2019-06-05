@@ -33,6 +33,7 @@
         "UAL800"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -72,7 +73,7 @@
         1159285413,
         1159157785
     ],
-    "wof:lastmodified":1556035408,
+    "wof:lastmodified":1559684985,
     "wof:name":"UA800 (PSP-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

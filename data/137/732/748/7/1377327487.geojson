@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-LAS-SFO-SQ-1334",
     "sfomuseum:flight_number":"SQ1334",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285163,
         1159283813
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685138,
     "wof:name":"SQ1334 (LAS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

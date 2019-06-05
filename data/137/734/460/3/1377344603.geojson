@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SAN-CX-7928",
     "sfomuseum:flight_number":"CX7928",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1554566570,
+    "wof:lastmodified":1559684687,
     "wof:name":"CX7928 (SFO-SAN)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

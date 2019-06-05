@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-BOI-UA-5808",
     "sfomuseum:flight_number":"UA5808",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -69,7 +70,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554653011,
+    "wof:lastmodified":1559685214,
     "wof:name":"UA5808 (SFO-BOI)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

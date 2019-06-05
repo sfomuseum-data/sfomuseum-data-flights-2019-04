@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-IST-SFO-TK-79",
     "sfomuseum:flight_number":"TK79",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157815,
@@ -67,7 +68,7 @@
         1159285391,
         1159157815
     ],
-    "wof:lastmodified":1554566566,
+    "wof:lastmodified":1559684677,
     "wof:name":"TK79 (IST-SFO)",
     "wof:parent_id":1159157815,
     "wof:placetype":"event",

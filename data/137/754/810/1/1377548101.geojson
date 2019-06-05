@@ -38,6 +38,7 @@
         "CSN1258"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -78,7 +79,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1556381076,
+    "wof:lastmodified":1559683039,
     "wof:name":"CZ1258 (SFO-SEA)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

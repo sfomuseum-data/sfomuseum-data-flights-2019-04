@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PDX-TK-9589",
     "sfomuseum:flight_number":"TK9589",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -73,7 +74,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1554393815,
+    "wof:lastmodified":1559684737,
     "wof:name":"TK9589 (SFO-PDX)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

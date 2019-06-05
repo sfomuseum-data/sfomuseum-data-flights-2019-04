@@ -33,6 +33,7 @@
         "UAL5876"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -72,7 +73,7 @@
         1159285413,
         1159157693
     ],
-    "wof:lastmodified":1556381027,
+    "wof:lastmodified":1559683040,
     "wof:name":"UA5876 (FAT-SFO)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

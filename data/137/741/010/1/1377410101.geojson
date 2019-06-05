@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-SEA-SQ-1320",
     "sfomuseum:flight_number":"SQ1320",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -73,7 +74,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1555017570,
+    "wof:lastmodified":1559684547,
     "wof:name":"SQ1320 (SFO-SEA)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

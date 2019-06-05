@@ -35,6 +35,7 @@
         "UAL580"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -74,7 +75,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1555257818,
+    "wof:lastmodified":1559685828,
     "wof:name":"UA580 (SFO-MSY)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

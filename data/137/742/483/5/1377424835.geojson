@@ -33,6 +33,7 @@
         "UAL1163"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -72,7 +73,7 @@
         1159285413,
         1159157771
     ],
-    "wof:lastmodified":1555171376,
+    "wof:lastmodified":1559685847,
     "wof:name":"UA1163 (BOS-SFO)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

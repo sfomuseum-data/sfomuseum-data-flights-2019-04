@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-DTW-SFO-DL-1324",
     "sfomuseum:flight_number":"DL1324",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -67,7 +68,7 @@
         1159284261,
         1159157663
     ],
-    "wof:lastmodified":1554393756,
+    "wof:lastmodified":1559685164,
     "wof:name":"DL1324 (DTW-SFO)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

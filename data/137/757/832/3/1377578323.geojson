@@ -38,6 +38,7 @@
         "SWR3238"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -78,7 +79,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1556726681,
+    "wof:lastmodified":1559685447,
     "wof:name":"LX3238 (SFO-HNL)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

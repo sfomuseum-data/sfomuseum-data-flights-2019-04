@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-CAN-DL-7804",
     "sfomuseum:flight_number":"DL7804",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -73,7 +74,7 @@
         1159157631,
         1159284165
     ],
-    "wof:lastmodified":1554307414,
+    "wof:lastmodified":1559685175,
     "wof:name":"DL7804 (SFO-CAN)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

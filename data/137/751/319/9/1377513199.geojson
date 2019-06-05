@@ -38,6 +38,7 @@
         "FIN5524"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157639,
@@ -78,7 +79,7 @@
         1159157639,
         1159284021
     ],
-    "wof:lastmodified":1556035423,
+    "wof:lastmodified":1559685079,
     "wof:name":"AY5524 (SFO-LHR)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",

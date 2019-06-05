@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-CVG-NZ-9057",
     "sfomuseum:flight_number":"NZ9057",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -73,7 +74,7 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1555017585,
+    "wof:lastmodified":1559684573,
     "wof:name":"NZ9057 (SFO-CVG)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-LAX-SFO-WN-781",
     "sfomuseum:flight_number":"WN781",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -67,7 +68,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1555017567,
+    "wof:lastmodified":1559683889,
     "wof:name":"WN781 (LAX-SFO)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-XNA-NZ-2445",
     "sfomuseum:flight_number":"NZ2445",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -73,7 +74,7 @@
         1159157723,
         1159285413
     ],
-    "wof:lastmodified":1554307413,
+    "wof:lastmodified":1559685162,
     "wof:name":"NZ2445 (SFO-XNA)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

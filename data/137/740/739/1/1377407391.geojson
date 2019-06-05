@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-TUS-SFO-AC-4197",
     "sfomuseum:flight_number":"AC4197",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -71,7 +72,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1555017559,
+    "wof:lastmodified":1559683877,
     "wof:name":"AC4197 (TUS-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

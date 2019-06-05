@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-EWR-UA-613",
     "sfomuseum:flight_number":"UA613",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554739448,
+    "wof:lastmodified":1559683680,
     "wof:name":"UA613 (SFO-EWR)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

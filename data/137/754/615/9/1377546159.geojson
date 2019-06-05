@@ -38,6 +38,7 @@
         "CCA7322"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -78,7 +79,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1556381041,
+    "wof:lastmodified":1559683156,
     "wof:name":"CA7322 (SFO-ORD)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

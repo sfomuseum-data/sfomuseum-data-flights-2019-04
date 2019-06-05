@@ -36,6 +36,7 @@
         "ANZ9557"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -76,7 +77,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1555949006,
+    "wof:lastmodified":1559685394,
     "wof:name":"NZ9557 (RDU-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

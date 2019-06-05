@@ -36,6 +36,7 @@
         "QFA3695"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -77,7 +78,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1555776210,
+    "wof:lastmodified":1559683946,
     "wof:name":"QF3695 (KOA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

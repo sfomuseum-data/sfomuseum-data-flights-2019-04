@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-JFK-QF-3656",
     "sfomuseum:flight_number":"QF3656",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157829,
@@ -73,7 +74,7 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1554912167,
+    "wof:lastmodified":1559682885,
     "wof:name":"QF3656 (SFO-JFK)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",

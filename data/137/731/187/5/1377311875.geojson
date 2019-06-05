@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-OMA-SFO-UA-5298",
     "sfomuseum:flight_number":"UA5298",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -67,7 +68,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554220961,
+    "wof:lastmodified":1559683816,
     "wof:name":"UA5298 (OMA-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-SNA-UA-5728",
     "sfomuseum:flight_number":"UA5728",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -69,7 +70,7 @@
         1159285413,
         1159157721
     ],
-    "wof:lastmodified":1554393783,
+    "wof:lastmodified":1559684828,
     "wof:name":"UA5728 (SFO-SNA)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

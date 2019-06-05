@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-SEA-SFO-AA-6907",
     "sfomuseum:flight_number":"AA6907",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -71,7 +72,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1555017557,
+    "wof:lastmodified":1559683885,
     "wof:name":"AA6907 (SEA-SFO)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

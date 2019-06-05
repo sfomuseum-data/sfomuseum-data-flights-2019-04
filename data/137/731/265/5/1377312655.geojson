@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-IAD-SFO-SK-8793",
     "sfomuseum:flight_number":"SK8793",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -71,7 +72,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1554220964,
+    "wof:lastmodified":1559683857,
     "wof:name":"SK8793 (IAD-SFO)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

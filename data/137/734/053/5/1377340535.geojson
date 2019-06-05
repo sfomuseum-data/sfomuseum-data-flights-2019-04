@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-JFK-SFO-B6-1715",
     "sfomuseum:flight_number":"B61715",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157607,
@@ -67,7 +68,7 @@
         1360700745,
         1159157607
     ],
-    "wof:lastmodified":1554566552,
+    "wof:lastmodified":1559684629,
     "wof:name":"B61715 (JFK-SFO)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PDX-AA-6894",
     "sfomuseum:flight_number":"AA6894",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -73,7 +74,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1554566578,
+    "wof:lastmodified":1559684607,
     "wof:name":"AA6894 (SFO-PDX)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

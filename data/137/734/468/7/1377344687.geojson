@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-IAD-UA-309",
     "sfomuseum:flight_number":"UA309",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -69,7 +70,7 @@
         1159285413,
         1159157659
     ],
-    "wof:lastmodified":1554566572,
+    "wof:lastmodified":1559684695,
     "wof:name":"UA309 (SFO-IAD)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

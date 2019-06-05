@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-DCA-UA-1672",
     "sfomuseum:flight_number":"UA1672",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -69,7 +70,7 @@
         1159285413,
         1159157675
     ],
-    "wof:lastmodified":1554653001,
+    "wof:lastmodified":1559685216,
     "wof:name":"UA1672 (SFO-DCA)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

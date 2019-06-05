@@ -38,6 +38,7 @@
         "ANZ9644"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -78,7 +79,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1555776269,
+    "wof:lastmodified":1559684003,
     "wof:name":"NZ9644 (SFO-SAN)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

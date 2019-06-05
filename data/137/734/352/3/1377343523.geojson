@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-MFR-SFO-NZ-9526",
     "sfomuseum:flight_number":"NZ9526",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -71,7 +72,7 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1554566563,
+    "wof:lastmodified":1559684611,
     "wof:name":"NZ9526 (MFR-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

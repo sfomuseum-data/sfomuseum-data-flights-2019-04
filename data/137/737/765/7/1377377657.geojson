@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-DEN-UA-223",
     "sfomuseum:flight_number":"UA223",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -69,7 +70,7 @@
         1159285413,
         1159157821
     ],
-    "wof:lastmodified":1554912219,
+    "wof:lastmodified":1559682876,
     "wof:name":"UA223 (SFO-DEN)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

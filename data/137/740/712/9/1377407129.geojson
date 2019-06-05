@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-BUR-SFO-WN-1056",
     "sfomuseum:flight_number":"WN1056",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157859,
@@ -67,7 +68,7 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1555017559,
+    "wof:lastmodified":1559683887,
     "wof:name":"WN1056 (BUR-SFO)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",

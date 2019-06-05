@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LAX-LA-5082",
     "sfomuseum:flight_number":"LA5082",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285641,
         1159283813
     ],
-    "wof:lastmodified":1554652977,
+    "wof:lastmodified":1559685305,
     "wof:name":"LA5082 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

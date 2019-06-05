@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SMF-NH-7388",
     "sfomuseum:flight_number":"NH7388",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -73,7 +74,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1554220974,
+    "wof:lastmodified":1559683840,
     "wof:name":"NH7388 (SFO-SMF)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

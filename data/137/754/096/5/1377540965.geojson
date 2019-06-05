@@ -35,6 +35,7 @@
         "UAL1761"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -74,7 +75,7 @@
         1159285413,
         1159157767
     ],
-    "wof:lastmodified":1556294686,
+    "wof:lastmodified":1559683052,
     "wof:name":"UA1761 (SFO-SJD)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

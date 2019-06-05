@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SEA-DL-5742",
     "sfomuseum:flight_number":"DL5742",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -69,7 +70,7 @@
         1159284261,
         1159157743
     ],
-    "wof:lastmodified":1554652977,
+    "wof:lastmodified":1559685248,
     "wof:name":"DL5742 (SFO-SEA)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

@@ -35,6 +35,7 @@
         "ASA2161"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1555689833,
+    "wof:lastmodified":1559684083,
     "wof:name":"AS2161 (SFO-SNA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

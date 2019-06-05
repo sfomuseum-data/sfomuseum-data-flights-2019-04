@@ -35,6 +35,7 @@
         "UAL5289"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157769,
@@ -74,7 +75,7 @@
         1159285413,
         1159157769
     ],
-    "wof:lastmodified":1556121873,
+    "wof:lastmodified":1559682676,
     "wof:name":"UA5289 (SFO-XNA)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",

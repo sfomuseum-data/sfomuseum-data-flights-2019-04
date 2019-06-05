@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-ORD-SFO-JL-7549",
     "sfomuseum:flight_number":"JL7549",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -71,7 +72,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554739382,
+    "wof:lastmodified":1559685294,
     "wof:name":"JL7549 (ORD-SFO)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

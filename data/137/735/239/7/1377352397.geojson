@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SYD-LH-9327",
     "sfomuseum:flight_number":"LH9327",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -73,7 +74,7 @@
         1159157657,
         1159285413
     ],
-    "wof:lastmodified":1554652959,
+    "wof:lastmodified":1559685284,
     "wof:name":"LH9327 (SFO-SYD)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

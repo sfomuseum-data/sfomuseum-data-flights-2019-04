@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-MCI-SFO-UA-5694",
     "sfomuseum:flight_number":"UA5694",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -67,7 +68,7 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1554566565,
+    "wof:lastmodified":1559684652,
     "wof:name":"UA5694 (MCI-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

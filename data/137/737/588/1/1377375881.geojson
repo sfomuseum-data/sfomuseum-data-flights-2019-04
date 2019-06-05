@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-BOS-QF-3670",
     "sfomuseum:flight_number":"QF3670",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554912188,
+    "wof:lastmodified":1559682911,
     "wof:name":"QF3670 (SFO-BOS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

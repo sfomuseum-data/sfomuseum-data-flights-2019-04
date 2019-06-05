@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-MIA-SFO-CX-7556",
     "sfomuseum:flight_number":"CX7556",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -71,7 +72,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1555017563,
+    "wof:lastmodified":1559683893,
     "wof:name":"CX7556 (MIA-SFO)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

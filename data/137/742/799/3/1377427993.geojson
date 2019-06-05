@@ -35,6 +35,7 @@
         "DAL2639"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -74,7 +75,7 @@
         1159284261,
         1159157663
     ],
-    "wof:lastmodified":1555171396,
+    "wof:lastmodified":1559685831,
     "wof:name":"DL2639 (SFO-LAX)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

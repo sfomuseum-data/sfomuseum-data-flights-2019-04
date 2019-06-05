@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-SNA-SFO-EK-3138",
     "sfomuseum:flight_number":"EK3138",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -71,7 +72,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1554912161,
+    "wof:lastmodified":1559682932,
     "wof:name":"EK3138 (SNA-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

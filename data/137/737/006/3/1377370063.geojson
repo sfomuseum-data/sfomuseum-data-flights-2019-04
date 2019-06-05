@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-MCO-UA-2237",
     "sfomuseum:flight_number":"UA2237",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -69,7 +70,7 @@
         1159285413,
         1159157647
     ],
-    "wof:lastmodified":1554825812,
+    "wof:lastmodified":1559682907,
     "wof:name":"UA2237 (SFO-MCO)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

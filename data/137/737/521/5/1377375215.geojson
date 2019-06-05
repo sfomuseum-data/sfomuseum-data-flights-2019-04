@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-RDM-UA-5700",
     "sfomuseum:flight_number":"UA5700",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -69,7 +70,7 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1554912176,
+    "wof:lastmodified":1559682908,
     "wof:name":"UA5700 (SFO-RDM)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

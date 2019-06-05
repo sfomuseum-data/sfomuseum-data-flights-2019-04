@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-DEN-SFO-UA-277",
     "sfomuseum:flight_number":"UA277",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -67,7 +68,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554307348,
+    "wof:lastmodified":1559683802,
     "wof:name":"UA277 (DEN-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

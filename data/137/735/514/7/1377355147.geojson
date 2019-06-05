@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-MEX-UA-412",
     "sfomuseum:flight_number":"UA412",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -69,7 +70,7 @@
         1159285413,
         1159157783
     ],
-    "wof:lastmodified":1554653007,
+    "wof:lastmodified":1559685294,
     "wof:name":"UA412 (SFO-MEX)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-EWR-SK-3924",
     "sfomuseum:flight_number":"SK3924",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -73,7 +74,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1554825762,
+    "wof:lastmodified":1559683776,
     "wof:name":"SK3924 (SFO-EWR)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

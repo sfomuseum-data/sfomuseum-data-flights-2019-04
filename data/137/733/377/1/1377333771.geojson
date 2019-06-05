@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-MEX-SFO-DL-8049",
     "sfomuseum:flight_number":"DL8049",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157641,
@@ -71,7 +72,7 @@
         1159157641,
         1159283539
     ],
-    "wof:lastmodified":1554480156,
+    "wof:lastmodified":1559684772,
     "wof:name":"DL8049 (MEX-SFO)",
     "wof:parent_id":1159157641,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "SIA1345"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -78,7 +79,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1556294653,
+    "wof:lastmodified":1559683459,
     "wof:name":"SQ1345 (SFO-SAN)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

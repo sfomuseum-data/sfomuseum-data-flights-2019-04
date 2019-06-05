@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-BOI-UA-5328",
     "sfomuseum:flight_number":"UA5328",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -69,7 +70,7 @@
         1159285413,
         1159157689
     ],
-    "wof:lastmodified":1554480203,
+    "wof:lastmodified":1559684763,
     "wof:name":"UA5328 (SFO-BOI)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-MSY-AS-1390",
     "sfomuseum:flight_number":"AS1390",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157753,
@@ -69,7 +70,7 @@
         1159283813,
         1159157753
     ],
-    "wof:lastmodified":1555017633,
+    "wof:lastmodified":1559684409,
     "wof:name":"AS1390 (SFO-MSY)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",

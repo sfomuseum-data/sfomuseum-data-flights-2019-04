@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PHL-UA-1019",
     "sfomuseum:flight_number":"UA1019",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554825822,
+    "wof:lastmodified":1559682966,
     "wof:name":"UA1019 (SFO-PHL)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

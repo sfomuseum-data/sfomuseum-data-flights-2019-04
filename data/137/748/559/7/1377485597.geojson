@@ -38,6 +38,7 @@
         "DLH9208"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -78,7 +79,7 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1555689860,
+    "wof:lastmodified":1559684058,
     "wof:name":"LH9208 (SFO-OGG)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-HNL-UA-1122",
     "sfomuseum:flight_number":"UA1122",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -69,7 +70,7 @@
         1159285413,
         1159157789
     ],
-    "wof:lastmodified":1554739428,
+    "wof:lastmodified":1559683641,
     "wof:name":"UA1122 (SFO-HNL)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

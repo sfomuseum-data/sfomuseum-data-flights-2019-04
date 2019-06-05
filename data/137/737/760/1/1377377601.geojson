@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-DEN-AC-5806",
     "sfomuseum:flight_number":"AC5806",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -73,7 +74,7 @@
         1159157765,
         1159285413
     ],
-    "wof:lastmodified":1554912218,
+    "wof:lastmodified":1559682927,
     "wof:name":"AC5806 (SFO-DEN)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-BOS-SFO-QR-4044",
     "sfomuseum:flight_number":"QR4044",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -71,7 +72,7 @@
         1159157605,
         1360700745
     ],
-    "wof:lastmodified":1554480165,
+    "wof:lastmodified":1559684813,
     "wof:name":"QR4044 (BOS-SFO)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-DFW-NH-7372",
     "sfomuseum:flight_number":"NH7372",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -73,7 +74,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1554480228,
+    "wof:lastmodified":1559684631,
     "wof:name":"NH7372 (SFO-DFW)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

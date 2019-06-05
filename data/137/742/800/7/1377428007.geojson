@@ -38,6 +38,7 @@
         "ANA6495"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -78,7 +79,7 @@
         1159157729,
         1159285413
     ],
-    "wof:lastmodified":1555171396,
+    "wof:lastmodified":1559685904,
     "wof:name":"NH6495 (SFO-YVR)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-RNO-NH-7380",
     "sfomuseum:flight_number":"NH7380",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -73,7 +74,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1554393823,
+    "wof:lastmodified":1559684808,
     "wof:name":"NH7380 (SFO-RNO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

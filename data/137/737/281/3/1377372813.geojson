@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-LAX-SFO-DL-2642",
     "sfomuseum:flight_number":"DL2642",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -67,7 +68,7 @@
         1159284261,
         1159157661
     ],
-    "wof:lastmodified":1554912158,
+    "wof:lastmodified":1559682891,
     "wof:name":"DL2642 (LAX-SFO)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

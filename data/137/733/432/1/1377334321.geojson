@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-LGA-SFO-UA-761",
     "sfomuseum:flight_number":"UA761",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -67,7 +68,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554480158,
+    "wof:lastmodified":1559684827,
     "wof:name":"UA761 (LGA-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

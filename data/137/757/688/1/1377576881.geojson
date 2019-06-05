@@ -38,6 +38,7 @@
         "ANZ9292"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157623,
@@ -78,7 +79,7 @@
         1159157623,
         1159285413
     ],
-    "wof:lastmodified":1556726656,
+    "wof:lastmodified":1559685426,
     "wof:name":"NZ9292 (SFO-MCO)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",

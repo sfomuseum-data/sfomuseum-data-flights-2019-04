@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-YVR-NH-6495",
     "sfomuseum:flight_number":"NH6495",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -73,7 +74,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1554825762,
+    "wof:lastmodified":1559683761,
     "wof:name":"NH6495 (SFO-YVR)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

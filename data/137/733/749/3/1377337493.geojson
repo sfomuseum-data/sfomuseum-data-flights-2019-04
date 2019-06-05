@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PHL-NZ-9362",
     "sfomuseum:flight_number":"NZ9362",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -73,7 +74,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554480181,
+    "wof:lastmodified":1559684776,
     "wof:name":"NZ9362 (SFO-PHL)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

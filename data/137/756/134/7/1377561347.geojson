@@ -38,6 +38,7 @@
         "CCA7245"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -78,7 +79,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1556553844,
+    "wof:lastmodified":1559684859,
     "wof:name":"CA7245 (SFO-ATL)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

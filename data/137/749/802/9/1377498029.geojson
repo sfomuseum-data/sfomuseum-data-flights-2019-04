@@ -38,6 +38,7 @@
         "AMX3434"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -78,7 +79,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1555862600,
+    "wof:lastmodified":1559683976,
     "wof:name":"AM3434 (SFO-JFK)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SAN-LX-3272",
     "sfomuseum:flight_number":"LX3272",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -73,7 +74,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554307387,
+    "wof:lastmodified":1559685187,
     "wof:name":"LX3272 (SFO-SAN)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

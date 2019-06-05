@@ -38,6 +38,7 @@
         "CCA7210"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -78,7 +79,7 @@
         1159157621,
         1159285413
     ],
-    "wof:lastmodified":1555171425,
+    "wof:lastmodified":1559685880,
     "wof:name":"CA7210 (SFO-PVG)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-AMS-SFO-DL-9380",
     "sfomuseum:flight_number":"DL9380",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157631,
@@ -71,7 +72,7 @@
         1159157631,
         1159284613
     ],
-    "wof:lastmodified":1554220966,
+    "wof:lastmodified":1559683865,
     "wof:name":"DL9380 (AMS-SFO)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",

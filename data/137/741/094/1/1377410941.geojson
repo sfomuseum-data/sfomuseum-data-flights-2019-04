@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-SAN-AC-5498",
     "sfomuseum:flight_number":"AC5498",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -73,7 +74,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1555017585,
+    "wof:lastmodified":1559684575,
     "wof:name":"AC5498 (SFO-SAN)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-HNL-SFO-UA-724",
     "sfomuseum:flight_number":"UA724",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -67,7 +68,7 @@
         1159285413,
         1159157761
     ],
-    "wof:lastmodified":1554739378,
+    "wof:lastmodified":1559685216,
     "wof:name":"UA724 (HNL-SFO)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-PSC-UA-5515",
     "sfomuseum:flight_number":"UA5515",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -69,7 +70,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554307388,
+    "wof:lastmodified":1559685084,
     "wof:name":"UA5515 (SFO-PSC)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

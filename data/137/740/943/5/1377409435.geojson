@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-LAX-SFO-UA-460",
     "sfomuseum:flight_number":"UA460",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -67,7 +68,7 @@
         1159285413,
         1159157749
     ],
-    "wof:lastmodified":1555017566,
+    "wof:lastmodified":1559683900,
     "wof:name":"UA460 (LAX-SFO)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "AAL6920"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -76,7 +77,7 @@
         1159157831,
         1159283813
     ],
-    "wof:lastmodified":1555949010,
+    "wof:lastmodified":1559685380,
     "wof:name":"AA6920 (PDX-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

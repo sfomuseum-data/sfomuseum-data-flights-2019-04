@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-FRA-SFO-UA-927",
     "sfomuseum:flight_number":"UA927",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -67,7 +68,7 @@
         1159285413,
         1159157777
     ],
-    "wof:lastmodified":1555017565,
+    "wof:lastmodified":1559683886,
     "wof:name":"UA927 (FRA-SFO)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

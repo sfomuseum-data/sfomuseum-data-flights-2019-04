@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-HNL-NZ-9141",
     "sfomuseum:flight_number":"NZ9141",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554307387,
+    "wof:lastmodified":1559685085,
     "wof:name":"NZ9141 (SFO-HNL)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

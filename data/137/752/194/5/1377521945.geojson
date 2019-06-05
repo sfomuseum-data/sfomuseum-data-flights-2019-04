@@ -38,6 +38,7 @@
         "DSM6318"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -78,7 +79,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1556121842,
+    "wof:lastmodified":1559682674,
     "wof:name":"4M6318 (SFO-MIA)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

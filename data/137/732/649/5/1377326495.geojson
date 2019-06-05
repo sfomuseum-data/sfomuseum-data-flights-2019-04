@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-ACV-SFO-UA-5349",
     "sfomuseum:flight_number":"UA5349",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -67,7 +68,7 @@
         1159285413,
         1159157725
     ],
-    "wof:lastmodified":1554393749,
+    "wof:lastmodified":1559685162,
     "wof:name":"UA5349 (ACV-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

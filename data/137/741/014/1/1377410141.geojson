@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-MU-4155",
     "sfomuseum:flight_number":"MU4155",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157753,
@@ -73,7 +74,7 @@
         1159157753,
         1159284261
     ],
-    "wof:lastmodified":1555017570,
+    "wof:lastmodified":1559684441,
     "wof:name":"MU4155 (SFO-LAX)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",

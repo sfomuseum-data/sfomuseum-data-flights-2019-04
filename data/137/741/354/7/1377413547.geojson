@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-JFK-VS-4838",
     "sfomuseum:flight_number":"VS4838",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1555017631,
+    "wof:lastmodified":1559684411,
     "wof:name":"VS4838 (SFO-JFK)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

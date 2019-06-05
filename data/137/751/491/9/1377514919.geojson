@@ -35,6 +35,7 @@
         "ASA1371"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1556035453,
+    "wof:lastmodified":1559685019,
     "wof:name":"AS1371 (SFO-SEA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

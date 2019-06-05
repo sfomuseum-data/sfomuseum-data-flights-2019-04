@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-LAS-LH-7796",
     "sfomuseum:flight_number":"LH7796",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -73,7 +74,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1554912230,
+    "wof:lastmodified":1559682956,
     "wof:name":"LH7796 (SFO-LAS)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

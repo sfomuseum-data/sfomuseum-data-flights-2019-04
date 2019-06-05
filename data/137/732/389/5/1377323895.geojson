@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-ONT-AC-4322",
     "sfomuseum:flight_number":"AC4322",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -73,7 +74,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1554307403,
+    "wof:lastmodified":1559685191,
     "wof:name":"AC4322 (SFO-ONT)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

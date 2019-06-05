@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-PSP-AS-3326",
     "sfomuseum:flight_number":"AS3326",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -69,7 +70,7 @@
         1159283813,
         1159157701
     ],
-    "wof:lastmodified":1554653004,
+    "wof:lastmodified":1559685231,
     "wof:name":"AS3326 (SFO-PSP)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

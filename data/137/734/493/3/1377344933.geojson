@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SIN-UA-1",
     "sfomuseum:flight_number":"UA1",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -69,7 +70,7 @@
         1159285413,
         1159157677
     ],
-    "wof:lastmodified":1554566576,
+    "wof:lastmodified":1559684686,
     "wof:name":"UA1 (SFO-SIN)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

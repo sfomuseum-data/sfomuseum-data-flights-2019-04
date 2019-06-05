@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-KOA-AV-2356",
     "sfomuseum:flight_number":"AV2356",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554480172,
+    "wof:lastmodified":1559684785,
     "wof:name":"AV2356 (SFO-KOA)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

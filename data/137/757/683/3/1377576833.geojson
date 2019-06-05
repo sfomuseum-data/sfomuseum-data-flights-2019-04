@@ -38,6 +38,7 @@
         "ANZ9057"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -78,7 +79,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1556726655,
+    "wof:lastmodified":1559685499,
     "wof:name":"NZ9057 (SFO-DEN)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-HKG-SFO-UA-862",
     "sfomuseum:flight_number":"UA862",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -67,7 +68,7 @@
         1159285413,
         1159157621
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685140,
     "wof:name":"UA862 (HKG-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

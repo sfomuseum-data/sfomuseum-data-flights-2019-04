@@ -35,6 +35,7 @@
         "ASA2117"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -75,7 +76,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1555689812,
+    "wof:lastmodified":1559684078,
     "wof:name":"AS2117 (SFO-SNA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

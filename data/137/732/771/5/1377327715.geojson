@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-YVR-SFO-UA-2423",
     "sfomuseum:flight_number":"UA2423",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -67,7 +68,7 @@
         1159285413,
         1159157785
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685133,
     "wof:name":"UA2423 (YVR-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-LIH-SFO-UA-1746",
     "sfomuseum:flight_number":"UA1746",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -67,7 +68,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685085,
     "wof:name":"UA1746 (LIH-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

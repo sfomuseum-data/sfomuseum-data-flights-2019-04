@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-MSP-SFO-UA-5347",
     "sfomuseum:flight_number":"UA5347",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -67,7 +68,7 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1554566567,
+    "wof:lastmodified":1559684629,
     "wof:name":"UA5347 (MSP-SFO)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

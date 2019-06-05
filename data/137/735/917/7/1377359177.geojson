@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-07-SBA-SFO-UA-5764",
     "sfomuseum:flight_number":"UA5764",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -67,7 +68,7 @@
         1159285413,
         1159157837
     ],
-    "wof:lastmodified":1554739382,
+    "wof:lastmodified":1559685300,
     "wof:name":"UA5764 (SBA-SFO)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

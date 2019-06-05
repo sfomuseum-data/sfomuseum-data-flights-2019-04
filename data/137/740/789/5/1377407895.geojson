@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-LGA-SFO-AC-5395",
     "sfomuseum:flight_number":"AC5395",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157761,
@@ -71,7 +72,7 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1555017561,
+    "wof:lastmodified":1559683899,
     "wof:name":"AC5395 (LGA-SFO)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",

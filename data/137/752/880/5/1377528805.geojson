@@ -36,6 +36,7 @@
         "AAR9522"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -76,7 +77,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1556208220,
+    "wof:lastmodified":1559682681,
     "wof:name":"OZ9522 (IAH-SFO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "ACA4236"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -76,7 +77,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1556121796,
+    "wof:lastmodified":1559685059,
     "wof:name":"AC4236 (SAN-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

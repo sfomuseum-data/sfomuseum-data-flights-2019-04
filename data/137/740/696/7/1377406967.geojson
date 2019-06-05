@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-SNA-SFO-AY-2522",
     "sfomuseum:flight_number":"AY2522",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284389,
         1159283813
     ],
-    "wof:lastmodified":1555017558,
+    "wof:lastmodified":1559683896,
     "wof:name":"AY2522 (SNA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

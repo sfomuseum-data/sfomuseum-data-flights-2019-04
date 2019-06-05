@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-GEG-SFO-OZ-6351",
     "sfomuseum:flight_number":"OZ6351",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -71,7 +72,7 @@
         1159157665,
         1159285413
     ],
-    "wof:lastmodified":1554393753,
+    "wof:lastmodified":1559685092,
     "wof:name":"OZ6351 (GEG-SFO)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ANZ9254"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -78,7 +79,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1555171428,
+    "wof:lastmodified":1559685874,
     "wof:name":"NZ9254 (SFO-LAX)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

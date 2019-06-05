@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-BUR-SFO-UA-5223",
     "sfomuseum:flight_number":"UA5223",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -67,7 +68,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554566562,
+    "wof:lastmodified":1559684711,
     "wof:name":"UA5223 (BUR-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

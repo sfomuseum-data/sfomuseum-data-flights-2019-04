@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-SAN-UA-2832",
     "sfomuseum:flight_number":"UA2832",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -69,7 +70,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1555017594,
+    "wof:lastmodified":1559684489,
     "wof:name":"UA2832 (SFO-SAN)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

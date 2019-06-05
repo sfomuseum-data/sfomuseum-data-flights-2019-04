@@ -38,6 +38,7 @@
         "ANZ9082"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -78,7 +79,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1556035440,
+    "wof:lastmodified":1559685054,
     "wof:name":"NZ9082 (SFO-DFW)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

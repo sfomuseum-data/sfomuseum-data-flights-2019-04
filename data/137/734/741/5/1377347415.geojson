@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PSP-AC-4278",
     "sfomuseum:flight_number":"AC4278",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -73,7 +74,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1554566622,
+    "wof:lastmodified":1559684651,
     "wof:name":"AC4278 (SFO-PSP)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

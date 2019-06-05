@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-LAX-SFO-UA-632",
     "sfomuseum:flight_number":"UA632",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -67,7 +68,7 @@
         1159285413,
         1159157765
     ],
-    "wof:lastmodified":1554480161,
+    "wof:lastmodified":1559684837,
     "wof:name":"UA632 (LAX-SFO)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

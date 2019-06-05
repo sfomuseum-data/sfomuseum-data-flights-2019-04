@@ -33,6 +33,7 @@
         "ICE863"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -72,7 +73,7 @@
         1159284513,
         1159157677
     ],
-    "wof:lastmodified":1555344186,
+    "wof:lastmodified":1559685798,
     "wof:name":"FI863 (KEF-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

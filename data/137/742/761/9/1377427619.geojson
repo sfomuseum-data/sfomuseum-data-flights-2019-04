@@ -38,6 +38,7 @@
         "SAS8800"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -78,7 +79,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1555171389,
+    "wof:lastmodified":1559685890,
     "wof:name":"SK8800 (SFO-ORD)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SAN-OZ-6307",
     "sfomuseum:flight_number":"OZ6307",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -73,7 +74,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1554307369,
+    "wof:lastmodified":1559685119,
     "wof:name":"OZ6307 (SFO-SAN)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

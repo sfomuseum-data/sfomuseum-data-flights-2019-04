@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-PDX-SFO-AV-2125",
     "sfomuseum:flight_number":"AV2125",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -71,7 +72,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1554825754,
+    "wof:lastmodified":1559683550,
     "wof:name":"AV2125 (PDX-SFO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-DCA-NZ-9301",
     "sfomuseum:flight_number":"NZ9301",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -73,7 +74,7 @@
         1159157671,
         1159285413
     ],
-    "wof:lastmodified":1555017633,
+    "wof:lastmodified":1559684501,
     "wof:name":"NZ9301 (SFO-DCA)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

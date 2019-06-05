@@ -38,6 +38,7 @@
         "FJI5828"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -78,7 +79,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1555689847,
+    "wof:lastmodified":1559684066,
     "wof:name":"FJ5828 (SFO-RDU)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

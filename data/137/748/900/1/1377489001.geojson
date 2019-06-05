@@ -33,6 +33,7 @@
         "UAL1575"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -72,7 +73,7 @@
         1159285413,
         1159157767
     ],
-    "wof:lastmodified":1555776206,
+    "wof:lastmodified":1559684054,
     "wof:name":"UA1575 (HNL-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

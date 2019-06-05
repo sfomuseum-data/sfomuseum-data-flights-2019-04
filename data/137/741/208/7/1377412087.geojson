@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-NRT-UA-7949",
     "sfomuseum:flight_number":"UA7949",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -73,7 +74,7 @@
         1159157827,
         1159283875
     ],
-    "wof:lastmodified":1555017605,
+    "wof:lastmodified":1559684566,
     "wof:name":"UA7949 (SFO-NRT)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "ANZ9173"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -76,7 +77,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1555949005,
+    "wof:lastmodified":1559685339,
     "wof:name":"NZ9173 (EUG-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

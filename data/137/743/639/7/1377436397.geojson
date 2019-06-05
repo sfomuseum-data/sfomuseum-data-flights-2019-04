@@ -38,6 +38,7 @@
         "ANZ2829"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -78,7 +79,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1555257804,
+    "wof:lastmodified":1559685808,
     "wof:name":"NZ2829 (SFO-MRY)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

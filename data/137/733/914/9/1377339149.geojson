@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-AUS-AS-1218",
     "sfomuseum:flight_number":"AS1218",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554480211,
+    "wof:lastmodified":1559684783,
     "wof:name":"AS1218 (SFO-AUS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-SNA-SFO-LH-9237",
     "sfomuseum:flight_number":"LH9237",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -71,7 +72,7 @@
         1159157723,
         1159285413
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682997,
     "wof:name":"LH9237 (SNA-SFO)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

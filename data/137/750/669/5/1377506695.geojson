@@ -38,6 +38,7 @@
         "ANA7242"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -78,7 +79,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1555949039,
+    "wof:lastmodified":1559685336,
     "wof:name":"NH7242 (SFO-ORD)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

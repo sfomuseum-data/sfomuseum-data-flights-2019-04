@@ -36,6 +36,7 @@
         "THA6094"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -76,7 +77,7 @@
         1159157685,
         1159283875
     ],
-    "wof:lastmodified":1555949006,
+    "wof:lastmodified":1559685338,
     "wof:name":"TG6094 (NRT-SFO)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

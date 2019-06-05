@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-ATL-KE-3645",
     "sfomuseum:flight_number":"KE3645",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -73,7 +74,7 @@
         1159157663,
         1159284261
     ],
-    "wof:lastmodified":1554912202,
+    "wof:lastmodified":1559682904,
     "wof:name":"KE3645 (SFO-ATL)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

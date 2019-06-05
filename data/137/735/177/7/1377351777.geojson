@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-IAD-SFO-SQ-1389",
     "sfomuseum:flight_number":"SQ1389",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -71,7 +72,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1554652951,
+    "wof:lastmodified":1559685296,
     "wof:name":"SQ1389 (IAD-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

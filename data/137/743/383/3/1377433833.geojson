@@ -33,6 +33,7 @@
         "UAL357"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -72,7 +73,7 @@
         1159285413,
         1159157767
     ],
-    "wof:lastmodified":1555257773,
+    "wof:lastmodified":1559685765,
     "wof:name":"UA357 (CVG-SFO)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

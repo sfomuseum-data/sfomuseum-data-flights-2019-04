@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-JFK-SFO-DL-2959",
     "sfomuseum:flight_number":"DL2959",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157663,
@@ -67,7 +68,7 @@
         1159284261,
         1159157663
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682909,
     "wof:name":"DL2959 (JFK-SFO)",
     "wof:parent_id":1159157663,
     "wof:placetype":"event",

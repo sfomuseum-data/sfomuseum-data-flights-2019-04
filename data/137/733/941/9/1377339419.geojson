@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SNA-AS-2119",
     "sfomuseum:flight_number":"AS2119",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554480215,
+    "wof:lastmodified":1559684773,
     "wof:name":"AS2119 (SFO-SNA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

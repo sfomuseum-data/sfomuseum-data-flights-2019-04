@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-YVR-SFO-NH-7395",
     "sfomuseum:flight_number":"NH7395",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -71,7 +72,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1554480157,
+    "wof:lastmodified":1559684763,
     "wof:name":"NH7395 (YVR-SFO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

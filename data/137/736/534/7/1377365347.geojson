@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-LAX-SFO-SQ-1397",
     "sfomuseum:flight_number":"SQ1397",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285163,
         1159283813
     ],
-    "wof:lastmodified":1554825752,
+    "wof:lastmodified":1559683478,
     "wof:name":"SQ1397 (LAX-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

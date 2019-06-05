@@ -33,6 +33,7 @@
         "UAL2264"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -72,7 +73,7 @@
         1159285413,
         1159157659
     ],
-    "wof:lastmodified":1555171375,
+    "wof:lastmodified":1559685862,
     "wof:name":"UA2264 (IAH-SFO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

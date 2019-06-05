@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-AKL-SFO-LH-9324",
     "sfomuseum:flight_number":"LH9324",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -71,7 +72,7 @@
         1159157677,
         1159285413
     ],
-    "wof:lastmodified":1554825756,
+    "wof:lastmodified":1559683541,
     "wof:name":"LH9324 (AKL-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

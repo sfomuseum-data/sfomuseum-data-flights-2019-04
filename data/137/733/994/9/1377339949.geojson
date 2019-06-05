@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SAN-NH-7300",
     "sfomuseum:flight_number":"NH7300",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -73,7 +74,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1554480225,
+    "wof:lastmodified":1559684793,
     "wof:name":"NH7300 (SFO-SAN)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

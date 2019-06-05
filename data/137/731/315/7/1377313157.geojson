@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-SAN-SFO-AC-4193",
     "sfomuseum:flight_number":"AC4193",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -71,7 +72,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554220966,
+    "wof:lastmodified":1559683821,
     "wof:name":"AC4193 (SAN-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

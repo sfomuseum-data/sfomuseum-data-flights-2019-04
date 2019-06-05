@@ -38,6 +38,7 @@
         "LAN6760"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -78,7 +79,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1556553830,
+    "wof:lastmodified":1559684964,
     "wof:name":"LA6760 (SFO-MIA)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

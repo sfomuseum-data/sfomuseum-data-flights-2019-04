@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-MIA-SFO-AA-2421",
     "sfomuseum:flight_number":"AA2421",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -67,7 +68,7 @@
         1159283849,
         1159157755
     ],
-    "wof:lastmodified":1554825752,
+    "wof:lastmodified":1559683478,
     "wof:name":"AA2421 (MIA-SFO)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

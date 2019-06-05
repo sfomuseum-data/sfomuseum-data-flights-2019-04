@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-MCI-QF-3778",
     "sfomuseum:flight_number":"QF3778",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1555017625,
+    "wof:lastmodified":1559684582,
     "wof:name":"QF3778 (SFO-MCI)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ANZ4223"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -78,7 +79,7 @@
         1159157827,
         1159284711
     ],
-    "wof:lastmodified":1556208285,
+    "wof:lastmodified":1559683240,
     "wof:name":"NZ4223 (SFO-MUC)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

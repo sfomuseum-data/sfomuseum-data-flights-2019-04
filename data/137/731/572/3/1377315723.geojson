@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-JFK-DL-1038",
     "sfomuseum:flight_number":"DL1038",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -69,7 +70,7 @@
         1159284261,
         1159157803
     ],
-    "wof:lastmodified":1554221001,
+    "wof:lastmodified":1559683819,
     "wof:name":"DL1038 (SFO-JFK)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

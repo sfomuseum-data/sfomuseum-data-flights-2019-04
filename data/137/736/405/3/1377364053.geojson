@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-FRA-SFO-UA-59",
     "sfomuseum:flight_number":"UA59",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -67,7 +68,7 @@
         1159285413,
         1159157621
     ],
-    "wof:lastmodified":1554825747,
+    "wof:lastmodified":1559683728,
     "wof:name":"UA59 (FRA-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "ACA6102"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -78,7 +79,7 @@
         1159157777,
         1159283697
     ],
-    "wof:lastmodified":1556121826,
+    "wof:lastmodified":1559682715,
     "wof:name":"AC6102 (SFO-AKL)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

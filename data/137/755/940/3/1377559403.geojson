@@ -33,6 +33,7 @@
         "SIA34"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -72,7 +73,7 @@
         1159285163,
         1159157687
     ],
-    "wof:lastmodified":1556553824,
+    "wof:lastmodified":1559682806,
     "wof:name":"SQ34 (SIN-SFO)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

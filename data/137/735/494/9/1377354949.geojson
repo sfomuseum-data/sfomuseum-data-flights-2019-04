@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-MCO-NZ-9291",
     "sfomuseum:flight_number":"NZ9291",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554653004,
+    "wof:lastmodified":1559685278,
     "wof:name":"NZ9291 (SFO-MCO)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

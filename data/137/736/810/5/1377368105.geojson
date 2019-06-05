@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-YVR-NZ-9873",
     "sfomuseum:flight_number":"NZ9873",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -73,7 +74,7 @@
         1159157765,
         1159285413
     ],
-    "wof:lastmodified":1554825777,
+    "wof:lastmodified":1559683539,
     "wof:name":"NZ9873 (SFO-YVR)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-HNL-SFO-AS-752",
     "sfomuseum:flight_number":"AS752",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -67,7 +68,7 @@
         1159283813,
         1159157649
     ],
-    "wof:lastmodified":1554566567,
+    "wof:lastmodified":1559684700,
     "wof:name":"AS752 (HNL-SFO)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

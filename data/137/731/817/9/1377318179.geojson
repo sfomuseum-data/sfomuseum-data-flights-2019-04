@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-PDX-SFO-BA-7542",
     "sfomuseum:flight_number":"BA7542",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -71,7 +72,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1554307347,
+    "wof:lastmodified":1559683798,
     "wof:name":"BA7542 (PDX-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

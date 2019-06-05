@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-CUN-SFO-UA-1118",
     "sfomuseum:flight_number":"UA1118",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -67,7 +68,7 @@
         1159285413,
         1159157777
     ],
-    "wof:lastmodified":1554307348,
+    "wof:lastmodified":1559683801,
     "wof:name":"UA1118 (CUN-SFO)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

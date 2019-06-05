@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-EUG-SFO-UA-5872",
     "sfomuseum:flight_number":"UA5872",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -67,7 +68,7 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1554652949,
+    "wof:lastmodified":1559685244,
     "wof:name":"UA5872 (EUG-SFO)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PDX-AS-333",
     "sfomuseum:flight_number":"AS333",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -69,7 +70,7 @@
         1159283813,
         1159157703
     ],
-    "wof:lastmodified":1554480175,
+    "wof:lastmodified":1559684772,
     "wof:name":"AS333 (SFO-PDX)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

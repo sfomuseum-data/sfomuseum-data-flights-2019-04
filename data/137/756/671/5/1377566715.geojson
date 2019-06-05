@@ -36,6 +36,7 @@
         "UAL9728"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -76,7 +77,7 @@
         1159157827,
         1159286475
     ],
-    "wof:lastmodified":1556640224,
+    "wof:lastmodified":1559684939,
     "wof:name":"UA9728 (ZRH-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-JFK-AS-1024",
     "sfomuseum:flight_number":"AS1024",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -69,7 +70,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1554825760,
+    "wof:lastmodified":1559683589,
     "wof:name":"AS1024 (SFO-JFK)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

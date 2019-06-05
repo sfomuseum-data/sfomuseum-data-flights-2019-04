@@ -36,6 +36,7 @@
         "CPA7967"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -76,7 +77,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1556381019,
+    "wof:lastmodified":1559683165,
     "wof:name":"CX7967 (IAD-SFO)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-IAD-FJ-5850",
     "sfomuseum:flight_number":"FJ5850",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -73,7 +74,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1554912206,
+    "wof:lastmodified":1559682971,
     "wof:name":"FJ5850 (SFO-IAD)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

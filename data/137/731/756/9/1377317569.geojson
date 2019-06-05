@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-TPE-AV-4508",
     "sfomuseum:flight_number":"AV4508",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -73,7 +74,7 @@
         1159157633,
         1159284349
     ],
-    "wof:lastmodified":1554221035,
+    "wof:lastmodified":1559683832,
     "wof:name":"AV4508 (SFO-TPE)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

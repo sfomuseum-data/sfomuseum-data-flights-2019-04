@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-LAX-KE-7236",
     "sfomuseum:flight_number":"KE7236",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157711,
@@ -73,7 +74,7 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1554307396,
+    "wof:lastmodified":1559685144,
     "wof:name":"KE7236 (SFO-LAX)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",

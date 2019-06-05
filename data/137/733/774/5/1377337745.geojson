@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-RDU-QF-3736",
     "sfomuseum:flight_number":"QF3736",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554480185,
+    "wof:lastmodified":1559684840,
     "wof:name":"QF3736 (SFO-RDU)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

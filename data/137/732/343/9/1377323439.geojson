@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SLC-AM-4326",
     "sfomuseum:flight_number":"AM4326",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -73,7 +74,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1554307395,
+    "wof:lastmodified":1559685201,
     "wof:name":"AM4326 (SFO-SLC)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

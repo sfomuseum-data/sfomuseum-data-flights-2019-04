@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-PSP-UA-5338",
     "sfomuseum:flight_number":"UA5338",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -69,7 +70,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554566576,
+    "wof:lastmodified":1559684686,
     "wof:name":"UA5338 (SFO-PSP)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

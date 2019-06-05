@@ -38,6 +38,7 @@
         "ANZ9163"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -78,7 +79,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1556467565,
+    "wof:lastmodified":1559682840,
     "wof:name":"NZ9163 (SFO-IAD)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-AUS-SFO-UA-5498",
     "sfomuseum:flight_number":"UA5498",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157729,
@@ -67,7 +68,7 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1554652941,
+    "wof:lastmodified":1559684629,
     "wof:name":"UA5498 (AUS-SFO)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",

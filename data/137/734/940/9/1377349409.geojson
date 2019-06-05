@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-LAS-SFO-WN-4003",
     "sfomuseum:flight_number":"WN4003",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -67,7 +68,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554652944,
+    "wof:lastmodified":1559684646,
     "wof:name":"WN4003 (LAS-SFO)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

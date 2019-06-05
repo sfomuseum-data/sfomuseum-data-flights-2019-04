@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-SEA-DL-5804",
     "sfomuseum:flight_number":"DL5804",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -69,7 +70,7 @@
         1159284261,
         1159157857
     ],
-    "wof:lastmodified":1554221031,
+    "wof:lastmodified":1559683834,
     "wof:name":"DL5804 (SFO-SEA)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

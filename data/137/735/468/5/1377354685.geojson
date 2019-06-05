@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LAX-AS-928",
     "sfomuseum:flight_number":"AS928",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554652999,
+    "wof:lastmodified":1559685285,
     "wof:name":"AS928 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

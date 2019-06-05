@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-HND-SFO-UA-876",
     "sfomuseum:flight_number":"UA876",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -67,7 +68,7 @@
         1159285413,
         1159157677
     ],
-    "wof:lastmodified":1554393755,
+    "wof:lastmodified":1559685110,
     "wof:name":"UA876 (HND-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

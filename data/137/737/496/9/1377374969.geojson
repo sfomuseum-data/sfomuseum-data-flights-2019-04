@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-FAT-NZ-9217",
     "sfomuseum:flight_number":"NZ9217",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -73,7 +74,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1554912171,
+    "wof:lastmodified":1559682906,
     "wof:name":"NZ9217 (SFO-FAT)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

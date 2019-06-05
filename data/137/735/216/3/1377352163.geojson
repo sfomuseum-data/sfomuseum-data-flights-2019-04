@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-GDL-AM-663",
     "sfomuseum:flight_number":"AM663",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157667,
@@ -69,7 +70,7 @@
         1159283539,
         1159157667
     ],
-    "wof:lastmodified":1554652955,
+    "wof:lastmodified":1559685215,
     "wof:name":"AM663 (SFO-GDL)",
     "wof:parent_id":1159157667,
     "wof:placetype":"event",

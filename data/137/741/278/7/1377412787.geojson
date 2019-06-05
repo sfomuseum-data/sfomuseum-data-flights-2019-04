@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-BUR-UA-1885",
     "sfomuseum:flight_number":"UA1885",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -69,7 +70,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1555017618,
+    "wof:lastmodified":1559684539,
     "wof:name":"UA1885 (SFO-BUR)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

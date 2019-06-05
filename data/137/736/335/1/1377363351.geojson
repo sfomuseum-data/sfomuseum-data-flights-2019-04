@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-EWR-SFO-SK-6884",
     "sfomuseum:flight_number":"SK6884",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -71,7 +72,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554825745,
+    "wof:lastmodified":1559683660,
     "wof:name":"SK6884 (EWR-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAX-SQ-1336",
     "sfomuseum:flight_number":"SQ1336",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159285163,
         1159283813
     ],
-    "wof:lastmodified":1554739441,
+    "wof:lastmodified":1559683744,
     "wof:name":"SQ1336 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-TUS-SFO-LH-9293",
     "sfomuseum:flight_number":"LH9293",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -71,7 +72,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1554480157,
+    "wof:lastmodified":1559684773,
     "wof:name":"LH9293 (TUS-SFO)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

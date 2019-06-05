@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-CAN-CZ-660",
     "sfomuseum:flight_number":"CZ660",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -69,7 +70,7 @@
         1159284165,
         1159157717
     ],
-    "wof:lastmodified":1554480186,
+    "wof:lastmodified":1559684833,
     "wof:name":"CZ660 (SFO-CAN)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

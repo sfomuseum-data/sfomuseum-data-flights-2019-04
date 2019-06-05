@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-KOA-FJ-5820",
     "sfomuseum:flight_number":"FJ5820",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -73,7 +74,7 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1554393797,
+    "wof:lastmodified":1559684800,
     "wof:name":"FJ5820 (SFO-KOA)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

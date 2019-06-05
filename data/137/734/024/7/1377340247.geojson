@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SAN-AC-5040",
     "sfomuseum:flight_number":"AC5040",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -73,7 +74,7 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1554480230,
+    "wof:lastmodified":1559684614,
     "wof:name":"AC5040 (SFO-SAN)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

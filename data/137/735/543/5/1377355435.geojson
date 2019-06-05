@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LIH-UA-1684",
     "sfomuseum:flight_number":"UA1684",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -69,7 +70,7 @@
         1159285413,
         1159157771
     ],
-    "wof:lastmodified":1554653012,
+    "wof:lastmodified":1559685245,
     "wof:name":"UA1684 (SFO-LIH)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

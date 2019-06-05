@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-MIA-LA-6902",
     "sfomuseum:flight_number":"LA6902",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -73,7 +74,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554220976,
+    "wof:lastmodified":1559683857,
     "wof:name":"LA6902 (SFO-MIA)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

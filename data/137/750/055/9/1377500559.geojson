@@ -38,6 +38,7 @@
         "ANA7071"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -78,7 +79,7 @@
         1159157687,
         1159285413
     ],
-    "wof:lastmodified":1555862644,
+    "wof:lastmodified":1559685339,
     "wof:name":"NH7071 (SFO-KIX)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

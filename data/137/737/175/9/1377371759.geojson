@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-PHX-SFO-WN-1991",
     "sfomuseum:flight_number":"WN1991",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157811,
@@ -67,7 +68,7 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1554912155,
+    "wof:lastmodified":1559682915,
     "wof:name":"WN1991 (PHX-SFO)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LAX-AS-1890",
     "sfomuseum:flight_number":"AS1890",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554221034,
+    "wof:lastmodified":1559683833,
     "wof:name":"AS1890 (SFO-LAX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

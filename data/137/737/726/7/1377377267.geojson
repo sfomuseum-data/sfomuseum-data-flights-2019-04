@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-SAN-WN-1541",
     "sfomuseum:flight_number":"WN1541",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157813,
@@ -69,7 +70,7 @@
         1159285591,
         1159157813
     ],
-    "wof:lastmodified":1554912212,
+    "wof:lastmodified":1559682985,
     "wof:name":"WN1541 (SFO-SAN)",
     "wof:parent_id":1159157813,
     "wof:placetype":"event",

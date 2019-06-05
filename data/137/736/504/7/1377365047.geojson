@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-BOI-SFO-UA-5543",
     "sfomuseum:flight_number":"UA5543",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -67,7 +68,7 @@
         1159285413,
         1159157725
     ],
-    "wof:lastmodified":1554825751,
+    "wof:lastmodified":1559683500,
     "wof:name":"UA5543 (BOI-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

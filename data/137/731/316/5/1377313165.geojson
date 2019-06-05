@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-FAT-SFO-LH-9047",
     "sfomuseum:flight_number":"LH9047",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -71,7 +72,7 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1554220966,
+    "wof:lastmodified":1559683867,
     "wof:name":"LH9047 (FAT-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

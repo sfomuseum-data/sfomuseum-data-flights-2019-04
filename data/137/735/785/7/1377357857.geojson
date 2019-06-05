@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-EWR-SFO-SK-6798",
     "sfomuseum:flight_number":"SK6798",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -71,7 +72,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554739377,
+    "wof:lastmodified":1559685245,
     "wof:name":"SK6798 (EWR-SFO)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

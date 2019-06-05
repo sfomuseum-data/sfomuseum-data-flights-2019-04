@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-AUS-UA-2313",
     "sfomuseum:flight_number":"UA2313",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -69,7 +70,7 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1554825773,
+    "wof:lastmodified":1559683753,
     "wof:name":"UA2313 (SFO-AUS)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

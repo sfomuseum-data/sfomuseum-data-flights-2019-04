@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-AMS-DL-9345",
     "sfomuseum:flight_number":"DL9345",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -73,7 +74,7 @@
         1159157635,
         1159284613
     ],
-    "wof:lastmodified":1554739414,
+    "wof:lastmodified":1559683652,
     "wof:name":"DL9345 (SFO-AMS)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

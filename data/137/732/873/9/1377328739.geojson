@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-LAX-SFO-CI-9869",
     "sfomuseum:flight_number":"CI9869",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157747,
@@ -71,7 +72,7 @@
         1159157747,
         1159284261
     ],
-    "wof:lastmodified":1554393756,
+    "wof:lastmodified":1559685105,
     "wof:name":"CI9869 (LAX-SFO)",
     "wof:parent_id":1159157747,
     "wof:placetype":"event",

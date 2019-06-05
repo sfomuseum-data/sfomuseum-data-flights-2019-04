@@ -38,6 +38,7 @@
         "ANA7312"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -78,7 +79,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1556294678,
+    "wof:lastmodified":1559683055,
     "wof:name":"NH7312 (SFO-PDX)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

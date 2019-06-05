@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-IAD-SFO-UA-424",
     "sfomuseum:flight_number":"UA424",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -67,7 +68,7 @@
         1159285413,
         1159157665
     ],
-    "wof:lastmodified":1554480164,
+    "wof:lastmodified":1559684808,
     "wof:name":"UA424 (IAD-SFO)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

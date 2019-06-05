@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-IAH-UA-540",
     "sfomuseum:flight_number":"UA540",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -69,7 +70,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1555017591,
+    "wof:lastmodified":1559684525,
     "wof:name":"UA540 (SFO-IAH)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

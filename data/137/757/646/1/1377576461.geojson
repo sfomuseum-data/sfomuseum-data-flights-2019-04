@@ -38,6 +38,7 @@
         "AFR5758"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -78,7 +79,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1556726648,
+    "wof:lastmodified":1559685497,
     "wof:name":"AF5758 (SFO-ATL)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

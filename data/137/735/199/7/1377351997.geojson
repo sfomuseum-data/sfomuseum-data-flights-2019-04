@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-06-ONT-SFO-CM-2531",
     "sfomuseum:flight_number":"CM2531",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -71,7 +72,7 @@
         1159157739,
         1159285413
     ],
-    "wof:lastmodified":1554652952,
+    "wof:lastmodified":1559685261,
     "wof:name":"CM2531 (ONT-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

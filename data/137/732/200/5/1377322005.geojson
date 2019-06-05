@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-DFW-BA-6630",
     "sfomuseum:flight_number":"BA6630",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157755,
@@ -73,7 +74,7 @@
         1159157755,
         1159283849
     ],
-    "wof:lastmodified":1554307369,
+    "wof:lastmodified":1559685174,
     "wof:name":"BA6630 (SFO-DFW)",
     "wof:parent_id":1159157755,
     "wof:placetype":"event",

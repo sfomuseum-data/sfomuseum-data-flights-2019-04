@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-SEA-SFO-AS-300",
     "sfomuseum:flight_number":"AS300",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -67,7 +68,7 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1554566565,
+    "wof:lastmodified":1559684661,
     "wof:name":"AS300 (SEA-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

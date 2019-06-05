@@ -38,6 +38,7 @@
         "BAW7543"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -78,7 +79,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1556208239,
+    "wof:lastmodified":1559683419,
     "wof:name":"BA7543 (SFO-PDX)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

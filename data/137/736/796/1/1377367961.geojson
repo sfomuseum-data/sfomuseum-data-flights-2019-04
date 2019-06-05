@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-PHL-AA-2821",
     "sfomuseum:flight_number":"AA2821",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -69,7 +70,7 @@
         1159283849,
         1159157797
     ],
-    "wof:lastmodified":1554825774,
+    "wof:lastmodified":1559683496,
     "wof:name":"AA2821 (SFO-PHL)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

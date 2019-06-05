@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-MSN-SFO-UA-264",
     "sfomuseum:flight_number":"UA264",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -67,7 +68,7 @@
         1159285413,
         1159157647
     ],
-    "wof:lastmodified":1554912154,
+    "wof:lastmodified":1559682932,
     "wof:name":"UA264 (MSN-SFO)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

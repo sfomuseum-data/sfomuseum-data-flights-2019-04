@@ -33,6 +33,7 @@
         "UAL5856"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157689,
@@ -72,7 +73,7 @@
         1159285413,
         1159157689
     ],
-    "wof:lastmodified":1555171380,
+    "wof:lastmodified":1559685917,
     "wof:name":"UA5856 (TUS-SFO)",
     "wof:parent_id":1159157689,
     "wof:placetype":"event",

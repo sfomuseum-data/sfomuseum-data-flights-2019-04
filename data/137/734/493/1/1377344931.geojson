@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-OGG-UA-1273",
     "sfomuseum:flight_number":"UA1273",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -69,7 +70,7 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1554566576,
+    "wof:lastmodified":1559684686,
     "wof:name":"UA1273 (SFO-OGG)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

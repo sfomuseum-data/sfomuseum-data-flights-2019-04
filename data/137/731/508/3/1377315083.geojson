@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-RNO-UA-2376",
     "sfomuseum:flight_number":"UA2376",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -69,7 +70,7 @@
         1159285413,
         1159157659
     ],
-    "wof:lastmodified":1554220990,
+    "wof:lastmodified":1559683828,
     "wof:name":"UA2376 (SFO-RNO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

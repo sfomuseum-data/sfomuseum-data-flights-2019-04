@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-MNL-SFO-PR-114",
     "sfomuseum:flight_number":"PR114",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157627,
@@ -67,7 +68,7 @@
         1159285661,
         1159157627
     ],
-    "wof:lastmodified":1554393754,
+    "wof:lastmodified":1559685174,
     "wof:name":"PR114 (MNL-SFO)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",

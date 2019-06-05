@@ -35,6 +35,7 @@
         "SWA4393"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157809,
@@ -74,7 +75,7 @@
         1159285591,
         1159157809
     ],
-    "wof:lastmodified":1555949017,
+    "wof:lastmodified":1559685355,
     "wof:name":"WN4393 (SFO-MDW)",
     "wof:parent_id":1159157809,
     "wof:placetype":"event",

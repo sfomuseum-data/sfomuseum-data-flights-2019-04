@@ -35,6 +35,7 @@
         "SWA562"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157859,
@@ -74,7 +75,7 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1556208267,
+    "wof:lastmodified":1559683340,
     "wof:name":"WN562 (SFO-DAL)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ORD-UA-1900",
     "sfomuseum:flight_number":"UA1900",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -69,7 +70,7 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1554825798,
+    "wof:lastmodified":1559683767,
     "wof:name":"UA1900 (SFO-ORD)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

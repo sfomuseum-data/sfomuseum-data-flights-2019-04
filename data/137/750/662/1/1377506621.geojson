@@ -38,6 +38,7 @@
         "ANZ9697"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -78,7 +79,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1555949038,
+    "wof:lastmodified":1559685390,
     "wof:name":"NZ9697 (SFO-SMF)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

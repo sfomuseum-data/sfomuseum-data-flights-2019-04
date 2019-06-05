@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-PDX-SFO-EK-3056",
     "sfomuseum:flight_number":"EK3056",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -71,7 +72,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1555017560,
+    "wof:lastmodified":1559683899,
     "wof:name":"EK3056 (PDX-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

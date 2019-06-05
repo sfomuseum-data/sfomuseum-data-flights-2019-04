@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-IAD-SA-7405",
     "sfomuseum:flight_number":"SA7405",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -73,7 +74,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554220981,
+    "wof:lastmodified":1559683852,
     "wof:name":"SA7405 (SFO-IAD)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

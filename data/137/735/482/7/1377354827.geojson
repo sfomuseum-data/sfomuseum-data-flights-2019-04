@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SAN-LH-9372",
     "sfomuseum:flight_number":"LH9372",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -73,7 +74,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1554653002,
+    "wof:lastmodified":1559685217,
     "wof:name":"LH9372 (SFO-SAN)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

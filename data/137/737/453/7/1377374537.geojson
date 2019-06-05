@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-TUS-SFO-UA-5595",
     "sfomuseum:flight_number":"UA5595",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -67,7 +68,7 @@
         1159285413,
         1159157693
     ],
-    "wof:lastmodified":1554912164,
+    "wof:lastmodified":1559682904,
     "wof:name":"UA5595 (TUS-SFO)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

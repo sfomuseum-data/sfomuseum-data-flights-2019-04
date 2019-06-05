@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-BOS-SFO-QF-3671",
     "sfomuseum:flight_number":"QF3671",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1554220966,
+    "wof:lastmodified":1559683778,
     "wof:name":"QF3671 (BOS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

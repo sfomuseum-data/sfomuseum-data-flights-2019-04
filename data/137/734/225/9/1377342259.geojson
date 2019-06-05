@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-05-SLC-SFO-UA-5800",
     "sfomuseum:flight_number":"UA5800",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157725,
@@ -67,7 +68,7 @@
         1159285413,
         1159157725
     ],
-    "wof:lastmodified":1554566559,
+    "wof:lastmodified":1559684680,
     "wof:name":"UA5800 (SLC-SFO)",
     "wof:parent_id":1159157725,
     "wof:placetype":"event",

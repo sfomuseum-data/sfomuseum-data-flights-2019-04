@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-IAD-NZ-9163",
     "sfomuseum:flight_number":"NZ9163",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554825760,
+    "wof:lastmodified":1559683589,
     "wof:name":"NZ9163 (SFO-IAD)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

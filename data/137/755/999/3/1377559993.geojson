@@ -33,6 +33,7 @@
         "ANZ8"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157685,
@@ -72,7 +73,7 @@
         1159283697,
         1159157685
     ],
-    "wof:lastmodified":1556553827,
+    "wof:lastmodified":1559682769,
     "wof:name":"NZ8 (AKL-SFO)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",

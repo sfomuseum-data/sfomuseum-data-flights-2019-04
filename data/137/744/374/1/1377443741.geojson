@@ -35,6 +35,7 @@
         "UAL1971"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -74,7 +75,7 @@
         1159285413,
         1159157657
     ],
-    "wof:lastmodified":1555344225,
+    "wof:lastmodified":1559685695,
     "wof:name":"UA1971 (SFO-IAD)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

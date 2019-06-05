@@ -33,6 +33,7 @@
         "ASA2316"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -72,7 +73,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1555689791,
+    "wof:lastmodified":1559683910,
     "wof:name":"AS2316 (PDX-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

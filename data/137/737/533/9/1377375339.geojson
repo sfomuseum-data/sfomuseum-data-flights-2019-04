@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-PVR-AC-5310",
     "sfomuseum:flight_number":"AC5310",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554912178,
+    "wof:lastmodified":1559682872,
     "wof:name":"AC5310 (SFO-PVR)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "CMP1884"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -78,7 +79,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1556553866,
+    "wof:lastmodified":1559684955,
     "wof:name":"CM1884 (SFO-LAS)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-SNA-SFO-SQ-1295",
     "sfomuseum:flight_number":"SQ1295",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285163,
         1159283813
     ],
-    "wof:lastmodified":1554912158,
+    "wof:lastmodified":1559682890,
     "wof:name":"SQ1295 (SNA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

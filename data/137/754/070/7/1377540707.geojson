@@ -38,6 +38,7 @@
         "VIR4531"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -78,7 +79,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1556294681,
+    "wof:lastmodified":1559683038,
     "wof:name":"VS4531 (SFO-SLC)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

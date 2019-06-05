@@ -36,6 +36,7 @@
         "FJI5801"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -76,7 +77,7 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1556726633,
+    "wof:lastmodified":1559685483,
     "wof:name":"FJ5801 (BNA-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

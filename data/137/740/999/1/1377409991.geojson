@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-AUS-SFO-OZ-6404",
     "sfomuseum:flight_number":"OZ6404",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157749,
@@ -71,7 +72,7 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1555017568,
+    "wof:lastmodified":1559683879,
     "wof:name":"OZ6404 (AUS-SFO)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",

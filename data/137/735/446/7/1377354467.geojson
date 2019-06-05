@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-FRA-UA-926",
     "sfomuseum:flight_number":"UA926",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -69,7 +70,7 @@
         1159285413,
         1159157683
     ],
-    "wof:lastmodified":1554652995,
+    "wof:lastmodified":1559685223,
     "wof:name":"UA926 (SFO-FRA)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

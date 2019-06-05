@@ -38,6 +38,7 @@
         "DLH7936"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -78,7 +79,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1556726682,
+    "wof:lastmodified":1559685508,
     "wof:name":"LH7936 (SFO-OGG)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

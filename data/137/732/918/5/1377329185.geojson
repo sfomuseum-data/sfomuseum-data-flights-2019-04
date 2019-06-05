@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-JFK-AZ-3280",
     "sfomuseum:flight_number":"AZ3280",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -73,7 +74,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1554393759,
+    "wof:lastmodified":1559685190,
     "wof:name":"AZ3280 (SFO-JFK)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

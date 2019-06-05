@@ -33,6 +33,7 @@
         "JBU633"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102530741,
         1360700745
     ],
-    "wof:lastmodified":1555949003,
+    "wof:lastmodified":1559685390,
     "wof:name":"B6633 (BOS-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "JAL7544"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157651,
@@ -78,7 +79,7 @@
         1159157651,
         1159283849
     ],
-    "wof:lastmodified":1556553880,
+    "wof:lastmodified":1559684900,
     "wof:name":"JL7544 (SFO-JFK)",
     "wof:parent_id":1159157651,
     "wof:placetype":"event",

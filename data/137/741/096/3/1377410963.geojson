@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-RNO-AC-4370",
     "sfomuseum:flight_number":"AC4370",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -73,7 +74,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1555017585,
+    "wof:lastmodified":1559684454,
     "wof:name":"AC4370 (SFO-RNO)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

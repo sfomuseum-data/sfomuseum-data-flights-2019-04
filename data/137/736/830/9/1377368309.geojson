@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-LAX-DL-2783",
     "sfomuseum:flight_number":"DL2783",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -69,7 +70,7 @@
         1159284261,
         1159157661
     ],
-    "wof:lastmodified":1554825781,
+    "wof:lastmodified":1559683740,
     "wof:name":"DL2783 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

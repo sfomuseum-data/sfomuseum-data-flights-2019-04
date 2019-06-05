@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-DTW-SFO-UA-1891",
     "sfomuseum:flight_number":"UA1891",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -67,7 +68,7 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1554825750,
+    "wof:lastmodified":1559683519,
     "wof:name":"UA1891 (DTW-SFO)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

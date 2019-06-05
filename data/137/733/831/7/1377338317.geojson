@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-TUS-AC-4154",
     "sfomuseum:flight_number":"AC4154",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -73,7 +74,7 @@
         1159157855,
         1159285413
     ],
-    "wof:lastmodified":1554480196,
+    "wof:lastmodified":1559684818,
     "wof:name":"AC4154 (SFO-TUS)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

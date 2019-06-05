@@ -36,6 +36,7 @@
         "VIR3214"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157803,
@@ -76,7 +77,7 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1556553826,
+    "wof:lastmodified":1559682767,
     "wof:name":"VS3214 (SEA-SFO)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",

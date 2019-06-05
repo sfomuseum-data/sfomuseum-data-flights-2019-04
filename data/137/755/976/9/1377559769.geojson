@@ -33,6 +33,7 @@
         "UAL5945"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -72,7 +73,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1556553826,
+    "wof:lastmodified":1559682809,
     "wof:name":"UA5945 (TUS-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

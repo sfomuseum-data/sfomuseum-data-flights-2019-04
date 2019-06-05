@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ORD-AC-5370",
     "sfomuseum:flight_number":"AC5370",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157861,
@@ -73,7 +74,7 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1554825775,
+    "wof:lastmodified":1559683473,
     "wof:name":"AC5370 (SFO-ORD)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",

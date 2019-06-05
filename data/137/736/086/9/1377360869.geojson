@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-CLE-UA-2262",
     "sfomuseum:flight_number":"UA2262",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -69,7 +70,7 @@
         1159285413,
         1159157751
     ],
-    "wof:lastmodified":1554739410,
+    "wof:lastmodified":1559683705,
     "wof:name":"UA2262 (SFO-CLE)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

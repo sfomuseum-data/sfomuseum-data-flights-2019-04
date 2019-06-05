@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-NRT-NH-7",
     "sfomuseum:flight_number":"NH7",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -69,7 +70,7 @@
         1159283875,
         1159157827
     ],
-    "wof:lastmodified":1554480229,
+    "wof:lastmodified":1559684675,
     "wof:name":"NH7 (SFO-NRT)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

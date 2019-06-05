@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-08-KOA-SFO-UA-1092",
     "sfomuseum:flight_number":"UA1092",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -67,7 +68,7 @@
         1159285413,
         1159157765
     ],
-    "wof:lastmodified":1554825746,
+    "wof:lastmodified":1559683607,
     "wof:name":"UA1092 (KOA-SFO)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

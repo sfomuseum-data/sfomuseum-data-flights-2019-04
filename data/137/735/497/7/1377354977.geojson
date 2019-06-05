@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SAN-NZ-9584",
     "sfomuseum:flight_number":"NZ9584",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -73,7 +74,7 @@
         1159157759,
         1159285413
     ],
-    "wof:lastmodified":1554653004,
+    "wof:lastmodified":1559685231,
     "wof:name":"NZ9584 (SFO-SAN)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

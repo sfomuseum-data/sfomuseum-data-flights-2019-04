@@ -38,6 +38,7 @@
         "CCA7323"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -78,7 +79,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1555257825,
+    "wof:lastmodified":1559685780,
     "wof:name":"CA7323 (SFO-LAX)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

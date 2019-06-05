@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-LGB-SFO-HA-2354",
     "sfomuseum:flight_number":"HA2354",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -71,7 +72,7 @@
         1159157605,
         1360700745
     ],
-    "wof:lastmodified":1554220961,
+    "wof:lastmodified":1559683830,
     "wof:name":"HA2354 (LGB-SFO)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

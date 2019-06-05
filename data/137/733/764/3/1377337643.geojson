@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LAX-LA-5139",
     "sfomuseum:flight_number":"LA5139",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -73,7 +74,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1554480184,
+    "wof:lastmodified":1559684719,
     "wof:name":"LA5139 (SFO-LAX)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

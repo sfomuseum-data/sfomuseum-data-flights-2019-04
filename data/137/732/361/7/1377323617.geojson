@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-MEX-VS-7522",
     "sfomuseum:flight_number":"VS7522",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157667,
@@ -73,7 +74,7 @@
         1159157667,
         1159283539
     ],
-    "wof:lastmodified":1554307398,
+    "wof:lastmodified":1559685141,
     "wof:name":"VS7522 (SFO-MEX)",
     "wof:parent_id":1159157667,
     "wof:placetype":"event",

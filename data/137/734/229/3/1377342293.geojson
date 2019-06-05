@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-PDX-SFO-SQ-1399",
     "sfomuseum:flight_number":"SQ1399",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157649,
@@ -71,7 +72,7 @@
         1159157649,
         1159283813
     ],
-    "wof:lastmodified":1554566559,
+    "wof:lastmodified":1559684614,
     "wof:name":"SQ1399 (PDX-SFO)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",

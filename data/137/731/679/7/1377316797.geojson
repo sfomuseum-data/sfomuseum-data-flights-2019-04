@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-KOA-UA-1721",
     "sfomuseum:flight_number":"UA1721",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -69,7 +70,7 @@
         1159285413,
         1159157771
     ],
-    "wof:lastmodified":1554221021,
+    "wof:lastmodified":1559683850,
     "wof:name":"UA1721 (SFO-KOA)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

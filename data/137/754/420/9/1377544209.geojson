@@ -36,6 +36,7 @@
         "THA6747"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -76,7 +77,7 @@
         1159157777,
         1159283917
     ],
-    "wof:lastmodified":1556381026,
+    "wof:lastmodified":1559683153,
     "wof:name":"TG6747 (ICN-SFO)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

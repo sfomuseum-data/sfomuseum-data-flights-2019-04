@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LAS-SQ-1396",
     "sfomuseum:flight_number":"SQ1396",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -73,7 +74,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1554653009,
+    "wof:lastmodified":1559685302,
     "wof:name":"SQ1396 (SFO-LAS)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

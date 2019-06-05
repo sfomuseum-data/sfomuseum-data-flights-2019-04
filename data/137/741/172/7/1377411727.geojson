@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAS-CX-7934",
     "sfomuseum:flight_number":"CX7934",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284127,
         1159283813
     ],
-    "wof:lastmodified":1555017599,
+    "wof:lastmodified":1559684492,
     "wof:name":"CX7934 (SFO-LAS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

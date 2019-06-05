@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-YVR-SQ-1007",
     "sfomuseum:flight_number":"SQ1007",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -73,7 +74,7 @@
         1159157621,
         1159283597
     ],
-    "wof:lastmodified":1554220999,
+    "wof:lastmodified":1559683786,
     "wof:name":"SQ1007 (SFO-YVR)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

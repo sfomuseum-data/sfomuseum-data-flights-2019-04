@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-ORD-BA-1917",
     "sfomuseum:flight_number":"BA1917",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -73,7 +74,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554912222,
+    "wof:lastmodified":1559682913,
     "wof:name":"BA1917 (SFO-ORD)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

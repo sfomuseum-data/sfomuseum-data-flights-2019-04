@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-EWR-SFO-UA-1978",
     "sfomuseum:flight_number":"UA1978",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157665,
@@ -67,7 +68,7 @@
         1159285413,
         1159157665
     ],
-    "wof:lastmodified":1554393752,
+    "wof:lastmodified":1559685133,
     "wof:name":"UA1978 (EWR-SFO)",
     "wof:parent_id":1159157665,
     "wof:placetype":"event",

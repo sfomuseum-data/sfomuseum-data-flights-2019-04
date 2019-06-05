@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-ORD-SFO-SQ-1312",
     "sfomuseum:flight_number":"SQ1312",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -71,7 +72,7 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1554480154,
+    "wof:lastmodified":1559684730,
     "wof:name":"SQ1312 (ORD-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

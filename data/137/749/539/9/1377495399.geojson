@@ -33,6 +33,7 @@
         "ASA3377"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102534161,
         1159283813
     ],
-    "wof:lastmodified":1555862590,
+    "wof:lastmodified":1559683993,
     "wof:name":"AS3377 (SNA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-02-DEN-SFO-WN-1356",
     "sfomuseum:flight_number":"WN1356",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -67,7 +68,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554307357,
+    "wof:lastmodified":1559685133,
     "wof:name":"WN1356 (DEN-SFO)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

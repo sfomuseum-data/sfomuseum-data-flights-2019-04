@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SLC-CM-2333",
     "sfomuseum:flight_number":"CM2333",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -73,7 +74,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1554566604,
+    "wof:lastmodified":1559684680,
     "wof:name":"CM2333 (SFO-SLC)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

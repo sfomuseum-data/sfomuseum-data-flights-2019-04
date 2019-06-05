@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-LAX-AM-5683",
     "sfomuseum:flight_number":"AM5683",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157753,
@@ -73,7 +74,7 @@
         1159157753,
         1159284261
     ],
-    "wof:lastmodified":1554739445,
+    "wof:lastmodified":1559683709,
     "wof:name":"AM5683 (SFO-LAX)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",

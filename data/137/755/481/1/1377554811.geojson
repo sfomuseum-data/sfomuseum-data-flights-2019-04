@@ -38,6 +38,7 @@
         "BEL9590"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159285101,
         1159283597
     ],
-    "wof:lastmodified":1556467569,
+    "wof:lastmodified":1559682832,
     "wof:name":"SN9590 (SFO-YUL)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

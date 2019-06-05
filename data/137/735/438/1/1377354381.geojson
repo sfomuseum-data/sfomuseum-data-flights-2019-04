@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SEA-KE-3104",
     "sfomuseum:flight_number":"KE3104",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157743,
@@ -73,7 +74,7 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1554652994,
+    "wof:lastmodified":1559685236,
     "wof:name":"KE3104 (SFO-SEA)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",

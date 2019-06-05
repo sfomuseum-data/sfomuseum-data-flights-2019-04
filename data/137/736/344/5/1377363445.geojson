@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-HNL-SFO-B6-5812",
     "sfomuseum:flight_number":"B65812",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -71,7 +72,7 @@
         1159157621,
         1159284489
     ],
-    "wof:lastmodified":1554825746,
+    "wof:lastmodified":1559683775,
     "wof:name":"B65812 (HNL-SFO)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

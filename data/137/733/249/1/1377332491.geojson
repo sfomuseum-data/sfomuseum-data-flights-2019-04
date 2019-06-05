@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PHX-AC-4513",
     "sfomuseum:flight_number":"AC4513",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157767,
@@ -73,7 +74,7 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1554393818,
+    "wof:lastmodified":1559684810,
     "wof:name":"AC4513 (SFO-PHX)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",

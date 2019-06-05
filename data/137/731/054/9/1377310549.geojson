@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-SLC-SFO-DL-2796",
     "sfomuseum:flight_number":"DL2796",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -67,7 +68,7 @@
         1159284261,
         1159157857
     ],
-    "wof:lastmodified":1554220957,
+    "wof:lastmodified":1559683804,
     "wof:name":"DL2796 (SLC-SFO)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

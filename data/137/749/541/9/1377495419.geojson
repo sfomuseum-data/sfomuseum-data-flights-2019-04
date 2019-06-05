@@ -36,6 +36,7 @@
         "SIA1321"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -76,7 +77,7 @@
         1159157839,
         1159283813
     ],
-    "wof:lastmodified":1555862590,
+    "wof:lastmodified":1559684043,
     "wof:name":"SQ1321 (SEA-SFO)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

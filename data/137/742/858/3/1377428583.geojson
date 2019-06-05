@@ -35,6 +35,7 @@
         "UAL649"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157757,
@@ -74,7 +75,7 @@
         1159285413,
         1159157757
     ],
-    "wof:lastmodified":1555171406,
+    "wof:lastmodified":1559685862,
     "wof:name":"UA649 (SFO-LAS)",
     "wof:parent_id":1159157757,
     "wof:placetype":"event",

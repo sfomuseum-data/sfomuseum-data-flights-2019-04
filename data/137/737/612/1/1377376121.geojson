@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-TUS-LH-9404",
     "sfomuseum:flight_number":"LH9404",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -73,7 +74,7 @@
         1159157739,
         1159285413
     ],
-    "wof:lastmodified":1554912192,
+    "wof:lastmodified":1559682950,
     "wof:name":"LH9404 (SFO-TUS)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PSP-AC-4212",
     "sfomuseum:flight_number":"AC4212",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -73,7 +74,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554480175,
+    "wof:lastmodified":1559684777,
     "wof:name":"AC4212 (SFO-PSP)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

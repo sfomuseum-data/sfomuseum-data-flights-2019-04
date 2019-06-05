@@ -33,6 +33,7 @@
         "UAL5655"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -72,7 +73,7 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1556121804,
+    "wof:lastmodified":1559685048,
     "wof:name":"UA5655 (BUR-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

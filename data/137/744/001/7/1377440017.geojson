@@ -33,6 +33,7 @@
         "JBU415"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -73,7 +74,7 @@
         102534365,
         1360700745
     ],
-    "wof:lastmodified":1555344190,
+    "wof:lastmodified":1559685592,
     "wof:name":"B6415 (JFK-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "QFA3743"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -77,7 +78,7 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1556208218,
+    "wof:lastmodified":1559682671,
     "wof:name":"QF3743 (SAN-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

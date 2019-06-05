@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-01-EWR-SFO-UA-1848",
     "sfomuseum:flight_number":"UA1848",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -67,7 +68,7 @@
         1159285413,
         1159157821
     ],
-    "wof:lastmodified":1554220965,
+    "wof:lastmodified":1559683787,
     "wof:name":"UA1848 (EWR-SFO)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-LAX-SFO-NZ-9272",
     "sfomuseum:flight_number":"NZ9272",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -71,7 +72,7 @@
         1159157783,
         1159285413
     ],
-    "wof:lastmodified":1555017557,
+    "wof:lastmodified":1559683883,
     "wof:name":"NZ9272 (LAX-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

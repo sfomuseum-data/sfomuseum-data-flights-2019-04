@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-DTW-SFO-VS-1751",
     "sfomuseum:flight_number":"VS1751",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -71,7 +72,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1554739370,
+    "wof:lastmodified":1559685204,
     "wof:name":"VS1751 (DTW-SFO)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-ATL-AF-3467",
     "sfomuseum:flight_number":"AF3467",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -73,7 +74,7 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1554220975,
+    "wof:lastmodified":1559683846,
     "wof:name":"AF3467 (SFO-ATL)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

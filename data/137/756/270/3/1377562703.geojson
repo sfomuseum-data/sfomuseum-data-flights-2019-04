@@ -38,6 +38,7 @@
         "CPA7926"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157701,
@@ -78,7 +79,7 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1556553868,
+    "wof:lastmodified":1559684933,
     "wof:name":"CX7926 (SFO-SAN)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",

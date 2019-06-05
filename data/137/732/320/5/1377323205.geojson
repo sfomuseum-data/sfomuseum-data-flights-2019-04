@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-RDD-UA-5753",
     "sfomuseum:flight_number":"UA5753",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157855,
@@ -69,7 +70,7 @@
         1159285413,
         1159157855
     ],
-    "wof:lastmodified":1554307391,
+    "wof:lastmodified":1559685188,
     "wof:name":"UA5753 (SFO-RDD)",
     "wof:parent_id":1159157855,
     "wof:placetype":"event",

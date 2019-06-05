@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-JFK-FI-7888",
     "sfomuseum:flight_number":"FI7888",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -73,7 +74,7 @@
         1159157605,
         1360700745
     ],
-    "wof:lastmodified":1555017577,
+    "wof:lastmodified":1559684436,
     "wof:name":"FI7888 (SFO-JFK)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

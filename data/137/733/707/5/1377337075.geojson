@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LAX-UA-215",
     "sfomuseum:flight_number":"UA215",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157675,
@@ -69,7 +70,7 @@
         1159285413,
         1159157675
     ],
-    "wof:lastmodified":1554480173,
+    "wof:lastmodified":1559684735,
     "wof:name":"UA215 (SFO-LAX)",
     "wof:parent_id":1159157675,
     "wof:placetype":"event",

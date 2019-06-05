@@ -36,6 +36,7 @@
         "CES4194"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157753,
@@ -76,7 +77,7 @@
         1159157753,
         1159284261
     ],
-    "wof:lastmodified":1555689797,
+    "wof:lastmodified":1559684118,
     "wof:name":"MU4194 (LAX-SFO)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",

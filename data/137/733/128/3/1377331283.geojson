@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-PHL-CZ-1645",
     "sfomuseum:flight_number":"CZ1645",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -73,7 +74,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1554393797,
+    "wof:lastmodified":1559684783,
     "wof:name":"CZ1645 (SFO-PHL)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

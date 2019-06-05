@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-FLL-SFO-B6-577",
     "sfomuseum:flight_number":"B6577",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157823,
@@ -67,7 +68,7 @@
         1360700745,
         1159157823
     ],
-    "wof:lastmodified":1555017559,
+    "wof:lastmodified":1559683885,
     "wof:name":"B6577 (FLL-SFO)",
     "wof:parent_id":1159157823,
     "wof:placetype":"event",

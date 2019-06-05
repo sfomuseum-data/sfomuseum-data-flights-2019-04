@@ -38,6 +38,7 @@
         "CCA7247"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -78,7 +79,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1555776227,
+    "wof:lastmodified":1559684006,
     "wof:name":"CA7247 (SFO-DFW)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

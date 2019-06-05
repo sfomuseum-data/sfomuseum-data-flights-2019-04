@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-LAS-LH-9212",
     "sfomuseum:flight_number":"LH9212",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -73,7 +74,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554566634,
+    "wof:lastmodified":1559684621,
     "wof:name":"LH9212 (SFO-LAS)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

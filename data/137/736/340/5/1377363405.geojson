@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-SAN-SFO-NH-7317",
     "sfomuseum:flight_number":"NH7317",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -71,7 +72,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1554825745,
+    "wof:lastmodified":1559683611,
     "wof:name":"NH7317 (SAN-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

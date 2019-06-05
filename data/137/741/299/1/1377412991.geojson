@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-BOS-AS-1352",
     "sfomuseum:flight_number":"AS1352",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157793,
@@ -69,7 +70,7 @@
         1159283813,
         1159157793
     ],
-    "wof:lastmodified":1555017621,
+    "wof:lastmodified":1559684575,
     "wof:name":"AS1352 (SFO-BOS)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",

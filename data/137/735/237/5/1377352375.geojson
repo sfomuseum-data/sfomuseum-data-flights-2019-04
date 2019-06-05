@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-LAS-AS-1908",
     "sfomuseum:flight_number":"AS1908",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -69,7 +70,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1554652958,
+    "wof:lastmodified":1559685286,
     "wof:name":"AS1908 (SFO-LAS)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

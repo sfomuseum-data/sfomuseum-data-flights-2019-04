@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-SAN-SFO-CM-2521",
     "sfomuseum:flight_number":"CM2521",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157847,
@@ -71,7 +72,7 @@
         1159157847,
         1159285413
     ],
-    "wof:lastmodified":1554912161,
+    "wof:lastmodified":1559682872,
     "wof:name":"CM2521 (SAN-SFO)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-LHR-BA-284",
     "sfomuseum:flight_number":"BA284",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157805,
@@ -69,7 +70,7 @@
         1159284021,
         1159157805
     ],
-    "wof:lastmodified":1554566600,
+    "wof:lastmodified":1559684618,
     "wof:name":"BA284 (SFO-LHR)",
     "wof:parent_id":1159157805,
     "wof:placetype":"event",

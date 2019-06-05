@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-04-LAS-SFO-UA-361",
     "sfomuseum:flight_number":"UA361",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -67,7 +68,7 @@
         1159285413,
         1159157653
     ],
-    "wof:lastmodified":1554480159,
+    "wof:lastmodified":1559684760,
     "wof:name":"UA361 (LAS-SFO)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

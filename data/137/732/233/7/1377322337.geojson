@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-MEX-DL-8001",
     "sfomuseum:flight_number":"DL8001",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157667,
@@ -73,7 +74,7 @@
         1159157667,
         1159283539
     ],
-    "wof:lastmodified":1554307375,
+    "wof:lastmodified":1559685125,
     "wof:name":"DL8001 (SFO-MEX)",
     "wof:parent_id":1159157667,
     "wof:placetype":"event",

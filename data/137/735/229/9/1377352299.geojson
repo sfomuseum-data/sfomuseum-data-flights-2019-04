@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-DEN-AC-5818",
     "sfomuseum:flight_number":"AC5818",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -73,7 +74,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1554652957,
+    "wof:lastmodified":1559685215,
     "wof:name":"AC5818 (SFO-DEN)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

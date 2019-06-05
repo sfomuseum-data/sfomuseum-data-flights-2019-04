@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-IAD-NZ-9166",
     "sfomuseum:flight_number":"NZ9166",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -73,7 +74,7 @@
         1159157621,
         1159285413
     ],
-    "wof:lastmodified":1554652985,
+    "wof:lastmodified":1559685246,
     "wof:name":"NZ9166 (SFO-IAD)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

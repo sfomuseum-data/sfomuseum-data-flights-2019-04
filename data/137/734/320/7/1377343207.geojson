@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-JFK-SFO-IB-4391",
     "sfomuseum:flight_number":"IB4391",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -71,7 +72,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1554566562,
+    "wof:lastmodified":1559684703,
     "wof:name":"IB4391 (JFK-SFO)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

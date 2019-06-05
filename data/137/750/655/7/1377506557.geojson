@@ -38,6 +38,7 @@
         "ANZ9362"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -78,7 +79,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1555949037,
+    "wof:lastmodified":1559685383,
     "wof:name":"NZ9362 (SFO-PHL)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

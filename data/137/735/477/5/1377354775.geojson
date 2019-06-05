@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-SAN-AS-1962",
     "sfomuseum:flight_number":"AS1962",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157831,
@@ -69,7 +70,7 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1554653001,
+    "wof:lastmodified":1559685221,
     "wof:name":"AS1962 (SFO-SAN)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",

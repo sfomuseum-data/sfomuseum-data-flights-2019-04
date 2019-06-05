@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-SAN-AS-1964",
     "sfomuseum:flight_number":"AS1964",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -70,7 +71,7 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1554566629,
+    "wof:lastmodified":1559684645,
     "wof:name":"AS1964 (SFO-SAN)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

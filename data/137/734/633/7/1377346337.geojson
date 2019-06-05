@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-ABQ-UA-5648",
     "sfomuseum:flight_number":"UA5648",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -69,7 +70,7 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1554566602,
+    "wof:lastmodified":1559684627,
     "wof:name":"UA5648 (SFO-ABQ)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

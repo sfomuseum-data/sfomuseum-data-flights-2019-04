@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-06-CDG-SFO-UA-984",
     "sfomuseum:flight_number":"UA984",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -67,7 +68,7 @@
         1159285413,
         1159157677
     ],
-    "wof:lastmodified":1554652942,
+    "wof:lastmodified":1559684676,
     "wof:name":"UA984 (CDG-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

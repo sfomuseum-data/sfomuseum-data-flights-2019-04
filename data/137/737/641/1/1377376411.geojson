@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-WUH-DL-7804",
     "sfomuseum:flight_number":"DL7804",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -73,7 +74,7 @@
         1159157635,
         1159284165
     ],
-    "wof:lastmodified":1554912197,
+    "wof:lastmodified":1559682953,
     "wof:name":"DL7804 (SFO-WUH)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

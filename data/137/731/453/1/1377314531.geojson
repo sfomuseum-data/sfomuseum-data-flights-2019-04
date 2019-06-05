@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-RDU-AS-1106",
     "sfomuseum:flight_number":"AS1106",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157839,
@@ -69,7 +70,7 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1554220980,
+    "wof:lastmodified":1559683813,
     "wof:name":"AS1106 (SFO-RDU)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",

@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SEA-CA-7336",
     "sfomuseum:flight_number":"CA7336",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157777,
@@ -73,7 +74,7 @@
         1159157777,
         1159285413
     ],
-    "wof:lastmodified":1554307367,
+    "wof:lastmodified":1559685145,
     "wof:name":"CA7336 (SFO-SEA)",
     "wof:parent_id":1159157777,
     "wof:placetype":"event",

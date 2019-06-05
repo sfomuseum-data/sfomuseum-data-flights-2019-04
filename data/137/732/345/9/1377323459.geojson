@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-ACV-NZ-9339",
     "sfomuseum:flight_number":"NZ9339",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -73,7 +74,7 @@
         1159157693,
         1159285413
     ],
-    "wof:lastmodified":1554307395,
+    "wof:lastmodified":1559685192,
     "wof:name":"NZ9339 (SFO-ACV)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

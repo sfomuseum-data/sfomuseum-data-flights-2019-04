@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-LAS-EK-3095",
     "sfomuseum:flight_number":"EK3095",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284333,
         1159283813
     ],
-    "wof:lastmodified":1554566598,
+    "wof:lastmodified":1559684626,
     "wof:name":"EK3095 (SFO-LAS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

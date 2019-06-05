@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-09-ONT-SFO-UA-5664",
     "sfomuseum:flight_number":"UA5664",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -67,7 +68,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1554912157,
+    "wof:lastmodified":1559682891,
     "wof:name":"UA5664 (ONT-SFO)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

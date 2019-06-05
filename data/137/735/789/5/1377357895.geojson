@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-PDX-SFO-LH-9167",
     "sfomuseum:flight_number":"LH9167",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157699,
@@ -71,7 +72,7 @@
         1159157699,
         1159285413
     ],
-    "wof:lastmodified":1554739377,
+    "wof:lastmodified":1559685300,
     "wof:name":"LH9167 (PDX-SFO)",
     "wof:parent_id":1159157699,
     "wof:placetype":"event",

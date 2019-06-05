@@ -38,6 +38,7 @@
         "DLH9228"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -78,7 +79,7 @@
         1159157765,
         1159285413
     ],
-    "wof:lastmodified":1556467602,
+    "wof:lastmodified":1559682790,
     "wof:name":"LH9228 (SFO-LAS)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

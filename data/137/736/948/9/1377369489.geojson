@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-ATL-DL-777",
     "sfomuseum:flight_number":"DL777",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157857,
@@ -69,7 +70,7 @@
         1159284261,
         1159157857
     ],
-    "wof:lastmodified":1554825802,
+    "wof:lastmodified":1559683581,
     "wof:name":"DL777 (SFO-ATL)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",

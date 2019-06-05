@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-LAX-VS-4114",
     "sfomuseum:flight_number":"VS4114",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157323,
         1159157661,
@@ -73,7 +74,7 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1555017620,
+    "wof:lastmodified":1559684437,
     "wof:name":"VS4114 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",

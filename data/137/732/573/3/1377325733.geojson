@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-03-OTH-SFO-UA-5535",
     "sfomuseum:flight_number":"UA5535",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157739,
@@ -67,7 +68,7 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1554393746,
+    "wof:lastmodified":1559685140,
     "wof:name":"UA5535 (OTH-SFO)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",

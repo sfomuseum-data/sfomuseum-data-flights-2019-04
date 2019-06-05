@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-10-SFO-MIA-LA-6899",
     "sfomuseum:flight_number":"LA6899",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157791,
@@ -73,7 +74,7 @@
         1159157791,
         1159283849
     ],
-    "wof:lastmodified":1555017571,
+    "wof:lastmodified":1559684545,
     "wof:name":"LA6899 (SFO-MIA)",
     "wof:parent_id":1159157791,
     "wof:placetype":"event",

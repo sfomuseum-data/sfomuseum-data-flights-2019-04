@@ -33,6 +33,7 @@
         "UAL1346"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157769,
@@ -72,7 +73,7 @@
         1159285413,
         1159157769
     ],
-    "wof:lastmodified":1556553820,
+    "wof:lastmodified":1559682849,
     "wof:name":"UA1346 (YYC-SFO)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",

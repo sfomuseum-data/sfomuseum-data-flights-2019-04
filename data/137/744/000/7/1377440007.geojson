@@ -36,6 +36,7 @@
         "DLH7157"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157657,
@@ -76,7 +77,7 @@
         1159157657,
         1159283697
     ],
-    "wof:lastmodified":1555344190,
+    "wof:lastmodified":1559685581,
     "wof:name":"LH7157 (AKL-SFO)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",

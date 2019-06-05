@@ -38,6 +38,7 @@
         "ASA9515"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -78,7 +79,7 @@
         1159157827,
         1159283697
     ],
-    "wof:lastmodified":1556553852,
+    "wof:lastmodified":1559684981,
     "wof:name":"AS9515 (SFO-AKL)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

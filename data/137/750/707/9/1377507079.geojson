@@ -38,6 +38,7 @@
         "CCA7316"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157825,
@@ -78,7 +79,7 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1555949046,
+    "wof:lastmodified":1559685317,
     "wof:name":"CA7316 (SFO-LAS)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",

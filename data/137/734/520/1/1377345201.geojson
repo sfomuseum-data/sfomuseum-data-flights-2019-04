@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-05-SFO-TPA-NZ-2223",
     "sfomuseum:flight_number":"NZ2223",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157653,
@@ -73,7 +74,7 @@
         1159157653,
         1159285413
     ],
-    "wof:lastmodified":1554566581,
+    "wof:lastmodified":1559684647,
     "wof:name":"NZ2223 (SFO-TPA)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",

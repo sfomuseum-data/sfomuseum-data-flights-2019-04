@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-RNO-LH-8908",
     "sfomuseum:flight_number":"LH8908",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157741,
@@ -73,7 +74,7 @@
         1159157741,
         1159285413
     ],
-    "wof:lastmodified":1554912188,
+    "wof:lastmodified":1559682919,
     "wof:name":"LH8908 (SFO-RNO)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",

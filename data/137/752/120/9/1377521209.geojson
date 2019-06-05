@@ -38,6 +38,7 @@
         "AUA8318"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157621,
@@ -78,7 +79,7 @@
         1159157621,
         1159283597
     ],
-    "wof:lastmodified":1556121828,
+    "wof:lastmodified":1559682704,
     "wof:name":"OS8318 (SFO-YYZ)",
     "wof:parent_id":1159157621,
     "wof:placetype":"event",

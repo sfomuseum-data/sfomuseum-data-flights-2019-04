@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-01-ORD-SFO-OZ-6304",
     "sfomuseum:flight_number":"OZ6304",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -71,7 +72,7 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1554220962,
+    "wof:lastmodified":1559683859,
     "wof:name":"OZ6304 (ORD-SFO)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

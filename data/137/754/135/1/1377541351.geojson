@@ -38,6 +38,7 @@
         "SIA1463"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157683,
@@ -78,7 +79,7 @@
         1159157683,
         1360700745
     ],
-    "wof:lastmodified":1556294693,
+    "wof:lastmodified":1559683000,
     "wof:name":"SQ1463 (SFO-JFK)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",

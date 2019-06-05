@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-CDG-SFO-KL-2142",
     "sfomuseum:flight_number":"KL2142",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -71,7 +72,7 @@
         1159157635,
         1159283627
     ],
-    "wof:lastmodified":1554393747,
+    "wof:lastmodified":1559685147,
     "wof:name":"KL2142 (CDG-SFO)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

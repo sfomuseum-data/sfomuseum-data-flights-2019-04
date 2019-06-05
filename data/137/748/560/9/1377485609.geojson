@@ -35,6 +35,7 @@
         "UAL2096"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -74,7 +75,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1555689860,
+    "wof:lastmodified":1559684053,
     "wof:name":"UA2096 (SFO-SNA)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

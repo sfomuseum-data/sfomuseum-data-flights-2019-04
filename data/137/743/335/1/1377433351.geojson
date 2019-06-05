@@ -33,6 +33,7 @@
         "UAL1580"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -72,7 +73,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1555257772,
+    "wof:lastmodified":1559685783,
     "wof:name":"UA1580 (OGG-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

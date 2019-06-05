@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-02-HNL-SFO-CM-2362",
     "sfomuseum:flight_number":"CM2362",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -71,7 +72,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1554307356,
+    "wof:lastmodified":1559685166,
     "wof:name":"CM2362 (HNL-SFO)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

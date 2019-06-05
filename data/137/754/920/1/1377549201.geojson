@@ -38,6 +38,7 @@
         "AAL7593"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -78,7 +79,7 @@
         1159157703,
         1159283813
     ],
-    "wof:lastmodified":1556381096,
+    "wof:lastmodified":1559683197,
     "wof:name":"AA7593 (SFO-SLC)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

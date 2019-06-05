@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-SEA-JL-5429",
     "sfomuseum:flight_number":"JL5429",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -73,7 +74,7 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1554307420,
+    "wof:lastmodified":1559685164,
     "wof:name":"JL5429 (SFO-SEA)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

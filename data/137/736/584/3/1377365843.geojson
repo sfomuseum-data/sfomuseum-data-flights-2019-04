@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-MIA-SFO-CZ-1723",
     "sfomuseum:flight_number":"CZ1723",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157795,
@@ -71,7 +72,7 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1554825753,
+    "wof:lastmodified":1559683767,
     "wof:name":"CZ1723 (MIA-SFO)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",

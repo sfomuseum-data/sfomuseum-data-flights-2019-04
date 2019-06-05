@@ -38,6 +38,7 @@
         "CMP2488"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -78,7 +79,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1556467558,
+    "wof:lastmodified":1559682828,
     "wof:name":"CM2488 (SFO-OGG)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

@@ -36,6 +36,7 @@
         "IBE396"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157635,
@@ -76,7 +77,7 @@
         1159157635,
         1159284389
     ],
-    "wof:lastmodified":1556208220,
+    "wof:lastmodified":1559682685,
     "wof:name":"IB396 (HEL-SFO)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",

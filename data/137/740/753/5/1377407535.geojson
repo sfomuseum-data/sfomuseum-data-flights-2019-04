@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-LGA-SFO-UA-1973",
     "sfomuseum:flight_number":"UA1973",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157759,
@@ -67,7 +68,7 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1555017560,
+    "wof:lastmodified":1559683878,
     "wof:name":"UA1973 (LGA-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",

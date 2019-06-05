@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-YVR-NZ-9875",
     "sfomuseum:flight_number":"NZ9875",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157789,
@@ -73,7 +74,7 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1554739428,
+    "wof:lastmodified":1559683480,
     "wof:name":"NZ9875 (SFO-YVR)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",

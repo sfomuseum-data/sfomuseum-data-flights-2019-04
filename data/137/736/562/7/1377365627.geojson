@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-08-AKL-SFO-NZ-9816",
     "sfomuseum:flight_number":"NZ9816",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -71,7 +72,7 @@
         1159157677,
         1159285413
     ],
-    "wof:lastmodified":1554825752,
+    "wof:lastmodified":1559683673,
     "wof:name":"NZ9816 (AKL-SFO)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

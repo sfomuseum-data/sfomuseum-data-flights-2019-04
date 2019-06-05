@@ -33,6 +33,7 @@
         "AMX668"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157641,
@@ -72,7 +73,7 @@
         1159283539,
         1159157641
     ],
-    "wof:lastmodified":1555689800,
+    "wof:lastmodified":1559684091,
     "wof:name":"AM668 (MEX-SFO)",
     "wof:parent_id":1159157641,
     "wof:placetype":"event",

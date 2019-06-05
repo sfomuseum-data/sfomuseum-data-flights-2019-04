@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-09-BOS-SFO-HA-2357",
     "sfomuseum:flight_number":"HA2357",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157633,
@@ -71,7 +72,7 @@
         1159157633,
         1360700745
     ],
-    "wof:lastmodified":1554912155,
+    "wof:lastmodified":1559682932,
     "wof:name":"HA2357 (BOS-SFO)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-03-SFO-LAX-AA-6019",
     "sfomuseum:flight_number":"AA6019",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157795,
@@ -69,7 +70,7 @@
         1159283849,
         1159157795
     ],
-    "wof:lastmodified":1554393807,
+    "wof:lastmodified":1559684846,
     "wof:name":"AA6019 (SFO-LAX)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",

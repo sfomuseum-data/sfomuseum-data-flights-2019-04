@@ -35,6 +35,7 @@
         "UAL2366"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157647,
@@ -74,7 +75,7 @@
         1159285413,
         1159157647
     ],
-    "wof:lastmodified":1556294669,
+    "wof:lastmodified":1559683236,
     "wof:name":"UA2366 (SFO-LAS)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",

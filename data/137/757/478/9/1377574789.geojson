@@ -36,6 +36,7 @@
         "CMP1893"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157733,
@@ -76,7 +77,7 @@
         1159157733,
         1159285413
     ],
-    "wof:lastmodified":1556726630,
+    "wof:lastmodified":1559685425,
     "wof:name":"CM1893 (LAS-SFO)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",

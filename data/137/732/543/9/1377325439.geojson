@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-SEA-SFO-EK-3036",
     "sfomuseum:flight_number":"EK3036",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284333,
         1159283813
     ],
-    "wof:lastmodified":1554393745,
+    "wof:lastmodified":1559685133,
     "wof:name":"EK3036 (SEA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

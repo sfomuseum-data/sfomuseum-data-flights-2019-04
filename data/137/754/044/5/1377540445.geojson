@@ -38,6 +38,7 @@
         "AVA2103"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -78,7 +79,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1556294677,
+    "wof:lastmodified":1559683154,
     "wof:name":"AV2103 (SFO-SBP)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

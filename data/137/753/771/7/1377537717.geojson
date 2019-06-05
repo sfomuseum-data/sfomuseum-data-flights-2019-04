@@ -36,6 +36,7 @@
         "ANZ2158"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157659,
@@ -76,7 +77,7 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1556294629,
+    "wof:lastmodified":1559683301,
     "wof:name":"NZ2158 (MSY-SFO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",

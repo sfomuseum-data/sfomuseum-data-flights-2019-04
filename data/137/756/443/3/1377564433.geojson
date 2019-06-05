@@ -33,6 +33,7 @@
         "ASA1353"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157703,
@@ -72,7 +73,7 @@
         1159283813,
         1159157703
     ],
-    "wof:lastmodified":1556640217,
+    "wof:lastmodified":1559684939,
     "wof:name":"AS1353 (BOS-SFO)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",

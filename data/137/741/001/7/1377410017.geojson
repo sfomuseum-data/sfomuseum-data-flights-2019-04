@@ -28,6 +28,7 @@
     "sfomuseum:flight_id":"2019-04-10-IAD-SFO-UA-340",
     "sfomuseum:flight_number":"UA340",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157671,
@@ -67,7 +68,7 @@
         1159285413,
         1159157671
     ],
-    "wof:lastmodified":1555017569,
+    "wof:lastmodified":1559684474,
     "wof:name":"UA340 (IAD-SFO)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",

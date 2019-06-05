@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-HKG-CX-879",
     "sfomuseum:flight_number":"CX879",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157717,
@@ -69,7 +70,7 @@
         1159284127,
         1159157717
     ],
-    "wof:lastmodified":1554220980,
+    "wof:lastmodified":1559683813,
     "wof:name":"CX879 (SFO-HKG)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",

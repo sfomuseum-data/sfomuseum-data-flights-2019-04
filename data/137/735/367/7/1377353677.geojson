@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-06-SFO-AUS-AC-5289",
     "sfomuseum:flight_number":"AC5289",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -73,7 +74,7 @@
         1159157645,
         1159285413
     ],
-    "wof:lastmodified":1554652981,
+    "wof:lastmodified":1559685261,
     "wof:name":"AC5289 (SFO-AUS)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

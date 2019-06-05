@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-LAS-WN-1577",
     "sfomuseum:flight_number":"WN1577",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396217,
         1159157715,
@@ -69,7 +70,7 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1554220985,
+    "wof:lastmodified":1559683850,
     "wof:name":"WN1577 (SFO-LAS)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",

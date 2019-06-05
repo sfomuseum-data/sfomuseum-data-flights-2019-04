@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-LAX-UA-256",
     "sfomuseum:flight_number":"UA256",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157783,
@@ -69,7 +70,7 @@
         1159285413,
         1159157783
     ],
-    "wof:lastmodified":1554912207,
+    "wof:lastmodified":1559682961,
     "wof:name":"UA256 (SFO-LAX)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",

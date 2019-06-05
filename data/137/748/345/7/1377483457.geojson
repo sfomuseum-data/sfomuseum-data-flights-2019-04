@@ -38,6 +38,7 @@
         "TAP4392"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -79,7 +80,7 @@
         1159285271,
         1360700745
     ],
-    "wof:lastmodified":1555689822,
+    "wof:lastmodified":1559684140,
     "wof:name":"TP4392 (SFO-BOS)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

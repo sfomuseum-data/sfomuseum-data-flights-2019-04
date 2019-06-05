@@ -38,6 +38,7 @@
         "ACA4095"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157785,
@@ -78,7 +79,7 @@
         1159157785,
         1159285413
     ],
-    "wof:lastmodified":1556121822,
+    "wof:lastmodified":1559682686,
     "wof:name":"AC4095 (SFO-LAS)",
     "wof:parent_id":1159157785,
     "wof:placetype":"event",

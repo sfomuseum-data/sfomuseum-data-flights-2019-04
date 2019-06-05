@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-SEA-AS-373",
     "sfomuseum:flight_number":"AS373",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157705,
@@ -69,7 +70,7 @@
         1159283813,
         1159157705
     ],
-    "wof:lastmodified":1554480194,
+    "wof:lastmodified":1559684806,
     "wof:name":"AS373 (SFO-SEA)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",

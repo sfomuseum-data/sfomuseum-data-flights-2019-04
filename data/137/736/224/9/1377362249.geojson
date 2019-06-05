@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SAN-AC-5188",
     "sfomuseum:flight_number":"AC5188",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157751,
@@ -73,7 +74,7 @@
         1159157751,
         1159285413
     ],
-    "wof:lastmodified":1554739434,
+    "wof:lastmodified":1559683699,
     "wof:name":"AC5188 (SFO-SAN)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",

@@ -38,6 +38,7 @@
         "QFA4103"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396181,
         1159157797,
@@ -78,7 +79,7 @@
         1159157797,
         1159283849
     ],
-    "wof:lastmodified":1555776256,
+    "wof:lastmodified":1559683961,
     "wof:name":"QF4103 (SFO-DFW)",
     "wof:parent_id":1159157797,
     "wof:placetype":"event",

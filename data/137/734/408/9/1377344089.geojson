@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-05-BOI-SFO-CM-2350",
     "sfomuseum:flight_number":"CM2350",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157837,
@@ -71,7 +72,7 @@
         1159157837,
         1159285413
     ],
-    "wof:lastmodified":1554566566,
+    "wof:lastmodified":1559684629,
     "wof:name":"CM2350 (BOI-SFO)",
     "wof:parent_id":1159157837,
     "wof:placetype":"event",

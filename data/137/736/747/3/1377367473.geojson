@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-08-SFO-EWR-UA-2319",
     "sfomuseum:flight_number":"UA2319",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157821,
@@ -69,7 +70,7 @@
         1159285413,
         1159157821
     ],
-    "wof:lastmodified":1554825766,
+    "wof:lastmodified":1559683599,
     "wof:name":"UA2319 (SFO-EWR)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",

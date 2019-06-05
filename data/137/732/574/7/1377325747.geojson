@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-03-JFK-SFO-TP-4397",
     "sfomuseum:flight_number":"TP4397",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157605,
@@ -71,7 +72,7 @@
         1159157605,
         1360700745
     ],
-    "wof:lastmodified":1554393746,
+    "wof:lastmodified":1559685140,
     "wof:name":"TP4397 (JFK-SFO)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",

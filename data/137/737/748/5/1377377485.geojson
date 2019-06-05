@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-YYC-AC-8568",
     "sfomuseum:flight_number":"AC8568",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157677,
@@ -69,7 +70,7 @@
         1159283597,
         1159157677
     ],
-    "wof:lastmodified":1554912216,
+    "wof:lastmodified":1559682916,
     "wof:name":"AC8568 (SFO-YYC)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",

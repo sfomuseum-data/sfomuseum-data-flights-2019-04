@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-LHR-LX-3069",
     "sfomuseum:flight_number":"LX3069",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157687,
@@ -73,7 +74,7 @@
         1159157687,
         1159285413
     ],
-    "wof:lastmodified":1554480175,
+    "wof:lastmodified":1559684846,
     "wof:name":"LX3069 (SFO-LHR)",
     "wof:parent_id":1159157687,
     "wof:placetype":"event",

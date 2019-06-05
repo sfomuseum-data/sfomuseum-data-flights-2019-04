@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-SMF-UA-5505",
     "sfomuseum:flight_number":"UA5505",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157695,
@@ -69,7 +70,7 @@
         1159285413,
         1159157695
     ],
-    "wof:lastmodified":1554739439,
+    "wof:lastmodified":1559683706,
     "wof:name":"UA5505 (SFO-SMF)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",

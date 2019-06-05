@@ -38,6 +38,7 @@
         "DAL7861"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157339,
         1159157627,
@@ -78,7 +79,7 @@
         1159157627,
         1159284625
     ],
-    "wof:lastmodified":1555689835,
+    "wof:lastmodified":1559684115,
     "wof:name":"DL7861 (SFO-ICN)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",

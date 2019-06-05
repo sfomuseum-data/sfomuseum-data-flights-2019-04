@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-07-SFO-DFW-NZ-9081",
     "sfomuseum:flight_number":"NZ9081",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157723,
@@ -73,7 +74,7 @@
         1159157723,
         1159285413
     ],
-    "wof:lastmodified":1554739390,
+    "wof:lastmodified":1559685296,
     "wof:name":"NZ9081 (SFO-DFW)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",

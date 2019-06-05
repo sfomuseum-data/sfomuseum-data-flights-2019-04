@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-PHL-SFO-NZ-9365",
     "sfomuseum:flight_number":"NZ9365",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157697,
@@ -71,7 +72,7 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1554739375,
+    "wof:lastmodified":1559685207,
     "wof:name":"NZ9365 (PHL-SFO)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",

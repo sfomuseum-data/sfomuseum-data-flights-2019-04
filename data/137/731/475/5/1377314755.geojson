@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-01-SFO-YYC-UA-5470",
     "sfomuseum:flight_number":"UA5470",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157645,
@@ -69,7 +70,7 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1554220984,
+    "wof:lastmodified":1559683844,
     "wof:name":"UA5470 (SFO-YYC)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",

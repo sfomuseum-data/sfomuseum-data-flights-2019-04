@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-04-DAL-SFO-SQ-1367",
     "sfomuseum:flight_number":"SQ1367",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159285163,
         1159283813
     ],
-    "wof:lastmodified":1554480157,
+    "wof:lastmodified":1559684726,
     "wof:name":"SQ1367 (DAL-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

@@ -30,6 +30,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-LAX-UA-257",
     "sfomuseum:flight_number":"UA257",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157765,
@@ -69,7 +70,7 @@
         1159285413,
         1159157765
     ],
-    "wof:lastmodified":1554912193,
+    "wof:lastmodified":1559682889,
     "wof:name":"UA257 (SFO-LAX)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",

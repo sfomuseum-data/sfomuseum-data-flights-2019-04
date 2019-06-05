@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-09-SFO-PDX-KE-6091",
     "sfomuseum:flight_number":"KE6091",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -74,7 +75,7 @@
         1159284625,
         1159283813
     ],
-    "wof:lastmodified":1554912195,
+    "wof:lastmodified":1559682883,
     "wof:name":"KE6091 (SFO-PDX)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

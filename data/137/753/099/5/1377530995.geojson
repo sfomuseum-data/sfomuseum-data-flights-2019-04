@@ -35,6 +35,7 @@
         "UAL5505"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157693,
@@ -74,7 +75,7 @@
         1159285413,
         1159157693
     ],
-    "wof:lastmodified":1556208245,
+    "wof:lastmodified":1559683286,
     "wof:name":"UA5505 (SFO-SMF)",
     "wof:parent_id":1159157693,
     "wof:placetype":"event",

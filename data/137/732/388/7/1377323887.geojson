@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-02-SFO-STL-NZ-9708",
     "sfomuseum:flight_number":"NZ9708",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396301,
         1159157721,
@@ -73,7 +74,7 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1554307403,
+    "wof:lastmodified":1559685202,
     "wof:name":"NZ9708 (SFO-STL)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",

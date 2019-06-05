@@ -33,6 +33,7 @@
         "DLH458"
     ],
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159157337,
         1159157827,
@@ -72,7 +73,7 @@
         1159284711,
         1159157827
     ],
-    "wof:lastmodified":1556726625,
+    "wof:lastmodified":1559685410,
     "wof:name":"LH458 (MUC-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",

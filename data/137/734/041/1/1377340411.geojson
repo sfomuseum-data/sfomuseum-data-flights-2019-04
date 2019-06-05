@@ -33,6 +33,7 @@
     "sfomuseum:flight_id":"2019-04-04-SFO-PHL-CA-7330",
     "sfomuseum:flight_number":"CA7330",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         1159396267,
         1159157771,
@@ -73,7 +74,7 @@
         1159157771,
         1159285413
     ],
-    "wof:lastmodified":1554480233,
+    "wof:lastmodified":1559684618,
     "wof:name":"CA7330 (SFO-PHL)",
     "wof:parent_id":1159157771,
     "wof:placetype":"event",

@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-07-SEA-SFO-EK-3016",
     "sfomuseum:flight_number":"EK3016",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284333,
         1159283813
     ],
-    "wof:lastmodified":1554739376,
+    "wof:lastmodified":1559685209,
     "wof:name":"EK3016 (SEA-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",

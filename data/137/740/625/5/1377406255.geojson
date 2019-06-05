@@ -31,6 +31,7 @@
     "sfomuseum:flight_id":"2019-04-10-JFK-SFO-LY-8731",
     "sfomuseum:flight_number":"LY8731",
     "sfomuseum:placetype":"flight",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -72,7 +73,7 @@
         1159284327,
         1360700745
     ],
-    "wof:lastmodified":1555017556,
+    "wof:lastmodified":1559683891,
     "wof:name":"LY8731 (JFK-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",
