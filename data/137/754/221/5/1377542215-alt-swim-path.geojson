@@ -429,8 +429,9 @@
         1556294020
     ],
     "wof:alt_label":"swim-path",
-    "wof:geomhash":"4580ab48f91da127360bae3eaf31eaec",
-    "wof:id":1377542215
+    "wof:geomhash":"6625042b495fc140183bf9309805f557",
+    "wof:id":1377542215,
+    "wof:repo":"sfomuseum-data-flights-2019-04"
 },
   "bbox": [
     -122.33611111111111,
