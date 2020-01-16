@@ -6,6 +6,7 @@
     "geom:bbox":"0.000000,0.000000,0.000000,0.000000",
     "geom:latitude":35.491598,
     "geom:longitude":-120.643138,
+    "src:alt_label":"swim-path",
     "src:geom":"swim",
     "swim:altitudes":[
         "029",
@@ -146,7 +147,6 @@
         1556323611,
         1556323687
     ],
-    "wof:alt_label":"swim-path",
     "wof:geomhash":"9c19451e51b9a349670707fb80d4f0d9",
     "wof:id":1377544081,
     "wof:repo":"sfomuseum-data-flights-2019-04"
