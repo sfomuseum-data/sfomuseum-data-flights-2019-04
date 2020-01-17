@@ -54,8 +54,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "swim:flight_ref":"99728883",
-        "swim:gufi":""
+        "swim:flight_ref":"99728883"
     },
     "wof:country":"US",
     "wof:created":1556640171,
@@ -84,7 +83,7 @@
         1159157775,
         1159293215
     ],
-    "wof:lastmodified":1559684913,
+    "wof:lastmodified":1579287061,
     "wof:name":"UA969 (AMS-SFO)",
     "wof:parent_id":1159157775,
     "wof:placetype":"event",
