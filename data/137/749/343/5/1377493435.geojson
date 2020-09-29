@@ -79,11 +79,11 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1559684050,
+    "wof:lastmodified":1601345214,
     "wof:name":"UX3324 (SFO-JFK)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

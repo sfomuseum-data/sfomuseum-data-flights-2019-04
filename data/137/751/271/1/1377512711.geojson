@@ -75,11 +75,11 @@
         1159285413,
         1159157861
     ],
-    "wof:lastmodified":1559685056,
+    "wof:lastmodified":1601345867,
     "wof:name":"UA1255 (SFO-EWR)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

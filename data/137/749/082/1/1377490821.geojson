@@ -75,11 +75,11 @@
         1159285591,
         1159157809
     ],
-    "wof:lastmodified":1559683960,
+    "wof:lastmodified":1601345115,
     "wof:name":"WN1539 (SFO-SAN)",
     "wof:parent_id":1159157809,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

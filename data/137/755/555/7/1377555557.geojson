@@ -86,11 +86,11 @@
         1159157657,
         1159293215
     ],
-    "wof:lastmodified":1559682816,
+    "wof:lastmodified":1601344359,
     "wof:name":"UA194 (SFO-MUC)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

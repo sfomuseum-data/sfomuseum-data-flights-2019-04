@@ -72,11 +72,11 @@
         1159157607,
         1360700745
     ],
-    "wof:lastmodified":1559685131,
+    "wof:lastmodified":1601345948,
     "wof:name":"HA2477 (BOS-SFO)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

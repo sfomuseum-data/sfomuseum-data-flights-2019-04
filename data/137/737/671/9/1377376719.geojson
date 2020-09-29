@@ -70,11 +70,11 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1559682944,
+    "wof:lastmodified":1601344486,
     "wof:name":"UA5880 (SFO-PAE)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

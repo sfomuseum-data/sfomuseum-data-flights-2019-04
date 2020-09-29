@@ -72,11 +72,11 @@
         1159157629,
         1360700745
     ],
-    "wof:lastmodified":1559684707,
+    "wof:lastmodified":1601345499,
     "wof:name":"TP4401 (BOS-SFO)",
     "wof:parent_id":1159157629,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

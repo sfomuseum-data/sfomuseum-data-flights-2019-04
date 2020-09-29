@@ -70,11 +70,11 @@
         1159285591,
         1159157713
     ],
-    "wof:lastmodified":1559685283,
+    "wof:lastmodified":1601346110,
     "wof:name":"WN5264 (SFO-MSY)",
     "wof:parent_id":1159157713,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

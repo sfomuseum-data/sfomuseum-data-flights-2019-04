@@ -84,11 +84,11 @@
         1159157751,
         1159292085
     ],
-    "wof:lastmodified":1559683075,
+    "wof:lastmodified":1601344573,
     "wof:name":"UA1757 (LAS-SFO)",
     "wof:parent_id":1159157751,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

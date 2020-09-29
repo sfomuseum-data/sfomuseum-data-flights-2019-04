@@ -70,11 +70,11 @@
         1159285413,
         1159157741
     ],
-    "wof:lastmodified":1559685241,
+    "wof:lastmodified":1601346061,
     "wof:name":"UA460 (SFO-YVR)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

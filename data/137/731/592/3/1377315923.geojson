@@ -74,11 +74,11 @@
         1159157721,
         1159285413
     ],
-    "wof:lastmodified":1559683784,
+    "wof:lastmodified":1601344941,
     "wof:name":"OS7910 (SFO-LAX)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -79,11 +79,11 @@
         1159157627,
         1159284127
     ],
-    "wof:lastmodified":1559682743,
+    "wof:lastmodified":1601344277,
     "wof:name":"AA8931 (SFO-HKG)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

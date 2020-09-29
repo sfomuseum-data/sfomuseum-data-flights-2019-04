@@ -85,11 +85,11 @@
         1159157857,
         1159289871
     ],
-    "wof:lastmodified":1559683248,
+    "wof:lastmodified":1601344677,
     "wof:name":"DL2639 (SFO-LAX)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

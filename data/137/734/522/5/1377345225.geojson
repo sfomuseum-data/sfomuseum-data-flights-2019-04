@@ -70,11 +70,11 @@
         1159284261,
         1159157711
     ],
-    "wof:lastmodified":1559684710,
+    "wof:lastmodified":1601345501,
     "wof:name":"DL2479 (SFO-SLC)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

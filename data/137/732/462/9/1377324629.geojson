@@ -74,11 +74,11 @@
         1159157633,
         1159284021
     ],
-    "wof:lastmodified":1559685126,
+    "wof:lastmodified":1601345943,
     "wof:name":"EI8986 (SFO-LHR)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

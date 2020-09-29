@@ -74,11 +74,11 @@
         1159157701,
         1159283813
     ],
-    "wof:lastmodified":1559685302,
+    "wof:lastmodified":1601346129,
     "wof:name":"SQ1396 (SFO-LAS)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

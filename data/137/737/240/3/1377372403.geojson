@@ -68,11 +68,11 @@
         1159283813,
         1159157833
     ],
-    "wof:lastmodified":1559682949,
+    "wof:lastmodified":1601344489,
     "wof:name":"AS1755 (SEA-SFO)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

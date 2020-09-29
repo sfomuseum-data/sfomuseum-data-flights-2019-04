@@ -70,11 +70,11 @@
         1159285413,
         1159157847
     ],
-    "wof:lastmodified":1559684721,
+    "wof:lastmodified":1601345512,
     "wof:name":"UA5216 (SFO-OMA)",
     "wof:parent_id":1159157847,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

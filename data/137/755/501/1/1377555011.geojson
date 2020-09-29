@@ -86,11 +86,11 @@
         1159157765,
         1159289871
     ],
-    "wof:lastmodified":1559682816,
+    "wof:lastmodified":1601344359,
     "wof:name":"UA394 (SFO-LAS)",
     "wof:parent_id":1159157765,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

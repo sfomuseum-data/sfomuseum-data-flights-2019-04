@@ -72,11 +72,11 @@
         1159157647,
         1159285413
     ],
-    "wof:lastmodified":1559684701,
+    "wof:lastmodified":1601345492,
     "wof:name":"NZ9243 (LAS-SFO)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

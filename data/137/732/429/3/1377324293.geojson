@@ -70,11 +70,11 @@
         1159285413,
         1159157733
     ],
-    "wof:lastmodified":1559685165,
+    "wof:lastmodified":1601345981,
     "wof:name":"UA2331 (SFO-PHX)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -74,11 +74,11 @@
         1159157753,
         1159284261
     ],
-    "wof:lastmodified":1559683709,
+    "wof:lastmodified":1601344896,
     "wof:name":"AM5683 (SFO-LAX)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

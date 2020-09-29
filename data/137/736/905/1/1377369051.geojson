@@ -70,11 +70,11 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1559683674,
+    "wof:lastmodified":1601344881,
     "wof:name":"AS1346 (SFO-FLL)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -73,11 +73,11 @@
         1159284261,
         1159157857
     ],
-    "wof:lastmodified":1559683298,
+    "wof:lastmodified":1601344721,
     "wof:name":"DL3633 (SLC-SFO)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

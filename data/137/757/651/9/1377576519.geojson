@@ -86,11 +86,11 @@
         1159157733,
         1159289871
     ],
-    "wof:lastmodified":1559685444,
+    "wof:lastmodified":1601346293,
     "wof:name":"UA631 (SFO-SNA)",
     "wof:parent_id":1159157733,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

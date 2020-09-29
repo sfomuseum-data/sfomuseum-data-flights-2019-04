@@ -79,11 +79,11 @@
         1159157631,
         1159284625
     ],
-    "wof:lastmodified":1559685341,
+    "wof:lastmodified":1601346174,
     "wof:name":"DL7693 (SFO-ICN)",
     "wof:parent_id":1159157631,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

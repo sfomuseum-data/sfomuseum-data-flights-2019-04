@@ -68,11 +68,11 @@
         1159285413,
         1159157749
     ],
-    "wof:lastmodified":1559683846,
+    "wof:lastmodified":1601345010,
     "wof:name":"UA295 (ONT-SFO)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

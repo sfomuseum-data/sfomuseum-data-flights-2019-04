@@ -70,11 +70,11 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1559683564,
+    "wof:lastmodified":1601344841,
     "wof:name":"UA1019 (SFO-PHL)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -79,11 +79,11 @@
         1159157805,
         1159284165
     ],
-    "wof:lastmodified":1559684047,
+    "wof:lastmodified":1601345211,
     "wof:name":"AA7051 (SFO-CAN)",
     "wof:parent_id":1159157805,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

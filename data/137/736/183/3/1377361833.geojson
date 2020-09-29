@@ -74,11 +74,11 @@
         1159157815,
         1159283597
     ],
-    "wof:lastmodified":1559683758,
+    "wof:lastmodified":1601344923,
     "wof:name":"UA8518 (SFO-YYZ)",
     "wof:parent_id":1159157815,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

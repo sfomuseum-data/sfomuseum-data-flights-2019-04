@@ -79,11 +79,11 @@
         1159157705,
         1159283813
     ],
-    "wof:lastmodified":1559684891,
+    "wof:lastmodified":1601345689,
     "wof:name":"QF3673 (SFO-DCA)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

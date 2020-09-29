@@ -70,11 +70,11 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1559683551,
+    "wof:lastmodified":1601344833,
     "wof:name":"WN1983 (SFO-MSY)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

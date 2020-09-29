@@ -70,11 +70,11 @@
         1159284127,
         1159157717
     ],
-    "wof:lastmodified":1559683813,
+    "wof:lastmodified":1601344973,
     "wof:name":"CX879 (SFO-HKG)",
     "wof:parent_id":1159157717,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

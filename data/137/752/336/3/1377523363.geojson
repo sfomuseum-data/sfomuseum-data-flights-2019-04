@@ -86,11 +86,11 @@
         1159157825,
         1159289407
     ],
-    "wof:lastmodified":1559682666,
+    "wof:lastmodified":1601344189,
     "wof:name":"UA2313 (SFO-AUS)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

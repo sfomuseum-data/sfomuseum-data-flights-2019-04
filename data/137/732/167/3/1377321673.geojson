@@ -74,11 +74,11 @@
         1159157695,
         1159285413
     ],
-    "wof:lastmodified":1559685097,
+    "wof:lastmodified":1601345913,
     "wof:name":"LH9388 (SFO-SBP)",
     "wof:parent_id":1159157695,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

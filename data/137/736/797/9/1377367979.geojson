@@ -74,11 +74,11 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1559683467,
+    "wof:lastmodified":1601344803,
     "wof:name":"AF5758 (SFO-ATL)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

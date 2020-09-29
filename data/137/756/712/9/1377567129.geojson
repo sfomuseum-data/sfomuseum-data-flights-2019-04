@@ -84,11 +84,11 @@
         1159157659,
         1159292085
     ],
-    "wof:lastmodified":1559684908,
+    "wof:lastmodified":1601345707,
     "wof:name":"UA794 (SAN-SFO)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-04",
+    "wof:repo":"sfomuseum-data-flights-2019-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
