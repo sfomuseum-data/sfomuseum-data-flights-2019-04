@@ -75,9 +75,9 @@
       1159284327,
       1360700745
     ],
-    "wof:lastmodified": 1651513423,
+    "wof:lastmodified": 1653091977,
     "wof:name": "LY8731 (JFK-SFO)",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": -1,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],

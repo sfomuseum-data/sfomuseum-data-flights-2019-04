@@ -76,9 +76,9 @@
       102527337,
       1159285413
     ],
-    "wof:lastmodified": 1651513401,
+    "wof:lastmodified": 1653091993,
     "wof:name": "UA5446 (SBA-SFO)",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": -1,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
