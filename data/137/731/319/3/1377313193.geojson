@@ -74,10 +74,13 @@
       1159157621,
       1159283649
     ],
-    "wof:lastmodified": 1651513426,
+    "wof:lastmodified": 1717006117,
     "wof:name": "TK8479 (BLR-SFO)",
     "wof:parent_id": 1159157621,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

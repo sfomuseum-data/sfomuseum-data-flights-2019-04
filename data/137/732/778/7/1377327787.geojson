@@ -75,10 +75,13 @@
       1159285163,
       1159283813
     ],
-    "wof:lastmodified": 1653091976,
+    "wof:lastmodified": 1717006122,
     "wof:name": "SQ1282 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

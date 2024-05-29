@@ -75,10 +75,13 @@
       1159283813,
       1159157839
     ],
-    "wof:lastmodified": 1651513366,
+    "wof:lastmodified": 1717006123,
     "wof:name": "AS317 (EWR-SFO)",
     "wof:parent_id": 1159157839,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

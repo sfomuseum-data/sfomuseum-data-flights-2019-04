@@ -80,10 +80,13 @@
       1159284127,
       1159283813
     ],
-    "wof:lastmodified": 1653091989,
+    "wof:lastmodified": 1717006124,
     "wof:name": "CX7960 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

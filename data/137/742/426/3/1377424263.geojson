@@ -75,10 +75,13 @@
       1159285227,
       1159157635
     ],
-    "wof:lastmodified": 1651513359,
+    "wof:lastmodified": 1717006118,
     "wof:name": "SY697 (PDX-SFO)",
     "wof:parent_id": 1159157635,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -75,10 +75,13 @@
       1159283813,
       1159157829
     ],
-    "wof:lastmodified": 1651513372,
+    "wof:lastmodified": 1717006121,
     "wof:name": "AS1371 (SFO-SEA)",
     "wof:parent_id": 1159157829,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

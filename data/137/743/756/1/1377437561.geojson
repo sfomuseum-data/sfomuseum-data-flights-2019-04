@@ -75,10 +75,13 @@
       1159283813,
       1159157649
     ],
-    "wof:lastmodified": 1651513373,
+    "wof:lastmodified": 1717006122,
     "wof:name": "AS1325 (SFO-PDX)",
     "wof:parent_id": 1159157649,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

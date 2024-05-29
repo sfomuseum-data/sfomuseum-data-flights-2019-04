@@ -75,10 +75,13 @@
       1159283597,
       1159157621
     ],
-    "wof:lastmodified": 1651513374,
+    "wof:lastmodified": 1717006122,
     "wof:name": "AC780 (SFO-YUL)",
     "wof:parent_id": 1159157621,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

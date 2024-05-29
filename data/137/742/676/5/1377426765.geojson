@@ -75,10 +75,13 @@
       1159285413,
       1159157725
     ],
-    "wof:lastmodified": 1651513364,
+    "wof:lastmodified": 1717006119,
     "wof:name": "UA5780 (MSN-SFO)",
     "wof:parent_id": 1159157725,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

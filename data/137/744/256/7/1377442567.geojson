@@ -75,10 +75,13 @@
       1159285413,
       1159157623
     ],
-    "wof:lastmodified": 1651513367,
+    "wof:lastmodified": 1717006123,
     "wof:name": "UA901 (SFO-LHR)",
     "wof:parent_id": 1159157623,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

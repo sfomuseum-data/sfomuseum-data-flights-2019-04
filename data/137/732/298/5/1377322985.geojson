@@ -71,10 +71,13 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1653091975,
+    "wof:lastmodified": 1717006119,
     "wof:name": "AS3372 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -79,10 +79,13 @@
       1159157743,
       1159284261
     ],
-    "wof:lastmodified": 1651513367,
+    "wof:lastmodified": 1717006124,
     "wof:name": "WS7467 (SFO-SEA)",
     "wof:parent_id": 1159157743,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

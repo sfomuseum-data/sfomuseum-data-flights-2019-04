@@ -70,10 +70,13 @@
       1159283597,
       1159157621
     ],
-    "wof:lastmodified": 1651513426,
+    "wof:lastmodified": 1717006117,
     "wof:name": "AC566 (YVR-SFO)",
     "wof:parent_id": 1159157621,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -75,10 +75,13 @@
       1159286485,
       1159157667
     ],
-    "wof:lastmodified": 1651513374,
+    "wof:lastmodified": 1717006122,
     "wof:name": "4O831 (SFO-CUN)",
     "wof:parent_id": 1159157667,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

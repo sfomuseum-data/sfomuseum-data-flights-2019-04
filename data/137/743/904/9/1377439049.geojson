@@ -76,10 +76,13 @@
       102534161,
       1159283813
     ],
-    "wof:lastmodified": 1653091984,
+    "wof:lastmodified": 1717006123,
     "wof:name": "AS2024 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

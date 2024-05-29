@@ -74,10 +74,13 @@
       1159157661,
       1159284261
     ],
-    "wof:lastmodified": 1651513333,
+    "wof:lastmodified": 1717006120,
     "wof:name": "VS4102 (SFO-LAX)",
     "wof:parent_id": 1159157661,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

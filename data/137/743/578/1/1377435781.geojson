@@ -79,10 +79,13 @@
       1159157697,
       1159285413
     ],
-    "wof:lastmodified": 1651513370,
+    "wof:lastmodified": 1717006120,
     "wof:name": "AC5421 (SFO-LAS)",
     "wof:parent_id": 1159157697,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

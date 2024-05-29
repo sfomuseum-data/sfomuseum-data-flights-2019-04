@@ -70,10 +70,13 @@
       1159285591,
       1159157813
     ],
-    "wof:lastmodified": 1651513332,
+    "wof:lastmodified": 1717006118,
     "wof:name": "WN1130 (LAX-SFO)",
     "wof:parent_id": 1159157813,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

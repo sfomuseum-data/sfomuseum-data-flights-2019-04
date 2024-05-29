@@ -75,10 +75,13 @@
       1159285413,
       1159157739
     ],
-    "wof:lastmodified": 1651513377,
+    "wof:lastmodified": 1717006124,
     "wof:name": "UA5802 (SFO-TUS)",
     "wof:parent_id": 1159157739,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

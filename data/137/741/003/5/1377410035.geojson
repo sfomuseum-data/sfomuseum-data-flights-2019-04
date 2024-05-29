@@ -75,10 +75,13 @@
       1159283717,
       1159283813
     ],
-    "wof:lastmodified": 1653091981,
+    "wof:lastmodified": 1717006116,
     "wof:name": "FJ5863 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

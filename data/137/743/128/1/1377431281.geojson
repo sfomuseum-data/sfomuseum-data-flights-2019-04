@@ -75,10 +75,13 @@
       1159286485,
       1159157667
     ],
-    "wof:lastmodified": 1651513362,
+    "wof:lastmodified": 1717006117,
     "wof:name": "4O8820 (GDL-SFO)",
     "wof:parent_id": 1159157667,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

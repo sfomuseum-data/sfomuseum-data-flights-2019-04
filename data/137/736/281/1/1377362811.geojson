@@ -70,10 +70,13 @@
       1159283849,
       1159157797
     ],
-    "wof:lastmodified": 1651513348,
+    "wof:lastmodified": 1717006118,
     "wof:name": "AA2821 (SFO-PHL)",
     "wof:parent_id": 1159157797,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

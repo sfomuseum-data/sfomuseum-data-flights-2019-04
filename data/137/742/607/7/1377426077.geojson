@@ -75,10 +75,13 @@
       1159285483,
       1159157717
     ],
-    "wof:lastmodified": 1651513363,
+    "wof:lastmodified": 1717006119,
     "wof:name": "VS19 (LHR-SFO)",
     "wof:parent_id": 1159157717,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

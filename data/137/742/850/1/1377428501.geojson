@@ -75,10 +75,13 @@
       1360700745,
       1159157607
     ],
-    "wof:lastmodified": 1651513367,
+    "wof:lastmodified": 1717006120,
     "wof:name": "B61235 (SFO-LGB)",
     "wof:parent_id": 1159157607,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

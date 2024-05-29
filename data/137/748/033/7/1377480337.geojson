@@ -79,10 +79,13 @@
       1159157753,
       1159284261
     ],
-    "wof:lastmodified": 1651513375,
+    "wof:lastmodified": 1717006123,
     "wof:name": "CZ1259 (SEA-SFO)",
     "wof:parent_id": 1159157753,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

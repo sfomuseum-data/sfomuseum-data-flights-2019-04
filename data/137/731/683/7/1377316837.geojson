@@ -70,10 +70,13 @@
       1159284613,
       1159157635
     ],
-    "wof:lastmodified": 1651513336,
+    "wof:lastmodified": 1717006120,
     "wof:name": "KL608 (SFO-AMS)",
     "wof:parent_id": 1159157635,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],
